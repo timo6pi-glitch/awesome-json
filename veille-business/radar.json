@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T00:00:00Z",
+  "updatedAt": "2026-09-17T09:50:26Z",
   "sourceFamilies": [
     "revenus-et-acquisitions",
     "app-stores-et-avis",
@@ -11,6 +11,54 @@
     "changements-plateformes",
     "reglementation-et-donnees-publiques"
   ],
-  "signals": [],
-  "rejected": []
+  "signals": [
+    {
+      "id": "reddit-1tmls5k-payroll-multilocation-complexity",
+      "firstSeenAt": "2026-09-17T09:50:26Z",
+      "lastSeenAt": "2026-09-17T09:50:26Z",
+      "region": "États-Unis",
+      "language": "anglais",
+      "sourceFamily": "communautes-us",
+      "title": "La paie devient difficile à maintenir lorsque salariés et sites se multiplient",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1tmls5k/what_payroll_software_did_you_choose_im_getting/",
+      "sourceName": "Reddit r/smallbusiness",
+      "observedFact": "Un dirigeant de petite entreprise dit avoir essayé plusieurs logiciels de paie et devoir effectuer des vérifications et relances à chaque cycle lorsque les effectifs et sites augmentent. Un autre participant cite conformité multi-États, saisies sur salaire, avantages et systèmes déconnectés comme sources de complexité.",
+      "evidenceType": "PAIN",
+      "freshness": "Fil publié il y a environ 4 mois, page consultée le 2026-09-17 ; commentaire plus récent visible à 18 jours.",
+      "buyerHypothesis": "Petites entreprises américaines multi-sites ou multi-États déjà équipées d’un logiciel de paie",
+      "softwareHypothesis": "Couche légère de contrôle pré-paie et de suivi des changements entre systèmes, sans remplacer le moteur de paie",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "reddit-1qqtcl8-restaurant-schedule-payroll-handoff",
+      "firstSeenAt": "2026-09-17T09:50:26Z",
+      "lastSeenAt": "2026-09-17T09:50:26Z",
+      "region": "États-Unis et France",
+      "language": "anglais",
+      "sourceFamily": "communautes-us",
+      "title": "Le passage planning-vers-paie reste manuel dans de petits restaurants",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1qqtcl8/any_small_restaurant_owners_using_a_hasslefree/",
+      "sourceName": "Reddit r/smallbusiness",
+      "observedFact": "Un restaurateur déclare consacrer trois heures par semaine au planning et avoir presque omis des heures de paie. Plusieurs réponses décrivent comme pénibles les conflits de congés et le nettoyage des exports vers la paie ; un commentaire français récent indique que l’intégration directe avec la paie a supprimé ces oublis.",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Fil publié il y a environ 8 mois, avec des commentaires visibles datant d’un mois et de 25 jours ; page consultée le 2026-09-17.",
+      "buyerHypothesis": "Petits restaurants dont le planning, les échanges de shifts et la paie utilisent encore plusieurs outils",
+      "softwareHypothesis": "Contrôle et rapprochement ciblé du passage planning-vers-paie pour les outils déjà utilisés",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    }
+  ],
+  "rejected": [
+    {
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1tcaizi/how_do_you_all_handle_invoicing_im_embarrassed_by/",
+      "reason": "Le message décrit 3 à 4 heures hebdomadaires d’invoicing manuel, mais un commentaire relie l’auteur à un produit qu’il construisait déjà ; risque élevé de recherche marketing déguisée et solutions gratuites citées.",
+      "rejectedAt": "2026-09-17T09:50:26Z"
+    },
+    {
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1tawucm/if_your_monthly_software_bill_is_over_1500_youre/",
+      "reason": "Contenu publié par un prestataire de logiciels sur ses propres audits ; chiffres non vérifiés indépendamment et intention commerciale explicite, donc pas retenu comme preuve acheteur.",
+      "rejectedAt": "2026-09-17T09:50:26Z"
+    }
+  ]
 }
