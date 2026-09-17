@@ -1,0 +1,50 @@
+name: Radar business indépendant
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'veille-business/scripts/radar.mjs'
+      - '.github/workflows/radar-independent.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-business-independent
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          path: code
+      - name: Checkout public feed
+        uses: actions/checkout@v4
+        with:
+          ref: veille-business-feed
+          path: data
+      - name: Collect and rank public signals
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          RADAR_DATA_DIR: data/veille-business
+        run: node code/veille-business/scripts/radar.mjs
+      - name: Persist only changed reports
+        working-directory: data
+        run: |
+          git config user.name "galaxy-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add veille-business/radar.json veille-business/latest.json
+          if git diff --cached --quiet; then
+            echo "No admissible new signal."
+            exit 0
+          fi
+          git commit -m "Update independent business radar"
+          git push origin HEAD:veille-business-feed
