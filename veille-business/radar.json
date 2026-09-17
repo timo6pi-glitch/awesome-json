@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T10:06:07.494Z",
+  "updatedAt": "2026-09-17T15:04:37.979Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,78 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "08e315dc92ba371b3c",
+      "firstSeenAt": "2026-09-17T15:04:37.979Z",
+      "lastSeenAt": "2026-09-17T15:04:37.979Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "communautes-us",
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://news.ycombinator.com/item?id=49741176",
+      "sourceName": "Hacker News",
+      "observedFact": "The American Religion of Self-Storage Facilities I often think about this while watching Hoarders, and this is hitting similar neurons so if you&#x27;ll forgive the off-topic-ish nature... I think more than anything this is the ooze you get out of the sides of societies that focus so terribly much on consumer culture. Advertising nowadays is absolutely incredible at driving the creation of what feels like &quot;needs",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "0f1089d80033cafb48",
+      "firstSeenAt": "2026-09-17T15:04:37.979Z",
+      "lastSeenAt": "2026-09-17T15:04:37.979Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "communautes-us",
+      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+      "url": "https://news.ycombinator.com/item?id=49741156",
+      "sourceName": "Hacker News",
+      "observedFact": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator The original startup simulator used cropped images of real people, and I could see in the git history where people had asked to have their photos removed, so for the remake I decided to use AI for the headshots. Each was generated with the grok-imagine-image-quality model. The prompt for each person had sixteen different attributes (gender, age,",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "566565bf8388a29c24",
+      "firstSeenAt": "2026-09-17T15:04:37.979Z",
+      "lastSeenAt": "2026-09-17T15:04:37.979Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "communautes-us",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://news.ycombinator.com/item?id=49741015",
+      "sourceName": "Hacker News",
+      "observedFact": "Why I'm still bearish on LLMs after Navier-Stokes I feel weirdly stuck on both sides of this. I haven&#x27;t been in a full-time &quot;code writing&quot; roles for years, so my own personal usage of LLMs for anything is roughly nil right now, just because I continue to be able to get done all tasks I wanted to get done in the time I have using tools and techniques I already had available, and have seen little need to",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "c4bba0c9ae848b50a9",
+      "firstSeenAt": "2026-09-17T15:04:37.979Z",
+      "lastSeenAt": "2026-09-17T15:04:37.979Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "communautes-us",
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "url": "https://news.ycombinator.com/item?id=49740243",
+      "sourceName": "Hacker News",
+      "observedFact": "Japan's book scene is moving from bookstores to libraries I see libraries throwing out large amounts of books, and then chasing non-book things that became laughably obsolete in a few years, such as: - audio books on little devices to plug headphones into, which have cheap rechargeable batteries that seem to be mostly dead - collections of children’s toys in a toy room that after a few years are missing most of their",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "6efd2dccaaba8dcb73",
       "firstSeenAt": "2026-09-17T10:06:07.494Z",
@@ -260,10 +332,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-17T10:06:07.494Z",
-    "family": "changements-plateformes",
-    "region": "Monde",
-    "newSignals": 11,
+    "at": "2026-09-17T15:04:37.979Z",
+    "family": "communautes-us",
+    "region": "États-Unis / monde",
+    "newSignals": 4,
     "collectionError": null
   }
 }
