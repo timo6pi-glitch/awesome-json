@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-17T00:00:00Z",
+  "sourceFamilies": [
+    "revenus-et-acquisitions",
+    "app-stores-et-avis",
+    "github-et-demandes-fonctionnelles",
+    "communautes-us",
+    "communautes-europe",
+    "communautes-chine-asie",
+    "changements-plateformes",
+    "reglementation-et-donnees-publiques"
+  ],
+  "signals": [],
+  "rejected": []
+}
