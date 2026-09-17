@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#07120f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Veille">
+  <title>Veille Business</title>
+  <meta name="description" content="Rapports quotidiens d’opportunités logicielles pour Timothée.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">GALAXY · VEILLE BUSINESS</div>
+      <h1>Opportunités</h1>
+    </div>
+    <button class="icon-button" id="openImport" aria-label="Importer un nouveau rapport">＋</button>
+  </header>
+
+  <main>
+    <section class="status-strip" aria-label="État du rapport">
+      <span class="pulse" aria-hidden="true"></span>
+      <span id="freshness">Synchronisation…</span>
+      <span class="dot">·</span>
+      <time id="reportDate"></time>
+    </section>
+
+    <section class="decision card">
+      <div class="section-label">DÉCISION DU JOUR</div>
+      <div class="decision-row">
+        <span class="decision-badge" id="decisionBadge">RECHERCHER</span>
+        <span class="confidence" id="candidateCount"></span>
+      </div>
+      <h2 id="headline">Chargement…</h2>
+      <p id="summary"></p>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>Candidats</h2>
+        <span id="candidateTotal">0 / 3</span>
+      </div>
+      <div id="candidateList" class="stack"></div>
+    </section>
+
+    <section class="card coverage">
+      <div class="section-label">COUVERTURE RÉELLE</div>
+      <p id="coverageText"></p>
+      <div id="coverageTags" class="tags"></div>
+      <details>
+        <summary>Pistes écartées</summary>
+        <div id="excludedList" class="excluded-list"></div>
+      </details>
+    </section>
+
+    <section class="history-section">
+      <div class="section-head">
+        <h2>Historique sur ce téléphone</h2>
+        <button class="text-button" id="clearHistory">Effacer</button>
+      </div>
+      <div id="historyList" class="history-list"></div>
+    </section>
+  </main>
+
+  <dialog id="importDialog">
+    <form method="dialog" class="sheet">
+      <div class="sheet-handle"></div>
+      <div class="sheet-head">
+        <div>
+          <div class="section-label">NOUVEAU RAPPORT</div>
+          <h2>Importer la veille</h2>
+        </div>
+        <button class="icon-button close" value="cancel" aria-label="Fermer">×</button>
+      </div>
+      <p class="help">La veille arrive automatiquement. Utilise cet import seulement si la synchronisation échoue.</p>
+      <textarea id="reportInput" rows="11" placeholder='{ "date": "2026-09-18", ... }'></textarea>
+      <div class="error" id="importError" role="alert"></div>
+      <button type="button" class="primary" id="importReport">Enregistrer le rapport</button>
+      <button type="button" class="secondary" id="copyPrompt">Copier le prompt de secours</button>
+    </form>
+  </dialog>
+
+  <dialog id="detailDialog">
+    <form method="dialog" class="sheet detail-sheet">
+      <div class="sheet-handle"></div>
+      <button class="icon-button close detail-close" value="cancel" aria-label="Fermer">×</button>
+      <div id="detailContent"></div>
+    </form>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js"></script>
+</body>
+</html>
