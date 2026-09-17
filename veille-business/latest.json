@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "date": "2026-09-17",
+  "decision": "RECHERCHER",
+  "headline": "Vérifier les fichiers graphiques avant fabrication",
+  "summary": "Une douleur technique est documentée et un produit voisin affiche des revenus vérifiés. La fréquence du problème et la volonté de payer restent à établir avant de construire.",
+  "candidates": [
+    {
+      "name": "Contrôle de fichiers pour découpe laser",
+      "verdict": "RECHERCHER",
+      "buyer": "Petits ateliers de découpe laser et vendeurs de fichiers SVG",
+      "problem": "Des masques, formes superposées ou doublons peuvent créer des tracés supplémentaires et des doubles découpes.",
+      "evidence": "LightBurn documente les formes supplémentaires à l’import et le nettoyage manuel. VectoSolve affiche 3 206 $ de revenu sur 30 jours, 1 707 $ de MRR et 239 abonnements actifs, avec une vérification Stripe datée du 17 septembre 2026.",
+      "payment": "Revenus observés chez VectoSolve, produit voisin. Aucun paiement observé pour notre concept.",
+      "competition": "LightBurn supprime déjà certains doublons et VectoSolve convertit déjà les fichiers. Un simple convertisseur serait insuffisant.",
+      "improvement": "Audit par lots et comparaison visuelle entre dessin affiché et chemins réellement exportés.",
+      "counterproof": "La correction géométrique fiable et la validation sur machines sont difficiles ; la récurrence d’achat est inconnue.",
+      "channel": "Démonstrations avant/après sur des fichiers autorisés dans les communautés de fabrication. Conversion non démontrée.",
+      "feasibility": "Prototype SVG local possible sans API payante. Coûts d’exploitation et validation matérielle inconnus.",
+      "test": "Comparer dix fichiers problématiques autorisés aux fonctions natives et mesurer détection, faux positifs et temps de correction.",
+      "sources": [
+        {
+          "label": "Documentation LightBurn",
+          "url": "https://docs.lightburnsoftware.com/latest/Troubleshooting/ImportedExtraLines/"
+        },
+        {
+          "label": "Revenus VectoSolve",
+          "url": "https://trustmrr.com/startup/vectosolve"
+        }
+      ]
+    },
+    {
+      "name": "Contrôle des secrets pour agents IA",
+      "verdict": "RECHERCHER",
+      "buyer": "Petites équipes techniques utilisant plusieurs agents de code",
+      "problem": "Les agents et IDE doivent accéder à des secrets sans ouvrir toutes les données sensibles de la machine.",
+      "evidence": "Floria a été présenté le 17 septembre sur V2EX avec autorisations par application et confirmation Touch ID.",
+      "payment": "Aucun paiement ni volonté de payer observés.",
+      "competition": "Floria est déjà disponible en open source.",
+      "improvement": "Administration d’équipe et prise en charge d’autres systèmes, hypothèse non validée.",
+      "counterproof": "Sécurité, confiance, support système et audits rendent ce produit difficile à exploiter seul.",
+      "channel": "Démonstrations techniques et intégrations développeurs ; acquisition non démontrée.",
+      "feasibility": "Recherche technique accessible, produit complet trop ambitieux comme premier business.",
+      "test": "Chercher des besoins d’équipe explicitement non couverts avant tout développement.",
+      "sources": [
+        {
+          "label": "Présentation V2EX",
+          "url": "https://www.v2ex.com/t/1242599"
+        },
+        {
+          "label": "Dépôt Floria",
+          "url": "https://github.com/ratazzi/floria"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Import de catalogues PDF vers Shopify",
+      "reason": "Importier couvre déjà extraction, variantes, validation et retour arrière ; avantage précis non trouvé."
+    },
+    {
+      "name": "Conversion de relevés bancaires",
+      "reason": "CapyParse affiche déjà des abonnements et plusieurs exports ; différenciation insuffisante."
+    },
+    {
+      "name": "Versions locales de fichiers",
+      "reason": "LumeTrace couvre déjà l’idée en open source, sans preuve de paiement."
+    }
+  ],
+  "coverage": {
+    "text": "12 recherches et 20 ouvertures de pages, échecs inclus. Sources anglophones, produit français et communauté sinophone consultés. Aucun marché chinois validé.",
+    "tags": [
+      "États-Unis / anglais",
+      "Europe / français",
+      "Communauté sinophone",
+      "Web public"
+    ]
+  }
+}
