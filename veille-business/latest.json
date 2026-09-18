@@ -1,80 +1,78 @@
 {
-  "version": 1,
-  "date": "2026-09-17",
+  "version": 2,
+  "date": "2026-09-18",
   "decision": "RECHERCHER",
-  "headline": "Vérifier les fichiers graphiques avant fabrication",
-  "summary": "Une douleur technique est documentée et un produit voisin affiche des revenus vérifiés. La fréquence du problème et la volonté de payer restent à établir avant de construire.",
+  "headline": "Signaux logiciels à examiner",
+  "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Contrôle de fichiers pour découpe laser",
+      "name": "Subscription Calendar Events are not returned by REPORT dav request",
       "verdict": "RECHERCHER",
-      "buyer": "Petits ateliers de découpe laser et vendeurs de fichiers SVG",
-      "problem": "Des masques, formes superposées ou doublons peuvent créer des tracés supplémentaires et des doubles découpes.",
-      "evidence": "LightBurn documente les formes supplémentaires à l’import et le nettoyage manuel. VectoSolve affiche 3 206 $ de revenu sur 30 jours, 1 707 $ de MRR et 239 abonnements actifs, avec une vérification Stripe datée du 17 septembre 2026.",
-      "payment": "Revenus observés chez VectoSolve, produit voisin. Aucun paiement observé pour notre concept.",
-      "competition": "LightBurn supprime déjà certains doublons et VectoSolve convertit déjà les fichiers. Un simple convertisseur serait insuffisant.",
-      "improvement": "Audit par lots et comparaison visuelle entre dessin affiché et chemins réellement exportés.",
-      "counterproof": "La correction géométrique fiable et la validation sur machines sont difficiles ; la récurrence d’achat est inconnue.",
-      "channel": "Démonstrations avant/après sur des fichiers autorisés dans les communautés de fabrication. Conversion non démontrée.",
-      "feasibility": "Prototype SVG local possible sans API payante. Coûts d’exploitation et validation matérielle inconnus.",
-      "test": "Comparer dix fichiers problématiques autorisés aux fonctions natives et mesurer détection, faux positifs et temps de correction.",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
+      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-09-18.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Documentation LightBurn",
-          "url": "https://docs.lightburnsoftware.com/latest/Troubleshooting/ImportedExtraLines/"
-        },
-        {
-          "label": "Revenus VectoSolve",
-          "url": "https://trustmrr.com/startup/vectosolve"
+          "label": "GitHub nextcloud/server",
+          "url": "https://github.com/nextcloud/server/issues/42143"
         }
       ]
     },
     {
-      "name": "Contrôle des secrets pour agents IA",
+      "name": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
       "verdict": "RECHERCHER",
-      "buyer": "Petites équipes techniques utilisant plusieurs agents de code",
-      "problem": "Les agents et IDE doivent accéder à des secrets sans ouvrir toutes les données sensibles de la machine.",
-      "evidence": "Floria a été présenté le 17 septembre sur V2EX avec autorisations par application et confirmation Touch ID.",
-      "payment": "Aucun paiement ni volonté de payer observés.",
-      "competition": "Floria est déjà disponible en open source.",
-      "improvement": "Administration d’équipe et prise en charge d’autres systèmes, hypothèse non validée.",
-      "counterproof": "Sécurité, confiance, support système et audits rendent ce produit difficile à exploiter seul.",
-      "channel": "Démonstrations techniques et intégrations développeurs ; acquisition non démontrée.",
-      "feasibility": "Recherche technique accessible, produit complet trop ambitieux comme premier business.",
-      "test": "Chercher des besoins d’équipe explicitement non couverts avant tout développement.",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001) &gt; Software is centralized and subscription based, and largely not under the consumer&#x27;s control. Is it really though? I&#x27;ll grant that you might have a point with iOS&#x2F;Android and things like banking apps (no problem with the apps existing, it&#x27;s when there&#x27;s no web-based alternative is where the real issue lies). But there&#x27;s",
+      "evidence": "Hacker News — Publié le 2026-09-17 ; collecté le 2026-09-18.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Présentation V2EX",
-          "url": "https://www.v2ex.com/t/1242599"
-        },
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49746311"
+        }
+      ]
+    },
+    {
+      "name": "Ask HN: Where is all of the AI coded software?",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Ask HN: Where is all of the AI coded software? I think the real question you&#x27;re asking is: why isn&#x27;t AI coded software replacing well-known incumbent software (office, adobe, etc...) Because I see AI coded software everywhere: HN has been complaining about the recent influx of Show HNs due to AI. Take a specific product category: there are about two new dictation apps on Show HN every week. Here are my theo",
+      "evidence": "Hacker News — Publié le 2026-09-16 ; collecté le 2026-09-18.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
         {
-          "label": "Dépôt Floria",
-          "url": "https://github.com/ratazzi/floria"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49729128"
         }
       ]
     }
   ],
-  "excluded": [
-    {
-      "name": "Import de catalogues PDF vers Shopify",
-      "reason": "Importier couvre déjà extraction, variantes, validation et retour arrière ; avantage précis non trouvé."
-    },
-    {
-      "name": "Conversion de relevés bancaires",
-      "reason": "CapyParse affiche déjà des abonnements et plusieurs exports ; différenciation insuffisante."
-    },
-    {
-      "name": "Versions locales de fichiers",
-      "reason": "LumeTrace couvre déjà l’idée en open source, sans preuve de paiement."
-    }
-  ],
+  "excluded": [],
   "coverage": {
-    "text": "12 recherches et 20 ouvertures de pages, échecs inclus. Sources anglophones, produit français et communauté sinophone consultés. Aucun marché chinois validé.",
+    "text": "Collecte automatique logiciels-open-source-et-lacunes. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
-      "États-Unis / anglais",
-      "Europe / français",
-      "Communauté sinophone",
-      "Web public"
+      "Web public gratuit",
+      "logiciels-open-source-et-lacunes",
+      "Sans ChatGPT"
     ]
   }
 }
