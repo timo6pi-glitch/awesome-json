@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T06:01:12.722Z",
+  "updatedAt": "2026-09-19T14:29:31.350Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "64f5f73fb4f4642b02",
+      "firstSeenAt": "2026-09-19T14:29:31.350Z",
+      "lastSeenAt": "2026-09-19T14:29:31.350Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Make migration policy track release history per changed data contract",
+      "url": "https://github.com/david-rzepa/zzzops/issues/465",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Make migration policy track release history per changed data contract ## Outcome Use affected-contract release evidence without invalidating standing migration policy. ## Acceptance criteria - A first or subsequent release changes release evidence, not approval of unchanged migration policy. Remove the first-release re-review gate. - The standing rule checks whether the affected persistent state, API, or contract shi",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "8998c46905974fcc9c",
       "firstSeenAt": "2026-09-19T06:01:12.722Z",
@@ -1610,7 +1628,7 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-19T06:01:12.722Z",
+    "at": "2026-09-19T14:29:31.350Z",
     "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
     "newSignals": 1,
