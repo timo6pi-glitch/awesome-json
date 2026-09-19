@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T01:15:12.891Z",
+  "updatedAt": "2026-09-19T06:01:12.722Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "8998c46905974fcc9c",
+      "firstSeenAt": "2026-09-19T06:01:12.722Z",
+      "lastSeenAt": "2026-09-19T06:01:12.722Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Compiler/tooling: editable multi-level kernel authoring and replayable schedules",
+      "url": "https://github.com/harsh-nod/fe2o3/issues/282",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Compiler/tooling: editable multi-level kernel authoring and replayable schedules ## Goal Let kernel authors start with ordinary Rust, inspect successive supported lowering levels, take explicit ownership of a selected region, edit that region as typed Rust device/ISA operations, and continue through the normal checked compilation pipeline. Authors should also be able to retain replayable schedule choices without main",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "9ef7ae21b0982493e1",
       "firstSeenAt": "2026-09-19T01:15:12.891Z",
@@ -1592,10 +1610,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-19T01:15:12.891Z",
-    "family": "nouveaux-usages-developpeurs",
+    "at": "2026-09-19T06:01:12.722Z",
+    "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 5,
+    "newSignals": 1,
     "collectionError": null
   }
 }

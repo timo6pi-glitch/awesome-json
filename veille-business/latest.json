@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Git Bisect for Your Data",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Git Bisect for Your Data Somebody notices the revenue number is wrong. Not catastrophically wrong, which would have been...",
+      "evidence": "DEV Community — Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "DEV Community",
+          "url": "https://dev.to/devopsdaily/git-bisect-for-your-data-12dd"
+        }
+      ]
+    },
+    {
+      "name": "Calendar and Contacts Trashbin",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
+      "evidence": "GitHub nextcloud/server — Publié le 2016-10-07 ; collecté le 2026-09-18.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub nextcloud/server",
+          "url": "https://github.com/nextcloud/server/issues/1662"
+        }
+      ]
+    },
     {
       "name": "Subscription Calendar Events are not returned by REPORT dav request",
       "verdict": "RECHERCHER",
@@ -24,54 +64,14 @@
           "url": "https://github.com/nextcloud/server/issues/42143"
         }
       ]
-    },
-    {
-      "name": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001) &gt; Software is centralized and subscription based, and largely not under the consumer&#x27;s control. Is it really though? I&#x27;ll grant that you might have a point with iOS&#x2F;Android and things like banking apps (no problem with the apps existing, it&#x27;s when there&#x27;s no web-based alternative is where the real issue lies). But there&#x27;s",
-      "evidence": "Hacker News — Publié le 2026-09-17 ; collecté le 2026-09-18.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49746311"
-        }
-      ]
-    },
-    {
-      "name": "Ask HN: Where is all of the AI coded software?",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: Where is all of the AI coded software? I think the real question you&#x27;re asking is: why isn&#x27;t AI coded software replacing well-known incumbent software (office, adobe, etc...) Because I see AI coded software everywhere: HN has been complaining about the recent influx of Show HNs due to AI. Take a specific product category: there are about two new dictation apps on Show HN every week. Here are my theo",
-      "evidence": "Hacker News — Publié le 2026-09-16 ; collecté le 2026-09-18.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49729128"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique logiciels-open-source-et-lacunes. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 1 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "logiciels-open-source-et-lacunes",
+      "github-et-demandes-fonctionnelles",
       "Sans ChatGPT"
     ]
   }
