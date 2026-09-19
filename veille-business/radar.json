@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T22:38:20.571Z",
+  "updatedAt": "2026-09-19T01:15:12.891Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,96 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "9ef7ae21b0982493e1",
+      "firstSeenAt": "2026-09-19T01:15:12.891Z",
+      "lastSeenAt": "2026-09-19T01:15:12.891Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?",
+      "url": "https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7",
+      "sourceName": "DEV Community",
+      "observedFact": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions? On Tuesday you told the assistant that the migration script must never touch the staging database. It...",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-15 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "4a2cb99952fa3242e9",
+      "firstSeenAt": "2026-09-19T01:15:12.891Z",
+      "lastSeenAt": "2026-09-19T01:15:12.891Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Git Bisect for Your Data",
+      "url": "https://dev.to/devopsdaily/git-bisect-for-your-data-12dd",
+      "sourceName": "DEV Community",
+      "observedFact": "Git Bisect for Your Data Somebody notices the revenue number is wrong. Not catastrophically wrong, which would have been...",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "b7a3c79319077fd06a",
+      "firstSeenAt": "2026-09-19T01:15:12.891Z",
+      "lastSeenAt": "2026-09-19T01:15:12.891Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "sourceName": "DEV Community",
+      "observedFact": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong th",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "983c1fc40527fc1b06",
+      "firstSeenAt": "2026-09-19T01:15:12.891Z",
+      "lastSeenAt": "2026-09-19T01:15:12.891Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "sourceName": "DEV Community",
+      "observedFact": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "b8e45466097aabc410",
+      "firstSeenAt": "2026-09-19T01:15:12.891Z",
+      "lastSeenAt": "2026-09-19T01:15:12.891Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
+      "url": "https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m",
+      "sourceName": "DEV Community",
+      "observedFact": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught I wasn't looking for a performance problem. I wanted to see what happened when the network got slow...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-15 ; collecté le 2026-09-19.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "96792cf97f066a39a7",
       "firstSeenAt": "2026-09-18T22:38:20.571Z",
@@ -1502,10 +1592,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-18T22:38:20.571Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-09-19T01:15:12.891Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 12,
+    "newSignals": 5,
     "collectionError": null
   }
 }
