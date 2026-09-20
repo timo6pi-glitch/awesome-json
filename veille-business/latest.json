@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Git Bisect for Your Data",
+      "name": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Git Bisect for Your Data Somebody notices the revenue number is wrong. Not catastrophically wrong, which would have been...",
-      "evidence": "DEV Community — Publié le 2026-09-17 ; collecté le 2026-09-19.",
+      "problem": "Warez: The Infrastructure and Aesthetics of Piracy (2021) &gt; Both are about preventing harm in many different forms. Software famously has effects in the physical world, that&#x27;s the reason why a lot of it exists, and why people get paid that deal with software because it makes their brains feel good. Yes, it would suck if the hospital got hacked while I underwent a surgery for example, and the ventilator stoppe",
+      "evidence": "Hacker News — Publié le 2026-09-19 ; collecté le 2026-09-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "DEV Community",
-          "url": "https://dev.to/devopsdaily/git-bisect-for-your-data-12dd"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49769910"
         }
       ]
     },
     {
-      "name": "Calendar and Contacts Trashbin",
+      "name": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
-      "evidence": "GitHub nextcloud/server — Publié le 2016-10-07 ; collecté le 2026-09-18.",
+      "problem": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP I vividly remember my father coming home from Borders Books &amp; Music one fateful day in 1998 with a boxed copy of Red Hat Linux 5.1. (This was the distro that eventually became Fedora, not RHEL). It was the first Linux distro I’d ever used, but my dad also had some older SuSE and Slackware CDs and floppies in his archives as well. I’m ",
+      "evidence": "Hacker News — Publié le 2026-09-19 ; collecté le 2026-09-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -40,17 +40,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/1662"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49769630"
         }
       ]
     },
     {
-      "name": "Subscription Calendar Events are not returned by REPORT dav request",
+      "name": "Poster Prompts One hundred design styles as copy-paste prompts",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
-      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-09-18.",
+      "problem": "Poster Prompts One hundred design styles as copy-paste prompts Thanks for sharing this @Bluestein - this is my site. I&#x27;m aware of many of the flaws in these examples, but they&#x27;re one shots and a serious user should refine and iterate. The main common flaw is that almost all the posters are too busy. As well as wanting to fill space with detail, the AI is eager to represent every word in the prompt. So if it",
+      "evidence": "Hacker News — Publié le 2026-09-19 ; collecté le 2026-09-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,15 +60,15 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/42143"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49769545"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 1 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 7 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "github-et-demandes-fonctionnelles",
