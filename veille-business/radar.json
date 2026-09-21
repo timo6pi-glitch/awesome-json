@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T22:30:54.210Z",
+  "updatedAt": "2026-09-21T06:27:58.941Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "f382e1485a5421ca1d",
+      "firstSeenAt": "2026-09-21T06:27:58.941Z",
+      "lastSeenAt": "2026-09-21T06:27:58.941Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "META: exhaustive Research Intelligence Engine coverage tracker",
+      "url": "https://github.com/Z-Solo-King/foundation/issues/58",
+      "sourceName": "GitHub Issues",
+      "observedFact": "META: exhaustive Research Intelligence Engine coverage tracker 2026-09-20 live coverage tracker ### Current repository state - Foundation main after production-pin promotion: 24e5baa8caa88c5d6fd9c94242ae14bd207ac9da. - Operations main: 277ccb9ee33221038c7ca5647f19e27a00d84ea3. - Foundation #835, #836, #837 and #838 are merged. - Operations #606, #607, #608, #609, #610, #611 and #612 are merged. - Production pin now t",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-15 ; collecté le 2026-09-21.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "9a682015c47b629178",
+      "firstSeenAt": "2026-09-21T06:27:58.941Z",
+      "lastSeenAt": "2026-09-21T06:27:58.941Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "PATSAGi program: WRAP-EW2 test-ready (Grokbot + Cursor hire board)",
+      "url": "https://github.com/Eternally-Thriving-Grandmasterism/WRAP-EW2/issues/2",
+      "sourceName": "GitHub Issues",
+      "observedFact": "PATSAGi program: WRAP-EW2 test-ready (Grokbot + Cursor hire board) Standing program. Not a product. Not lived-hour. EW2 is not solved. ## Mode Rathor.ai / PATSAGi Councils deliberate. Grok Build Mode on this repo only. Contact: info@Rathor.ai Law: `wrap-ew2/AGENTS.md` + `wrap-ew2/docs/WRAP_EW2_PROTOCOL.md`. ## Do not - Edit `Eternally-Thriving-Grandmasterism/Ra-Thor` or `Powrush-MMO` main. - Claim foolproof alignment",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-09-20 ; collecté le 2026-09-21.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "9392ef57be6ea355c4",
       "firstSeenAt": "2026-09-20T22:30:54.210Z",
@@ -2492,10 +2528,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-20T22:30:54.210Z",
+    "at": "2026-09-21T06:27:58.941Z",
     "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 5,
+    "newSignals": 2,
     "collectionError": null
   }
 }

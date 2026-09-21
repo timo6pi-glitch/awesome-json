@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "No country for mediocre mathematicians",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "No country for mediocre mathematicians Sure! I was building a workflow that assesses human gene model accuracy. Which part is supported by what evidence? Important for drug development; if we want to change $THING it better exist in the first place. I came up with a set of rules, collated external databases, and then slowly (Claude-code assisted) built a Nextflow pipeline that gives me an automated report, which I th",
+      "evidence": "Hacker News — Publié le 2026-09-02 ; collecté le 2026-09-20.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49530121"
+        }
+      ]
+    },
+    {
+      "name": "Ask HN: Who wants to be hired? (September 2026)",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Ask HN: Who wants to be hired? (September 2026) Location: Lisbon, Portugal (GMT+0&#x2F;+1) Remote: Yes Willing to relocate: Willing to travel 2 weeks&#x2F;mo on-site globally Technologies: Typescript, React, TanStack Start, Next.js, PostgreSQL, pgvector, Redis, Docker, Drizzle ORM, Zod, Zustand, TanStack Query, Tailwind CSS, Plasmo, Vite, Astro, Expo, AI SDK, Python, TensorFlow, scikit-learn, Pandas, Deck.gl, AWS, GC",
+      "evidence": "Hacker News — Publié le 2026-09-01 ; collecté le 2026-09-20.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49529160"
+        }
+      ]
+    },
     {
       "name": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
       "verdict": "RECHERCHER",
@@ -24,51 +64,11 @@
           "url": "https://news.ycombinator.com/item?id=49769910"
         }
       ]
-    },
-    {
-      "name": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP I vividly remember my father coming home from Borders Books &amp; Music one fateful day in 1998 with a boxed copy of Red Hat Linux 5.1. (This was the distro that eventually became Fedora, not RHEL). It was the first Linux distro I’d ever used, but my dad also had some older SuSE and Slackware CDs and floppies in his archives as well. I’m ",
-      "evidence": "Hacker News — Publié le 2026-09-19 ; collecté le 2026-09-20.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49769630"
-        }
-      ]
-    },
-    {
-      "name": "Poster Prompts One hundred design styles as copy-paste prompts",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Poster Prompts One hundred design styles as copy-paste prompts Thanks for sharing this @Bluestein - this is my site. I&#x27;m aware of many of the flaws in these examples, but they&#x27;re one shots and a serious user should refine and iterate. The main common flaw is that almost all the posters are too busy. As well as wanting to fill space with detail, the AI is eager to represent every word in the prompt. So if it",
-      "evidence": "Hacker News — Publié le 2026-09-19 ; collecté le 2026-09-20.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49769545"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 7 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 2 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "github-et-demandes-fonctionnelles",
