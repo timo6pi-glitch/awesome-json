@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T06:27:58.941Z",
+  "updatedAt": "2026-09-21T14:17:08.246Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "feb25c1ed065f0929e",
+      "firstSeenAt": "2026-09-21T14:17:08.246Z",
+      "lastSeenAt": "2026-09-21T14:17:08.246Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Make request types the canonical GMP input model",
+      "url": "https://github.com/greenbone-hive/rust-gvm/issues/602",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Make request types the canonical GMP input model ## Problem Typed execution currently layers semantic request structs over existing `Opts` structs and free command builders. For many operations this duplicates input models and construction APIs: callers supply required arguments separately, wrap options in a request, and the request delegates encoding back to the builder. Make the complete request the canonical input",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-15 ; collecté le 2026-09-21.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "f382e1485a5421ca1d",
       "firstSeenAt": "2026-09-21T06:27:58.941Z",
@@ -2528,10 +2546,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-21T06:27:58.941Z",
+    "at": "2026-09-21T14:17:08.246Z",
     "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 2,
+    "newSignals": 1,
     "collectionError": null
   }
 }
