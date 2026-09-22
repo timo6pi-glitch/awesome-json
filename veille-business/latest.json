@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "No country for mediocre mathematicians",
+      "name": "AI and the Destruction of the Creative Commons",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "No country for mediocre mathematicians Sure! I was building a workflow that assesses human gene model accuracy. Which part is supported by what evidence? Important for drug development; if we want to change $THING it better exist in the first place. I came up with a set of rules, collated external databases, and then slowly (Claude-code assisted) built a Nextflow pipeline that gives me an automated report, which I th",
-      "evidence": "Hacker News — Publié le 2026-09-02 ; collecté le 2026-09-20.",
+      "problem": "AI and the Destruction of the Creative Commons &gt; An alternative near future is that what you&#x27;re describing is used to undermine&#x2F;rightswash strong copyleft free software for use in proprietary products So what? It&#x27;s a future where software can be created on demand with the push of a button. Why care about some dinky little Free Software tool getting abused when everybody can rewrite it from scratch i",
+      "evidence": "Hacker News — Publié le 2026-09-21 ; collecté le 2026-09-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49530121"
+          "url": "https://news.ycombinator.com/item?id=49785974"
         }
       ]
     },
     {
-      "name": "Ask HN: Who wants to be hired? (September 2026)",
+      "name": "Nobody pays for FOSS, we can force them to",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: Who wants to be hired? (September 2026) Location: Lisbon, Portugal (GMT+0&#x2F;+1) Remote: Yes Willing to relocate: Willing to travel 2 weeks&#x2F;mo on-site globally Technologies: Typescript, React, TanStack Start, Next.js, PostgreSQL, pgvector, Redis, Docker, Drizzle ORM, Zod, Zustand, TanStack Query, Tailwind CSS, Plasmo, Vite, Astro, Expo, AI SDK, Python, TensorFlow, scikit-learn, Pandas, Deck.gl, AWS, GC",
-      "evidence": "Hacker News — Publié le 2026-09-01 ; collecté le 2026-09-20.",
+      "problem": "Nobody pays for FOSS, we can force them to Without knowing how much you&#x27;ve paid for proprietary software, that could be a lot, or a little. If you&#x27;re coming from a position where there is alternative FOSS software available to use, that&#x27;s your bubble&#x2F;sphere of experience. In other realms, say software for doing aerospace CAD, there is no FOSS available because it&#x27;s just such a niche piece of ",
+      "evidence": "Hacker News — Publié le 2026-09-21 ; collecté le 2026-09-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49529160"
+          "url": "https://news.ycombinator.com/item?id=49782059"
         }
       ]
     },
     {
-      "name": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "name": "Frontier AI on Your Own Hardware",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Warez: The Infrastructure and Aesthetics of Piracy (2021) &gt; Both are about preventing harm in many different forms. Software famously has effects in the physical world, that&#x27;s the reason why a lot of it exists, and why people get paid that deal with software because it makes their brains feel good. Yes, it would suck if the hospital got hacked while I underwent a surgery for example, and the ventilator stoppe",
-      "evidence": "Hacker News — Publié le 2026-09-19 ; collecté le 2026-09-20.",
+      "problem": "Frontier AI on Your Own Hardware I think one of AI’s biggest effects is simply that it makes people realize even high-income professionals can lose their positions. This also follows from how current LLMs work. In practice, when I use them in domains I already understand, they can produce very high-quality results. But in domains I do not know well, the results can be poor, and the bigger problem is that I may not ev",
+      "evidence": "Hacker News — Publié le 2026-09-21 ; collecté le 2026-09-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49769910"
+          "url": "https://news.ycombinator.com/item?id=49793685"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 2 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "changements-plateformes",
       "Sans ChatGPT"
     ]
   }
