@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "AI and the Destruction of the Creative Commons",
+      "name": "I don't want to read what you didn't write",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "AI and the Destruction of the Creative Commons &gt; An alternative near future is that what you&#x27;re describing is used to undermine&#x2F;rightswash strong copyleft free software for use in proprietary products So what? It&#x27;s a future where software can be created on demand with the push of a button. Why care about some dinky little Free Software tool getting abused when everybody can rewrite it from scratch i",
-      "evidence": "Hacker News — Publié le 2026-09-21 ; collecté le 2026-09-22.",
+      "problem": "I don't want to read what you didn't write &gt;Maybe things will change in the future, but I know where things stand right now It&#x27;s not an either-or though, LLM generated text already provides lots of value in many situations right now. It&#x27;s also used for fluff, yes, but much of what humans write is fluff too, reporters often get paid by the word. The point is that the value in a text has nothing to do with",
+      "evidence": "Hacker News — Publié le 2026-09-22 ; collecté le 2026-09-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49785974"
+          "url": "https://news.ycombinator.com/item?id=49802154"
         }
       ]
     },
     {
-      "name": "Nobody pays for FOSS, we can force them to",
+      "name": "Do not fear AI. Fear AI companies",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Nobody pays for FOSS, we can force them to Without knowing how much you&#x27;ve paid for proprietary software, that could be a lot, or a little. If you&#x27;re coming from a position where there is alternative FOSS software available to use, that&#x27;s your bubble&#x2F;sphere of experience. In other realms, say software for doing aerospace CAD, there is no FOSS available because it&#x27;s just such a niche piece of ",
-      "evidence": "Hacker News — Publié le 2026-09-21 ; collecté le 2026-09-22.",
+      "problem": "Do not fear AI. Fear AI companies This essay has nothing to say about LLMs (or &quot;AI technology&quot; as it calls it for simplicity), so yes &quot;fear of AI&quot; is ruled out. But its core assertion is that AI companies intend to lock down control of LLMs through market forces, legislation, and cronyism, to ensure humans can only use them through the AI company walled garden. They want to control the tech, not p",
+      "evidence": "Hacker News — Publié le 2026-09-22 ; collecté le 2026-09-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49782059"
+          "url": "https://news.ycombinator.com/item?id=49801899"
         }
       ]
     },
     {
-      "name": "Frontier AI on Your Own Hardware",
+      "name": "Will Open Source Survive the Agents That Replaced It?",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Frontier AI on Your Own Hardware I think one of AI’s biggest effects is simply that it makes people realize even high-income professionals can lose their positions. This also follows from how current LLMs work. In practice, when I use them in domains I already understand, they can produce very high-quality results. But in domains I do not know well, the results can be poor, and the bigger problem is that I may not ev",
-      "evidence": "Hacker News — Publié le 2026-09-21 ; collecté le 2026-09-22.",
+      "problem": "Will Open Source Survive the Agents That Replaced It? I have paid a relatively big price for a software which does a simple thing: Drawing diagrams. The application? It&#x27;s called OmniGraffle Pro. That simple looking program drawing diagrams can do flowcharts to scaled architectural or industrial diagrams and everything in between. Try replicating it with a couple of agents. Not the capabilities, but the performan",
+      "evidence": "Hacker News — Publié le 2026-09-22 ; collecté le 2026-09-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49793685"
+          "url": "https://news.ycombinator.com/item?id=49800353"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 2 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "changements-plateformes",
+      "github-et-demandes-fonctionnelles",
       "Sans ChatGPT"
     ]
   }

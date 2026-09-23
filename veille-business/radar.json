@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T22:16:13.204Z",
+  "updatedAt": "2026-09-23T06:03:33.493Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "3375c5e705290e137a",
+      "firstSeenAt": "2026-09-23T06:03:33.493Z",
+      "lastSeenAt": "2026-09-23T06:03:33.493Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[8.2] React content editor — next product increments",
+      "url": "https://github.com/intersoftdatalabs-in/percussioncms/issues/4532",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[8.2] React content editor — next product increments ## Parent New p2 epic for **React Content Editor** after specs/995 first slice + rich controls. Overnight ships React editor increments (`WebUI/src/main/ts/editor/**`), not jQuery webmgt/AA. ## Goal Authors complete **workflow** and **publish-adjacent** work inside the editor host (open item, save, fields already shipped). Next user-visible increments: allowed tran",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-23.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "60a918a9d51075fada",
+      "firstSeenAt": "2026-09-23T06:03:33.493Z",
+      "lastSeenAt": "2026-09-23T06:03:33.493Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[Feature]: Lightweight non-AI automatic subtitle synchronization",
+      "url": "https://github.com/NuvioMedia/NuvioTV/issues/3605",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[Feature]: Lightweight non-AI automatic subtitle synchronization ### Area (tag) Subtitles ### Problem statement Add-on subtitles are often correctly translated but have timing that does not match the specific video release being played. NuvioTV currently provides manual subtitle delay/sync controls, but this requires the user to notice the offset and correct it manually. Different releases of the same movie or episod",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-18 ; collecté le 2026-09-23.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "4a715c56d8b6a37f68",
       "firstSeenAt": "2026-09-22T22:16:13.204Z",
@@ -3536,10 +3572,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-22T22:16:13.204Z",
+    "at": "2026-09-23T06:03:33.493Z",
     "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 7,
+    "newSignals": 2,
     "collectionError": null
   }
 }
