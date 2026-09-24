@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "I don't want to read what you didn't write",
+      "name": "Tokens too cheap to meter",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "I don't want to read what you didn't write &gt;Maybe things will change in the future, but I know where things stand right now It&#x27;s not an either-or though, LLM generated text already provides lots of value in many situations right now. It&#x27;s also used for fluff, yes, but much of what humans write is fluff too, reporters often get paid by the word. The point is that the value in a text has nothing to do with",
-      "evidence": "Hacker News — Publié le 2026-09-22 ; collecté le 2026-09-22.",
+      "problem": "Tokens too cheap to meter A few years is hardly forever and the state of the world here indicates a lot of low hanging fruit still exists. An LLM can certainly be cheaper than grep, because it’s an approximation, while a grep is deterministic and must examine every byte in what can be a relatively complex state machine for a regex based grep. There are other scales to consider like the scale of your local hardware vs",
+      "evidence": "Hacker News — Publié le 2026-09-23 ; collecté le 2026-09-24.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49802154"
+          "url": "https://news.ycombinator.com/item?id=49823096"
         }
       ]
     },
     {
-      "name": "Do not fear AI. Fear AI companies",
+      "name": "Italian parliament votes for return to nuclear energy",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Do not fear AI. Fear AI companies This essay has nothing to say about LLMs (or &quot;AI technology&quot; as it calls it for simplicity), so yes &quot;fear of AI&quot; is ruled out. But its core assertion is that AI companies intend to lock down control of LLMs through market forces, legislation, and cronyism, to ensure humans can only use them through the AI company walled garden. They want to control the tech, not p",
-      "evidence": "Hacker News — Publié le 2026-09-22 ; collecté le 2026-09-22.",
+      "problem": "Italian parliament votes for return to nuclear energy He mixed some units there, mostly by translating Chinese costs into OECD&#x2F;USA costs. China does indeed take 5 years to build a reactor. That&#x27;s what happens when you build a couple a year for decades. After 20 years, that might be true in the OECD&#x2F;USA too, but for now you are looking at over 10 years, $10B&#x2F;GW, and over 8% interest. None of that i",
+      "evidence": "Hacker News — Publié le 2026-09-23 ; collecté le 2026-09-24.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49801899"
+          "url": "https://news.ycombinator.com/item?id=49823001"
         }
       ]
     },
     {
-      "name": "Will Open Source Survive the Agents That Replaced It?",
+      "name": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Will Open Source Survive the Agents That Replaced It? I have paid a relatively big price for a software which does a simple thing: Drawing diagrams. The application? It&#x27;s called OmniGraffle Pro. That simple looking program drawing diagrams can do flowcharts to scaled architectural or industrial diagrams and everything in between. Try replicating it with a couple of agents. Not the capabilities, but the performan",
-      "evidence": "Hacker News — Publié le 2026-09-22 ; collecté le 2026-09-22.",
+      "problem": "Seattle City Council votes to ban surveillance pricing in sale of groceries Taking wikipedia&#x27;s definition: &gt; In psychology, manipulation is defined as an deliberate action that aims to influence or control another person in an underhanded or subtle manner which facilitates one&#x27;s personal motives. Does that not describe pretty much all advertising? It&#x27;s not like advertisers are going out and research",
+      "evidence": "Hacker News — Publié le 2026-09-23 ; collecté le 2026-09-24.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49800353"
+          "url": "https://news.ycombinator.com/item?id=49822976"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 2 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique changements-plateformes. 9 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "changements-plateformes",
       "Sans ChatGPT"
     ]
   }
