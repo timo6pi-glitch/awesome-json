@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T07:55:58.927Z",
+  "updatedAt": "2026-09-25T13:54:23.644Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "8b5a6a0eba146124b5",
+      "firstSeenAt": "2026-09-25T13:54:23.644Z",
+      "lastSeenAt": "2026-09-25T13:54:23.644Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://news.ycombinator.com/item?id=49834714",
+      "sourceName": "Hacker News",
+      "observedFact": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design This is definitely getting at least some things right about how we work with agents today, specifically that we often work at the architecture level, and we need a better alternative to the current Plan Mode offered by coding agents to efficiently architect software at a high level, which is more visual and offers better back-and-forth i",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-24 ; collecté le 2026-09-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "96cab40af306df541b",
+      "firstSeenAt": "2026-09-25T13:54:23.644Z",
+      "lastSeenAt": "2026-09-25T13:54:23.644Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
+      "url": "https://news.ycombinator.com/item?id=49834018",
+      "sourceName": "Hacker News",
+      "observedFact": "Oracle cites 'force majeure' to shield itself on controversial data center I think all their recent layoffs show that nobody uses oracle, and the data centers for open ai are their last best hope for future revenue. Nobody picks oracle anymore, and everybody who&#x27;s using oracle wishes they were off it and is working on projects to detach themselves from paying oracle heaps of money for software that&#x27;s no bet",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-09-24 ; collecté le 2026-09-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "c2b29f5bed99b9a753",
+      "firstSeenAt": "2026-09-25T13:54:23.644Z",
+      "lastSeenAt": "2026-09-25T13:54:23.644Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://news.ycombinator.com/item?id=49827654",
+      "sourceName": "Hacker News",
+      "observedFact": "Ideas on modernizing the open-source desktop &gt; Scott Jenson has been working on user interfaces (UIs) and user experience (UX) for many years at Apple, Google, and other companies. Sorry but that&#x27;s the last kind of person I want to have any say about my desktop. If I wanted dumbed down mass market design I&#x27;d use a mass market OS. Hopefully KDE resists what this guy suggests. And of course he proves my co",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-24 ; collecté le 2026-09-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "20062e60eb2db3ed2b",
       "firstSeenAt": "2026-09-25T07:55:58.927Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "96792cf97f066a39a7",
-      "firstSeenAt": "2026-09-18T22:38:20.571Z",
-      "lastSeenAt": "2026-09-18T22:38:20.571Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "Route all ZzzOps interaction through an explicit workflow state machine",
-      "url": "https://github.com/david-rzepa/zzzops/issues/430",
-      "sourceName": "GitHub Issues",
-      "observedFact": "Route all ZzzOps interaction through an explicit workflow state machine ## Outcome Provide one public ZzzOps workflow command that drives every goal interaction through explicit, resumable state-machine checkpoints. Existing lower-level commands become private handlers invoked by the workflow command, so agents receive an exact next action instead of having to reconstruct the process from prose. ## Acceptance - The p",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-16 ; collecté le 2026-09-19.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "693cedfa78bf2f0667",
-      "firstSeenAt": "2026-09-18T22:38:20.571Z",
-      "lastSeenAt": "2026-09-18T22:38:20.571Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "Náhrada strih PC novým notebookom na LINUXE (owner 15.9.2026): príprava — inventár strih rolí, Linux genlock OBS, Dante/Arena blokery, setup-strih.sh + verify-strih.sh, hardvérová ",
-      "url": "https://github.com/zbynekdrlik/camera-box/issues/1317",
-      "sourceName": "GitHub Issues",
-      "observedFact": "Náhrada strih PC novým notebookom na LINUXE (owner 15.9.2026): príprava — inventár strih rolí, Linux genlock OBS, Dante/Arena blokery, setup-strih.sh + verify-strih.sh, hardvérová špecifikácia ## Owner directive (verbatim, 15.9.2026, camera-box rig) > ale budem objednavat notebook ktory chcem aby nahradil aktualny strih pc cize na to sa priprav chcem tam ist linux lebo je ovela lepsi a stabilnejsi nez windows ## Goal",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-15 ; collecté le 2026-09-19.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "d98b1256e7e81f220b",
-      "firstSeenAt": "2026-09-18T22:38:20.571Z",
-      "lastSeenAt": "2026-09-18T22:38:20.571Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "Epic: Reduce development friction without weakening verification",
-      "url": "https://github.com/mochan-tk/agentic-dev-kit-for-copilot/issues/119",
-      "sourceName": "GitHub Issues",
-      "observedFact": "Epic: Reduce development friction without weakening verification ### Outcome Reduce avoidable startup stops, repeated reads, metadata-only CI work, and clerical recovery while preserving fail-closed dispatch, ownership, verification integrity, and human merge authority. **Current phase (2026-09-19 JST, phase-outline item 3 reviewed; one policy Task to be drafted): the #119 frontier is empty (sub-Tasks #120, #121, #12",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-14 ; collecté le 2026-09-19.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-25T07:55:58.927Z",
-    "family": "communautes-us",
+    "at": "2026-09-25T13:54:23.644Z",
+    "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 9,
+    "newSignals": 3,
     "collectionError": null
   }
 }
