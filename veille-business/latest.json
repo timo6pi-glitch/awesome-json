@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Tokens too cheap to meter",
+      "name": "Goodbye Google",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Tokens too cheap to meter A few years is hardly forever and the state of the world here indicates a lot of low hanging fruit still exists. An LLM can certainly be cheaper than grep, because it’s an approximation, while a grep is deterministic and must examine every byte in what can be a relatively complex state machine for a regex based grep. There are other scales to consider like the scale of your local hardware vs",
-      "evidence": "Hacker News — Publié le 2026-09-23 ; collecté le 2026-09-24.",
+      "problem": "Goodbye Google Going to repost nearly all of this substack comment ( https:&#x2F;&#x2F;davidzmorris.substack.com&#x2F;p&#x2F;live-with-david-z-morris... ), swapping my &quot;hurrah&quot;s for &quot;horray&quot;s (different Civil-War-era song). I&#x27;m posting it here because I think this person has the same feelings, and it mentions Hacker News: I am going to comment on just the topic: AI Doom. The idea that people ",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49823096"
+          "url": "https://news.ycombinator.com/item?id=49841396"
         }
       ]
     },
     {
-      "name": "Italian parliament votes for return to nuclear energy",
+      "name": "California is chasing wealth that has feet",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Italian parliament votes for return to nuclear energy He mixed some units there, mostly by translating Chinese costs into OECD&#x2F;USA costs. China does indeed take 5 years to build a reactor. That&#x27;s what happens when you build a couple a year for decades. After 20 years, that might be true in the OECD&#x2F;USA too, but for now you are looking at over 10 years, $10B&#x2F;GW, and over 8% interest. None of that i",
-      "evidence": "Hacker News — Publié le 2026-09-23 ; collecté le 2026-09-24.",
+      "problem": "California is chasing wealth that has feet whats its mean to be kneecapped? like, if a company&#x27;s market cap gets too big, the law should stop applying to them? they should be allowed to start their own militaries and enforce martial law a la east india company? how does a founder keep a single digit of their company after theyve been dead for a thousand years? These arent nearly as absolute as you are making the",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49823001"
+          "url": "https://news.ycombinator.com/item?id=49840022"
         }
       ]
     },
     {
-      "name": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "name": "'That's so AI ' What gen Alpha's biggest insult tells us",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Seattle City Council votes to ban surveillance pricing in sale of groceries Taking wikipedia&#x27;s definition: &gt; In psychology, manipulation is defined as an deliberate action that aims to influence or control another person in an underhanded or subtle manner which facilitates one&#x27;s personal motives. Does that not describe pretty much all advertising? It&#x27;s not like advertisers are going out and research",
-      "evidence": "Hacker News — Publié le 2026-09-23 ; collecté le 2026-09-24.",
+      "problem": "'That's so AI ' What gen Alpha's biggest insult tells us Oh absolutely. The resources and features these days are incomparable to the stone tools of the 80s and 90s. I’m just saying that specifically getting started was much easier. My friends and I could trade disks of BAS files and not have a single comment or README to explain what your dev environment needed to look like. We didn’t have to have GitHub accounts. I",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49822976"
+          "url": "https://news.ycombinator.com/item?id=49839653"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique changements-plateformes. 9 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 9 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "changements-plateformes",
+      "communautes-us",
       "Sans ChatGPT"
     ]
   }
