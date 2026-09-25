@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T22:32:23.915Z",
+  "updatedAt": "2026-09-25T01:35:53.408Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "f5f3f660c45abf056c",
+      "firstSeenAt": "2026-09-25T01:35:53.408Z",
+      "lastSeenAt": "2026-09-25T01:35:53.408Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Polly Introduces an Open Source Maintenance Fee",
+      "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e",
+      "sourceName": "DEV Community",
+      "observedFact": "Polly Introduces an Open Source Maintenance Fee A few weeks ago, I wrote about open-source projects moving toward paid or dual-licensing models, and...",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-09-24 ; collecté le 2026-09-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "7b457d68904eb3e46f",
       "firstSeenAt": "2026-09-24T22:32:23.915Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "eb6cf7265062373024",
-      "firstSeenAt": "2026-09-18T19:41:29.363Z",
-      "lastSeenAt": "2026-09-18T19:41:29.363Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Special characters in filenames",
-      "url": "https://github.com/nextcloud/server/issues/7762",
-      "sourceName": "GitHub nextcloud/server",
-      "observedFact": "Special characters in filenames ### Steps to reproduce 1. Put some files (not all with those characters) in any folder 2. Include this folder by external storage (local) ### Expected behaviour Every file in this folder shoud be scanned and shown in the files-app. ### Actual behaviour These files came through download on the harddisk of my homeserver. The folder containing the downloaded files are configured as “local",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2018-01-09 ; collecté le 2026-09-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-24T22:32:23.915Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-09-25T01:35:53.408Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 7,
+    "newSignals": 1,
     "collectionError": null
   }
 }
