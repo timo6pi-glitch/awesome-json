@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Goodbye Google",
+      "name": "Ollaya – Ollama for open-source, Jev-style decision models",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Goodbye Google Going to repost nearly all of this substack comment ( https:&#x2F;&#x2F;davidzmorris.substack.com&#x2F;p&#x2F;live-with-david-z-morris... ), swapping my &quot;hurrah&quot;s for &quot;horray&quot;s (different Civil-War-era song). I&#x27;m posting it here because I think this person has the same feelings, and it mentions Hacker News: I am going to comment on just the topic: AI Doom. The idea that people ",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-25.",
+      "problem": "Ollaya – Ollama for open-source, Jev-style decision models I think the idea of a &quot;feature startup&quot; is dead. What used to be a niche subscription business is now an individual Epic level of work. The smallest viable business becomes what two or three years ago was a mid tier enterprise. It is no longer &quot;look at this tool I maintain&quot;, but &quot;we take this specific approach using these hundreds of ",
+      "evidence": "Hacker News — Publié le 2026-09-26 ; collecté le 2026-09-26.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49841396"
+          "url": "https://news.ycombinator.com/item?id=49851827"
         }
       ]
     },
     {
-      "name": "California is chasing wealth that has feet",
+      "name": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "California is chasing wealth that has feet whats its mean to be kneecapped? like, if a company&#x27;s market cap gets too big, the law should stop applying to them? they should be allowed to start their own militaries and enforce martial law a la east india company? how does a founder keep a single digit of their company after theyve been dead for a thousand years? These arent nearly as absolute as you are making the",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-25.",
+      "problem": "Zelensky says Russia has widened attacks to hit Ukraine's data centres There are always rumors about mobilization, but the issue remains that doing so would bring the war home to the Russian middle class in a way that would lead to at best, another massive flight from the country. You can say &quot;They&#x27;d shut the borders&quot;, but even if Russia were tiny it&#x27;s also too corrupt to make that stick. It would",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-26.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49840022"
+          "url": "https://news.ycombinator.com/item?id=49851552"
         }
       ]
     },
     {
-      "name": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "name": "Oracle cites 'force majeure' to shield itself on controversial data center",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "'That's so AI ' What gen Alpha's biggest insult tells us Oh absolutely. The resources and features these days are incomparable to the stone tools of the 80s and 90s. I’m just saying that specifically getting started was much easier. My friends and I could trade disks of BAS files and not have a single comment or README to explain what your dev environment needed to look like. We didn’t have to have GitHub accounts. I",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-25.",
+      "problem": "Oracle cites 'force majeure' to shield itself on controversial data center I think all their recent layoffs show that nobody uses oracle, and the data centers for open ai are their last best hope for future revenue. Nobody picks oracle anymore, and everybody who&#x27;s using oracle wishes they were off it and is working on projects to detach themselves from paying oracle heaps of money for software that&#x27;s no bet",
+      "evidence": "Hacker News — Publié le 2026-09-24 ; collecté le 2026-09-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,14 +61,14 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49839653"
+          "url": "https://news.ycombinator.com/item?id=49834018"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 9 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 10 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "communautes-us",
