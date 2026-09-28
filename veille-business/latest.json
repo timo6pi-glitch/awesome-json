@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Calendar and Contacts Trashbin",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
+      "evidence": "GitHub nextcloud/server — Publié le 2016-10-07 ; collecté le 2026-09-27.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub nextcloud/server",
+          "url": "https://github.com/nextcloud/server/issues/1662"
+        }
+      ]
+    },
     {
       "name": "Subscription Calendar Events are not returned by REPORT dav request",
       "verdict": "RECHERCHER",
@@ -42,26 +62,6 @@
         {
           "label": "Hacker News",
           "url": "https://news.ycombinator.com/item?id=49851827"
-        }
-      ]
-    },
-    {
-      "name": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Zelensky says Russia has widened attacks to hit Ukraine's data centres There are always rumors about mobilization, but the issue remains that doing so would bring the war home to the Russian middle class in a way that would lead to at best, another massive flight from the country. You can say &quot;They&#x27;d shut the borders&quot;, but even if Russia were tiny it&#x27;s also too corrupt to make that stick. It would",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-26.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49851552"
         }
       ]
     }
