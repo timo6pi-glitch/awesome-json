@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T22:17:20.518Z",
+  "updatedAt": "2026-09-28T01:43:53.404Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "751c2dfbab1dd9c162",
+      "firstSeenAt": "2026-09-28T01:43:53.404Z",
+      "lastSeenAt": "2026-09-28T01:43:53.404Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Vibe Was Never the Problem: The Missing Half of Vibe Coding",
+      "url": "https://dev.to/copyleftdev/vibe-was-never-the-problem-the-missing-half-of-vibe-coding-50mi",
+      "sourceName": "DEV Community",
+      "observedFact": "Vibe Was Never the Problem: The Missing Half of Vibe Coding TL;DR: A vibe is compressed experience: pattern recognition that shows up as a feeling before it...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-25 ; collecté le 2026-09-28.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "b5cbf84d718f4847c8",
       "firstSeenAt": "2026-09-27T22:17:20.518Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "feb25c1ed065f0929e",
-      "firstSeenAt": "2026-09-21T14:17:08.246Z",
-      "lastSeenAt": "2026-09-21T14:17:08.246Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "Make request types the canonical GMP input model",
-      "url": "https://github.com/greenbone-hive/rust-gvm/issues/602",
-      "sourceName": "GitHub Issues",
-      "observedFact": "Make request types the canonical GMP input model ## Problem Typed execution currently layers semantic request structs over existing `Opts` structs and free command builders. For many operations this duplicates input models and construction APIs: callers supply required arguments separately, wrap options in a request, and the request delegates encoding back to the builder. Make the complete request the canonical input",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-15 ; collecté le 2026-09-21.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-27T22:17:20.518Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-09-28T01:43:53.404Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 5,
+    "newSignals": 1,
     "collectionError": null
   }
 }
