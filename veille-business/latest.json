@@ -1,56 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Calendar and Contacts Trashbin",
+      "name": "Made a thing, if you use Grok and Pi check it out. Or scoll on bros",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
-      "evidence": "GitHub nextcloud/server — Publié le 2016-10-07 ; collecté le 2026-09-27.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/1662"
-        }
-      ]
-    },
-    {
-      "name": "Subscription Calendar Events are not returned by REPORT dav request",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
-      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-09-26.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/42143"
-        }
-      ]
-    },
-    {
-      "name": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ollaya – Ollama for open-source, Jev-style decision models I think the idea of a &quot;feature startup&quot; is dead. What used to be a niche subscription business is now an individual Epic level of work. The smallest viable business becomes what two or three years ago was a mid tier enterprise. It is no longer &quot;look at this tool I maintain&quot;, but &quot;we take this specific approach using these hundreds of ",
-      "evidence": "Hacker News — Publié le 2026-09-26 ; collecté le 2026-09-26.",
+      "problem": "Made a thing, if you use Grok and Pi check it out. Or scoll on bros I gave xAI my money to try out Grok subscription. But I only use Pi harness. Grok was really not doing well in Pi and I was mad. So I wasted 3 lazy days figuring out how exactly to fully map Grok Build&#x27;s serve mode on websocket bidirectionally to pi in ACP protocol - and then how to force Grok Build to route all tool call requests back through P",
+      "evidence": "Hacker News — Publié le 2026-09-28 ; collecté le 2026-09-29.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +21,57 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49851827"
+          "url": "https://news.ycombinator.com/item?id=49884934"
+        }
+      ]
+    },
+    {
+      "name": "Its not just the sandbox",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Its not just the sandbox &gt; but don’t attack staff directly Sure, agreed. &gt; I literally missed my sister’s wedding a few weeks ago to help clean up after some of the recent incidents If you&#x27;re not paid for that, you should just leave. But my understanding is that OpenAI employees cannot complain about their conditions, can they? Hard to feel for a millionaire saying &quot;I earn orders of magnitudes more th",
+      "evidence": "Hacker News — Publié le 2026-09-28 ; collecté le 2026-09-29.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49884399"
+        }
+      ]
+    },
+    {
+      "name": "Sonnet 5.5",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Sonnet 5.5 &gt; It&#x27;s the &quot;semblance of understanding&quot; you&#x27;re holding on to that is keeping your demand limited. I&#x27;m holding onto it as well, but I think these companies are assuming that human understanding will no longer be relevant for most codebases going forward. In short, seems to describe vibe-coding to me? What I don&#x27;t understand about companies attempting to vibe code is if they ",
+      "evidence": "Hacker News — Publié le 2026-09-28 ; collecté le 2026-09-29.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49882479"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique avis-et-alternatives-logicielles. 2 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-chine-asie",
+      "avis-et-alternatives-logicielles",
       "Sans ChatGPT"
     ]
   }

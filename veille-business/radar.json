@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T05:50:25.215Z",
+  "updatedAt": "2026-09-29T13:01:45.609Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "4b598df0aa96e5e16b",
+      "firstSeenAt": "2026-09-29T13:01:45.609Z",
+      "lastSeenAt": "2026-09-29T13:01:45.609Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Sonnet 5.5",
+      "url": "https://news.ycombinator.com/item?id=49891712",
+      "sourceName": "Hacker News",
+      "observedFact": "Sonnet 5.5 Yes, and usually in the form &quot;You may not reverse engineer, decompile, or disassemble the SOFTWARE or any of its constituents, except and only to the extent that applicable law expressly permits&quot;. (This is the concrete example from this software). And as far as I understand, this means that so long as you stay short of decompilation - you can reimplement as much as you want. The law that covers t",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-09-29 ; collecté le 2026-09-29.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "5346aec44e581e4f9c",
+      "firstSeenAt": "2026-09-29T13:01:45.609Z",
+      "lastSeenAt": "2026-09-29T13:01:45.609Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://news.ycombinator.com/item?id=49793484",
+      "sourceName": "Hacker News",
+      "observedFact": "Why does mathmain need an encrypted loader? &gt;So, where do you draw the line? Do you accept having an OS? Yes I accept using an OS usually, I guess there&#x27;s much more than could fit on a single catchy sentence, but there&#x27;s a clear policy. Operating System is the biggest exception, for Windows it&#x27;s pretty simple to carve out everything that is manufactured by Microsoft itself. But for the main Linux OS",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-21 ; collecté le 2026-09-29.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "eb3e83fcbff5e6ac0b",
       "firstSeenAt": "2026-09-29T05:50:25.215Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "5b07df7f4af97f54f9",
-      "firstSeenAt": "2026-09-21T23:21:15.447Z",
-      "lastSeenAt": "2026-09-21T23:21:15.447Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "What happened to the Snowden archive",
-      "url": "https://news.ycombinator.com/item?id=49793843",
-      "sourceName": "Hacker News",
-      "observedFact": "What happened to the Snowden archive Sysadmin with root who does some scripting. From memory it was something like a number of cron jobs to download from rss-like feeds to a central location, and maybe index them too. Show results on a web page. Until that time it was difficult to get updates and folks were out of touch because info was too compartmentalized. Later something made him take a peek above his clearance, ",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-09-21 ; collecté le 2026-09-22.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "f9e6bfe2143e91faf0",
-      "firstSeenAt": "2026-09-21T23:21:15.447Z",
-      "lastSeenAt": "2026-09-21T23:21:15.447Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://news.ycombinator.com/item?id=49793685",
-      "sourceName": "Hacker News",
-      "observedFact": "Frontier AI on Your Own Hardware I think one of AI’s biggest effects is simply that it makes people realize even high-income professionals can lose their positions. This also follows from how current LLMs work. In practice, when I use them in domains I already understand, they can produce very high-quality results. But in domains I do not know well, the results can be poor, and the bigger problem is that I may not ev",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-09-21 ; collecté le 2026-09-22.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-29T05:50:25.215Z",
+    "at": "2026-09-29T13:01:45.609Z",
     "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 7,
+    "newSignals": 2,
     "collectionError": null
   }
 }
