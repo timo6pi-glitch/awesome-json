@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
@@ -68,10 +68,10 @@
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique avis-et-alternatives-logicielles. 2 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "avis-et-alternatives-logicielles",
+      "communautes-chine-asie",
       "Sans ChatGPT"
     ]
   }
