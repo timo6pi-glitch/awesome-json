@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T20:51:04.095Z",
+  "updatedAt": "2026-10-01T00:35:34.244Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "83323d060f44064224",
+      "firstSeenAt": "2026-10-01T00:35:34.244Z",
+      "lastSeenAt": "2026-10-01T00:35:34.244Z",
+      "region": "Chine / Asie",
+      "language": "chinois",
+      "sourceFamily": "communautes-chine-asie",
+      "title": "[油猴] 硬路由器 Web 后台全系增强插件支持 7 品牌（小米、TP、中兴、华为、华硕、腾达、H3C）",
+      "url": "https://www.v2ex.com/t/1245917",
+      "sourceName": "V2EX",
+      "observedFact": "[油猴] 硬路由器 Web 后台全系增强插件支持 7 品牌（小米、TP、中兴、华为、华硕、腾达、H3C） ZTE-Stat_Max | Bro-Stat 演示 强烈建议搭配实战演示食用： https://www.bilibili.com/video/BV1PtR7B8ECC/ 『无线不能超二定则』（ 提示：地址在简介） Bro-Stat 是一个致力于改善各大品牌路由器、硬路由原生 Web 后台体验的浏览器扩展组件。目前通用版主要适配并优化 TP-Link （普联）、小米（ MiWiFi ）、华硕 (ASUS/ROG)、华为（或许还有 HONOR ） 等常见品牌的路由器后台，是一款 哥哥科技 开发的一套网络数据遥测与多端转发解决方案。 本脚本通过接管原生 Vue 框架的底层 XML API 数据流，在不破坏官方原有拓扑与结构的前提下，重构了“组网管理”与“接入设备”页面的 UI 布局。引入了梯形积分算法、异常流量雷达以及双轨制流量",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-09-30 ; collecté le 2026-10-01.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "a4d40ae21330ff7501",
       "firstSeenAt": "2026-09-30T20:51:04.095Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "c949018fdcbc19d99d",
-      "firstSeenAt": "2026-09-22T15:00:11.344Z",
-      "lastSeenAt": "2026-09-22T15:00:11.344Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "I don't want to read what you didn't write",
-      "url": "https://news.ycombinator.com/item?id=49802154",
-      "sourceName": "Hacker News",
-      "observedFact": "I don't want to read what you didn't write &gt;Maybe things will change in the future, but I know where things stand right now It&#x27;s not an either-or though, LLM generated text already provides lots of value in many situations right now. It&#x27;s also used for fluff, yes, but much of what humans write is fluff too, reporters often get paid by the word. The point is that the value in a text has nothing to do with",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-09-22 ; collecté le 2026-09-22.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-09-30T20:51:04.095Z",
-    "family": "travail-manuel-recurrent",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-01T00:35:34.244Z",
+    "family": "communautes-chine-asie",
+    "region": "Chine / Asie",
+    "newSignals": 1,
     "collectionError": null
   }
 }
