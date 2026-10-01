@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Made a thing, if you use Grok and Pi check it out. Or scoll on bros",
+      "name": "Suits Are Better Tech Than Modern Clothes",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Made a thing, if you use Grok and Pi check it out. Or scoll on bros I gave xAI my money to try out Grok subscription. But I only use Pi harness. Grok was really not doing well in Pi and I was mad. So I wasted 3 lazy days figuring out how exactly to fully map Grok Build&#x27;s serve mode on websocket bidirectionally to pi in ACP protocol - and then how to force Grok Build to route all tool call requests back through P",
-      "evidence": "Hacker News — Publié le 2026-09-28 ; collecté le 2026-09-29.",
+      "problem": "Suits Are Better Tech Than Modern Clothes I find there is no clothing more uncomfortable than jeans. I simply don’t get their appeal. Washing makes them lose color, their material is rough. Maybe a good choice for workers, but not for wearing them every day. Alternative trouser choices (including those of suits) look better, are usually more comfortable and, at least for me, are good for years. That said, the other i",
+      "evidence": "Hacker News — Publié le 2026-10-01 ; collecté le 2026-10-01.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49884934"
+          "url": "https://news.ycombinator.com/item?id=49918514"
         }
       ]
     },
     {
-      "name": "Its not just the sandbox",
+      "name": "Surprisingly complex waves reveal the brain's inner workings",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Its not just the sandbox &gt; but don’t attack staff directly Sure, agreed. &gt; I literally missed my sister’s wedding a few weeks ago to help clean up after some of the recent incidents If you&#x27;re not paid for that, you should just leave. But my understanding is that OpenAI employees cannot complain about their conditions, can they? Hard to feel for a millionaire saying &quot;I earn orders of magnitudes more th",
-      "evidence": "Hacker News — Publié le 2026-09-28 ; collecté le 2026-09-29.",
+      "problem": "Surprisingly complex waves reveal the brain's inner workings &gt; If you’re paying attention to what you are looking at, signals are traveling backward from receptors in your eyes to the visual cortex, and then forward into the rest of the brain via the wave to form a memory. has someone used muse2 to measure there brain waves are indeed some how different on days&#x2F;hours when tehy are focused? Let me explain. I h",
+      "evidence": "Hacker News — Publié le 2026-10-01 ; collecté le 2026-10-01.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49884399"
+          "url": "https://news.ycombinator.com/item?id=49918073"
         }
       ]
     },
     {
-      "name": "Sonnet 5.5",
+      "name": "Sourcehut account takeover via build logs (XSS in ansi2html)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Sonnet 5.5 &gt; It&#x27;s the &quot;semblance of understanding&quot; you&#x27;re holding on to that is keeping your demand limited. I&#x27;m holding onto it as well, but I think these companies are assuming that human understanding will no longer be relevant for most codebases going forward. In short, seems to describe vibe-coding to me? What I don&#x27;t understand about companies attempting to vibe code is if they ",
-      "evidence": "Hacker News — Publié le 2026-09-28 ; collecté le 2026-09-29.",
+      "problem": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-30.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49882479"
+          "url": "https://news.ycombinator.com/item?id=49840867"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-chine-asie",
+      "communautes-us",
       "Sans ChatGPT"
     ]
   }
