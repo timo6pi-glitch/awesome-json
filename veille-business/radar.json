@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T13:55:27.230Z",
+  "updatedAt": "2026-10-02T19:22:53.786Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "8bf90ebc179dfdc781",
+      "firstSeenAt": "2026-10-02T19:22:53.786Z",
+      "lastSeenAt": "2026-10-02T19:22:53.786Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "logiciels-open-source-et-lacunes",
+      "title": "Docker Image Missing",
+      "url": "https://github.com/calcom/cal.diy/issues/28995",
+      "sourceName": "GitHub calcom/cal.com",
+      "observedFact": "Docker Image Missing Hey, It seems like the docker images referenced in the documentation are missing on Docker Hub. https://hub.docker.com/r/calcom/cal.diy Is this intended and do we need to build images for ourselves now?",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-04-24 ; collecté le 2026-10-02.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "7f221b3947da1a55db",
       "firstSeenAt": "2026-10-02T13:55:27.230Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "0a1b62a34815ed200e",
-      "firstSeenAt": "2026-09-24T15:12:54.141Z",
-      "lastSeenAt": "2026-09-24T15:12:54.141Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://news.ycombinator.com/item?id=49830841",
-      "sourceName": "Hacker News",
-      "observedFact": "Ideas on modernizing the open-source desktop &gt; You can have as many windows maximized as you want. There&#x27;s not upper limit to maximized windows. I phrased that wrongly. Sorry about that. I constantly maximise windows, and I often minimise them too. I use the buttons for that. Sometimes i double click the title bar, and sometimes I just drag to the top. Neither of the latter two, or any other way to maximise o",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-24 ; collecté le 2026-09-24.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-02T13:55:27.230Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-02T19:22:53.786Z",
+    "family": "logiciels-open-source-et-lacunes",
+    "region": "Monde",
+    "newSignals": 1,
     "collectionError": null
   }
 }
