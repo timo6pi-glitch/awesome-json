@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Suits Are Better Tech Than Modern Clothes",
+      "name": "Show HN: Fantasy Walk – A cozy walking RPG for Android",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Suits Are Better Tech Than Modern Clothes I find there is no clothing more uncomfortable than jeans. I simply don’t get their appeal. Washing makes them lose color, their material is rough. Maybe a good choice for workers, but not for wearing them every day. Alternative trouser choices (including those of suits) look better, are usually more comfortable and, at least for me, are good for years. That said, the other i",
-      "evidence": "Hacker News — Publié le 2026-10-01 ; collecté le 2026-10-01.",
+      "problem": "Show HN: Fantasy Walk – A cozy walking RPG for Android Hi HN! I started working on Fantasy Walk about three months ago. I built it for people who love fantasy RPGs and need a little extra nudge to get outside and walk more often. The core loop: - Pick a character - Your real-world steps advance you on a fantasy map across different villages - Along the way, you discover creatures, complete quests, and fight battles C",
+      "evidence": "Hacker News — Publié le 2026-10-02 ; collecté le 2026-10-02.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49918514"
+          "url": "https://news.ycombinator.com/item?id=49930223"
         }
       ]
     },
     {
-      "name": "Surprisingly complex waves reveal the brain's inner workings",
+      "name": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Surprisingly complex waves reveal the brain's inner workings &gt; If you’re paying attention to what you are looking at, signals are traveling backward from receptors in your eyes to the visual cortex, and then forward into the rest of the brain via the wave to form a memory. has someone used muse2 to measure there brain waves are indeed some how different on days&#x2F;hours when tehy are focused? Let me explain. I h",
-      "evidence": "Hacker News — Publié le 2026-10-01 ; collecté le 2026-10-01.",
+      "problem": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 &gt; Oracle just sent a force majeur to their data center in texas essentially telling them they can&#x27;t expect to get paid for several years... Is this what you&#x27;re talking about: &quot;Oracle has issued a force majeure notice regarding its New Mexico AI data center project, known as Project Jupiter. This legal move is intended t",
+      "evidence": "Hacker News — Publié le 2026-10-02 ; collecté le 2026-10-02.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49918073"
+          "url": "https://news.ycombinator.com/item?id=49929386"
         }
       ]
     },
     {
-      "name": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "name": "Pi 1.0",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-09-30.",
+      "problem": "Pi 1.0 I use PI WEB ( https:&#x2F;&#x2F;pi-web.dev , there&#x27;s more than one with that name) to orchestrate remotely. Pi lets me run local models (currently Qwen 3.8 Flash Next on Strix Halo 128GB) and flagship models (with subscription auth, not API pricing) side by side. I typically ask GPT 6.1 Sol to review requirements and then spawn a subsession with Qwen, review Qwen&#x27;s work, ask Qwen to fix. About 95% s",
+      "evidence": "Hacker News — Publié le 2026-10-02 ; collecté le 2026-10-02.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,7 +61,7 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49840867"
+          "url": "https://news.ycombinator.com/item?id=49929275"
         }
       ]
     }
