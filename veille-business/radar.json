@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T11:46:59.758Z",
+  "updatedAt": "2026-10-03T19:58:20.212Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "e18dbf0629c61c018f",
+      "firstSeenAt": "2026-10-03T19:58:20.212Z",
+      "lastSeenAt": "2026-10-03T19:58:20.212Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "logiciels-open-source-et-lacunes",
+      "title": "Conditional Questions on Event Types",
+      "url": "https://github.com/calcom/cal.diy/issues/11900",
+      "sourceName": "GitHub calcom/cal.com",
+      "observedFact": "Conditional Questions on Event Types ### Is your proposal related to a problem? We would like to have the ability to ask \"follow-up questions\" based on the answers to previous questions in the booking request. For example, we could have a mandatory question that asks \"how did you hear about us?\" with possible answers \"web\", \"print\", \"social media\", \"personal reference\" - and If they choose \"web\", we'd like to ask \"so",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2023-10-15 ; collecté le 2026-10-03.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "54a39aa6308be8082b",
+      "firstSeenAt": "2026-10-03T19:58:20.212Z",
+      "lastSeenAt": "2026-10-03T19:58:20.212Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "logiciels-open-source-et-lacunes",
+      "title": "[CAL-4350] Accept stripe coupons on booking payment",
+      "url": "https://github.com/calcom/cal.diy/issues/12462",
+      "sourceName": "GitHub calcom/cal.com",
+      "observedFact": "[CAL-4350] Accept stripe coupons on booking payment ### Is your proposal related to a problem? I'm using Cal.com to help a family member run a small business. So far it's been very successful and the hosted version is great! Today they decided they need to give a discount to a customer but it doesn't seem like there's a way to do this with cal.com + stripe at the moment. ### Describe the solution you'd like I've had ",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2023-11-21 ; collecté le 2026-10-03.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "88ce467461b6160c13",
       "firstSeenAt": "2026-10-03T11:46:59.758Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "464e1246fc26bf9114",
-      "firstSeenAt": "2026-09-25T07:55:58.927Z",
-      "lastSeenAt": "2026-09-25T07:55:58.927Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://news.ycombinator.com/item?id=49839338",
-      "sourceName": "Hacker News",
-      "observedFact": "Ideas on modernizing the open-source desktop Yes! I do pretty much the same in Mac. Multiple desktops(spaces) each with one window of browser (Zen) and one window of cmux and an Emacs frame. One desktop for one task. CMux has good native AI Agent notifications. So it works well in that capacity too. Sometimes I wish there is some automatic tiling, but there is nothing good in Mac for that (I tried a couple of 3rd par",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-09-25 ; collecté le 2026-09-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "acf720c85c4b63d761",
-      "firstSeenAt": "2026-09-25T07:55:58.927Z",
-      "lastSeenAt": "2026-09-25T07:55:58.927Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://news.ycombinator.com/item?id=49838903",
-      "sourceName": "Hacker News",
-      "observedFact": "Early rogue AI agent activity and attempts to hack found on urlquery.net I&#x27;m coming to align with the theory that this is intentional. The chain of thought runs roughly like this: - OpenAI (and Anthropic) are in severe financial straits. The revenue from their customers is not nearly large enough to pay their enormous costs for training and inference. And they have tapped out the available finance, and that fina",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-09-25 ; collecté le 2026-09-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-03T11:46:59.758Z",
+    "at": "2026-10-03T19:58:20.212Z",
     "family": "logiciels-open-source-et-lacunes",
     "region": "Monde",
-    "newSignals": 10,
+    "newSignals": 2,
     "collectionError": null
   }
 }
