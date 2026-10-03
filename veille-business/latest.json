@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Show HN: Fantasy Walk – A cozy walking RPG for Android",
+      "name": "Malaysia e-Inovice",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Show HN: Fantasy Walk – A cozy walking RPG for Android Hi HN! I started working on Fantasy Walk about three months ago. I built it for people who love fantasy RPGs and need a little extra nudge to get outside and walk more often. The core loop: - Pick a character - Your real-world steps advance you on a fantasy map across different villages - Along the way, you discover creatures, complete quests, and fight battles C",
-      "evidence": "Hacker News — Publié le 2026-10-02 ; collecté le 2026-10-02.",
+      "problem": "Malaysia e-Inovice Malaysia will start to rolling out e-invoice gradually, By 1st June 2024 for businesses with annual turnover or revenue more than MYR 100 million. This will impact Malaysia SME who are currently using erpnext to run their businesses . A simple request to erpnext community to develop a Malaysia e-invoice compliance feature before 1st June 2024 for current stable version 14 and development version 15",
+      "evidence": "GitHub frappe/erpnext — Publié le 2023-10-20 ; collecté le 2026-10-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49930223"
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/37599"
         }
       ]
     },
     {
-      "name": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "name": "Many-to-One Subscription to Invoice relationship?",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 &gt; Oracle just sent a force majeur to their data center in texas essentially telling them they can&#x27;t expect to get paid for several years... Is this what you&#x27;re talking about: &quot;Oracle has issued a force majeure notice regarding its New Mexico AI data center project, known as Project Jupiter. This legal move is intended t",
-      "evidence": "Hacker News — Publié le 2026-10-02 ; collecté le 2026-10-02.",
+      "problem": "Many-to-One Subscription to Invoice relationship? ## Before Submitting - [x] I searched existing issues and confirmed this is not a duplicate - [x] This is a feature request, not a bug or support question - [ ] For support: https://discuss.frappe.io/c/erpnext/6 **Is your feature request related to a problem? Please describe.** I have a Supplier who issues invoices with multiple Subscriptions on it. Currently, ERPNext",
+      "evidence": "GitHub frappe/erpnext — Publié le 2026-06-25 ; collecté le 2026-10-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -40,17 +40,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49929386"
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/56483"
         }
       ]
     },
     {
-      "name": "Pi 1.0",
+      "name": "\"write off amount\" is not working for Sales Invoice and POS Invoice",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Pi 1.0 I use PI WEB ( https:&#x2F;&#x2F;pi-web.dev , there&#x27;s more than one with that name) to orchestrate remotely. Pi lets me run local models (currently Qwen 3.8 Flash Next on Strix Halo 128GB) and flagship models (with subscription auth, not API pricing) side by side. I typically ask GPT 6.1 Sol to review requirements and then spawn a subsession with Qwen, review Qwen&#x27;s work, ask Qwen to fix. About 95% s",
-      "evidence": "Hacker News — Publié le 2026-10-02 ; collecté le 2026-10-02.",
+      "problem": "\"write off amount\" is not working for Sales Invoice and POS Invoice ### Information about bug Currently the \"write off amount\" field is not working for doctype Sales Invoice and POS Invoice. Origem of this bug was made on https://github.com/frappe/erpnext/pull/30395 Because this PR impact on POS Sales where **change amount** and **write off** amount need work together. How we expect this to work: **Example 1:** I cre",
+      "evidence": "GitHub frappe/erpnext — Publié le 2025-01-29 ; collecté le 2026-10-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,18 +60,18 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49929275"
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/45607"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique logiciels-open-source-et-lacunes. 10 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-us",
+      "logiciels-open-source-et-lacunes",
       "Sans ChatGPT"
     ]
   }
