@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T23:50:12.124Z",
+  "updatedAt": "2026-10-03T05:25:11.764Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "6e8897449f6d7753c9",
+      "firstSeenAt": "2026-10-03T05:25:11.764Z",
+      "lastSeenAt": "2026-10-03T05:25:11.764Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Every SaaS business will become a harness around a model",
+      "url": "https://news.ycombinator.com/item?id=49939646",
+      "sourceName": "Hacker News",
+      "observedFact": "Every SaaS business will become a harness around a model We have evidence that this is not true. For years and years you have been able to self-host Zulip and Mattermost but companies still pay Slack millions of dollars per year. GitHub has billions in revenue, why not just use Gitea for free? So on and so forth. The ability to generate a (shitty) clone of software does not magically make the cloned software less val",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-02 ; collecté le 2026-10-03.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "2961bc6f74f72c2b88",
+      "firstSeenAt": "2026-10-03T05:25:11.764Z",
+      "lastSeenAt": "2026-10-03T05:25:11.764Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Every SaaS business will become a harness around a model",
+      "url": "https://news.ycombinator.com/item?id=49939357",
+      "sourceName": "Hacker News",
+      "observedFact": "Every SaaS business will become a harness around a model I’ve built a software factory and am using it to build an open-source alternative to every SaaS. What do you mean it’s not possible? A harness like Pi can be turned into a software factory with the right spec, extensions, skills, and a cron.",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-02 ; collecté le 2026-10-03.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "41ccc6af4b4de06657",
+      "firstSeenAt": "2026-10-03T05:25:11.764Z",
+      "lastSeenAt": "2026-10-03T05:25:11.764Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "url": "https://news.ycombinator.com/item?id=49937097",
+      "sourceName": "Hacker News",
+      "observedFact": "ICC judge on what U.S. sanctions mean for her and global courts Of course there is alternative, you just have to want it. My company also had a very big dependency on Russian software and Russian employees themselves, and the invasion of Ukraine cut that Gordian knot. The incetives just have to be there and be big enough.",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-02 ; collecté le 2026-10-03.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "b237dbbc18b8397d2f",
       "firstSeenAt": "2026-10-02T23:50:12.124Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "88ce467461b6160c13",
-      "firstSeenAt": "2026-09-24T19:16:11.757Z",
-      "lastSeenAt": "2026-09-24T19:16:11.757Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Malaysia e-Inovice",
-      "url": "https://github.com/frappe/erpnext/issues/37599",
-      "sourceName": "GitHub frappe/erpnext",
-      "observedFact": "Malaysia e-Inovice Malaysia will start to rolling out e-invoice gradually, By 1st June 2024 for businesses with annual turnover or revenue more than MYR 100 million. This will impact Malaysia SME who are currently using erpnext to run their businesses . A simple request to erpnext community to develop a Malaysia e-invoice compliance feature before 1st June 2024 for current stable version 14 and development version 15",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2023-10-20 ; collecté le 2026-09-24.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "97a1f5c8fe93c6d0f0",
-      "firstSeenAt": "2026-09-24T19:16:11.757Z",
-      "lastSeenAt": "2026-09-24T19:16:11.757Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Support for technical, statistical, off-balance and closing root types in Chart of Accounts",
-      "url": "https://github.com/frappe/erpnext/issues/49986",
-      "sourceName": "GitHub frappe/erpnext",
-      "observedFact": "Support for technical, statistical, off-balance and closing root types in Chart of Accounts **Is your feature request related to a problem? Please describe.** In many European accounting system (including the Serbian, German, Spain national frameworks), the Chart of Accounts includes special technical classes beyond standard Assets, Liabilities, Equity, Income and Expenses. For example (Serbian): - **CLass 7** - Clos",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2025-10-09 ; collecté le 2026-09-24.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "796d03e5dffb5af65c",
-      "firstSeenAt": "2026-09-24T19:16:11.757Z",
-      "lastSeenAt": "2026-09-24T19:16:11.757Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Generate Sales Invoice Line Items from Timesheets",
-      "url": "https://github.com/frappe/erpnext/issues/26794",
-      "sourceName": "GitHub frappe/erpnext",
-      "observedFact": "Generate Sales Invoice Line Items from Timesheets Time tracking and Invoicing have been somewhat disconnected until now. We can pull **Timesheets** into a **Sales Invoice** but still have to add the corresponding line items manually. ## Proposed solution I propose to allow mapping **Item** to **Activity Type** and fill the line items in **Sales Invoice** automatically, wherever possible. - Add a new field to **Activi",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2021-08-03 ; collecté le 2026-09-24.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-02T23:50:12.124Z",
-    "family": "communautes-us",
+    "at": "2026-10-03T05:25:11.764Z",
+    "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 8,
+    "newSignals": 3,
     "collectionError": null
   }
 }
