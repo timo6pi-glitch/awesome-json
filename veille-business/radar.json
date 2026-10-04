@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T02:43:25.379Z",
+  "updatedAt": "2026-10-04T09:54:01.547Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "a60e1d1beca3290012",
+      "firstSeenAt": "2026-10-04T09:54:01.547Z",
+      "lastSeenAt": "2026-10-04T09:54:01.547Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Happened",
+      "url": "https://dev.to/mikachu/i-applied-to-59-tech-jobs-in-14-days-heres-what-actually-happened-46lp",
+      "sourceName": "DEV Community",
+      "observedFact": "I Applied to 59 Tech Jobs in 14 Days. Here's What Actually Happened A little over two weeks ago, I started seriously looking for a job in tech again. Not bookmarking...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-01 ; collecté le 2026-10-04.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "8788b15567a51062dd",
+      "firstSeenAt": "2026-10-04T09:54:01.547Z",
+      "lastSeenAt": "2026-10-04T09:54:01.547Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "The BMW manual was off-limits, so I built my friend something better",
+      "url": "https://dev.to/alexgeorgiev17/i-couldnt-legally-use-the-repair-manual-so-i-built-my-friend-something-better-84",
+      "sourceName": "DEV Community",
+      "observedFact": "The BMW manual was off-limits, so I built my friend something better This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend What I...",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-10-02 ; collecté le 2026-10-04.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "6efd2dccaaba8dcb73",
       "firstSeenAt": "2026-10-04T02:43:25.379Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "a05f58a7d419c5b55e",
-      "firstSeenAt": "2026-09-26T07:49:08.610Z",
-      "lastSeenAt": "2026-09-26T07:49:08.610Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "First Principles Thinking",
-      "url": "https://news.ycombinator.com/item?id=49851276",
-      "sourceName": "Hacker News",
-      "observedFact": "First Principles Thinking &gt; An aggressive first principles approach often leads otherwise well-intentioned technologists into strategic &#x2F; ideological dead-ends First principles are an illusion. Good engineers make strategic choices of the supposed &quot;first principles&quot; they apply, and on a particularly difficult problem, they may iterate through multiple options before discovering the &quot;first princ",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-09-25 ; collecté le 2026-09-26.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "0e22337b896dbfe628",
-      "firstSeenAt": "2026-09-26T01:38:55.732Z",
-      "lastSeenAt": "2026-09-26T01:38:55.732Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "nouveaux-usages-developpeurs",
-      "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
-      "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc",
-      "sourceName": "DEV Community",
-      "observedFact": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight We went looking for good posts by women on DEV. Not \"inspirational,\" not \"diverse\" but just genuinely...",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-09-25 ; collecté le 2026-09-26.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-04T02:43:25.379Z",
-    "family": "changements-plateformes",
+    "at": "2026-10-04T09:54:01.547Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 5,
+    "newSignals": 2,
     "collectionError": null
   }
 }

@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Scorched Planets: \"Scorched Earth\" but in space with planetary gravity effects",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Scorched Planets: \"Scorched Earth\" but in space with planetary gravity effects I ported my old project from 2007 to WASM. Original game was built in C++ for Win32 DirectX. This was an educational project with a team of 6 and 5 months of development. How to play: Press Quick Start. Left&#x2F;Right keys to aim, Up&#x2F;Down for power. W&#x2F;A&#x2F;S&#x2F;D to move the camera, tab to lock&#x2F;unlock the camera. Works ",
+      "evidence": "Hacker News — Publié le 2026-10-03 ; collecté le 2026-10-04.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49948363"
+        }
+      ]
+    },
+    {
+      "name": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Getting the most out of Opus 5.5 in Claude and Claude Code Been very impressed with my most recent project. I wanted to simulate some older electronics circuits. I handed it a folder with scans of old service manuals which contained circuit diagrams. It managed to correctly interpret the circuits, including figuring out some were the same topology despite the diagrams being quite different, or some that had some subt",
+      "evidence": "Hacker News — Publié le 2026-10-03 ; collecté le 2026-10-04.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49948067"
+        }
+      ]
+    },
     {
       "name": "Malaysia e-Inovice",
       "verdict": "RECHERCHER",
@@ -24,54 +64,14 @@
           "url": "https://github.com/frappe/erpnext/issues/37599"
         }
       ]
-    },
-    {
-      "name": "Many-to-One Subscription to Invoice relationship?",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Many-to-One Subscription to Invoice relationship? ## Before Submitting - [x] I searched existing issues and confirmed this is not a duplicate - [x] This is a feature request, not a bug or support question - [ ] For support: https://discuss.frappe.io/c/erpnext/6 **Is your feature request related to a problem? Please describe.** I have a Supplier who issues invoices with multiple Subscriptions on it. Currently, ERPNext",
-      "evidence": "GitHub frappe/erpnext — Publié le 2026-06-25 ; collecté le 2026-10-03.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/56483"
-        }
-      ]
-    },
-    {
-      "name": "\"write off amount\" is not working for Sales Invoice and POS Invoice",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "\"write off amount\" is not working for Sales Invoice and POS Invoice ### Information about bug Currently the \"write off amount\" field is not working for doctype Sales Invoice and POS Invoice. Origem of this bug was made on https://github.com/frappe/erpnext/pull/30395 Because this PR impact on POS Sales where **change amount** and **write off** amount need work together. How we expect this to work: **Example 1:** I cre",
-      "evidence": "GitHub frappe/erpnext — Publié le 2025-01-29 ; collecté le 2026-10-03.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/45607"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique logiciels-open-source-et-lacunes. 10 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique nouveaux-usages-developpeurs. 2 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "logiciels-open-source-et-lacunes",
+      "nouveaux-usages-developpeurs",
       "Sans ChatGPT"
     ]
   }
