@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Scorched Planets: \"Scorched Earth\" but in space with planetary gravity effects",
+      "name": "Ask HN: Who wants to be hired? (October 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Scorched Planets: \"Scorched Earth\" but in space with planetary gravity effects I ported my old project from 2007 to WASM. Original game was built in C++ for Win32 DirectX. This was an educational project with a team of 6 and 5 months of development. How to play: Press Quick Start. Left&#x2F;Right keys to aim, Up&#x2F;Down for power. W&#x2F;A&#x2F;S&#x2F;D to move the camera, tab to lock&#x2F;unlock the camera. Works ",
-      "evidence": "Hacker News — Publié le 2026-10-03 ; collecté le 2026-10-04.",
+      "problem": "Ask HN: Who wants to be hired? (October 2026) Location: Las Vegas, NV Remote: Yes, remote only Willing to relocate: No Technologies: TypeScript, JavaScript, Python, SQL, React, Next.js, Node.js, PostgreSQL, REST APIs, Cloudflare, GitHub Actions, LLM integration (Claude, OpenAI), AI agents, Model Context Protocol (MCP) Résumé&#x2F;CV: https:&#x2F;&#x2F;deaconroswell.com Email: findme@deaconroswell.com Looking for cont",
+      "evidence": "Hacker News — Publié le 2026-10-04 ; collecté le 2026-10-05.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49948363"
+          "url": "https://news.ycombinator.com/item?id=49958708"
         }
       ]
     },
     {
-      "name": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "name": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Getting the most out of Opus 5.5 in Claude and Claude Code Been very impressed with my most recent project. I wanted to simulate some older electronics circuits. I handed it a folder with scans of old service manuals which contained circuit diagrams. It managed to correctly interpret the circuits, including figuring out some were the same topology despite the diagrams being quite different, or some that had some subt",
-      "evidence": "Hacker News — Publié le 2026-10-03 ; collecté le 2026-10-04.",
+      "problem": "Turn off Apple Intelligence on macOS 27 and get its disk space back The enshittification of Apple is going on. Debloating Windows, degoogling Android. MacOS&#x2F;iOS was still decent a few months ago. And now they&#x27;ve put banners on iPhones, real advertisements trying to force you to subscribe to Apple This, Apple That. And you can&#x27;t close the banner. Now they remove the option for you to remove the models. ",
+      "evidence": "Hacker News — Publié le 2026-10-04 ; collecté le 2026-10-05.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49948067"
+          "url": "https://news.ycombinator.com/item?id=49958347"
         }
       ]
     },
     {
-      "name": "Malaysia e-Inovice",
+      "name": "Incentives in Academic Research",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Malaysia e-Inovice Malaysia will start to rolling out e-invoice gradually, By 1st June 2024 for businesses with annual turnover or revenue more than MYR 100 million. This will impact Malaysia SME who are currently using erpnext to run their businesses . A simple request to erpnext community to develop a Malaysia e-invoice compliance feature before 1st June 2024 for current stable version 14 and development version 15",
-      "evidence": "GitHub frappe/erpnext — Publié le 2023-10-20 ; collecté le 2026-10-03.",
+      "problem": "Incentives in Academic Research I think everyone who enters academia goes through this phase of disillusionment. This thing you revered so much as this temple of knowledge turns out to involve the same kind of human business you see anywhere else, with petty fights, little cliques opposing each other, grudges, backscratching, quid pro quo etc etc. I think once you come to terms with this, you come out on the other si",
+      "evidence": "Hacker News — Publié le 2026-10-04 ; collecté le 2026-10-05.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,15 +60,15 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/37599"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49957933"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique nouveaux-usages-developpeurs. 2 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique nouveaux-usages-developpeurs. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "nouveaux-usages-developpeurs",
