@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T23:15:48.341Z",
+  "updatedAt": "2026-10-06T00:51:13.741Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "72310de5ca37002a01",
+      "firstSeenAt": "2026-10-06T00:51:13.741Z",
+      "lastSeenAt": "2026-10-06T00:51:13.741Z",
+      "region": "Chine / Asie",
+      "language": "chinois",
+      "sourceFamily": "communautes-chine-asie",
+      "title": "个人使用 Claude 防止封号的经验分享",
+      "url": "https://www.v2ex.com/t/1246574",
+      "sourceName": "V2EX",
+      "observedFact": "个人使用 Claude 防止封号的经验分享 我是之前 IP 在 US 和 JP 乱窜，开了几个月的 Claude ，被封号了。 现在改成一下的配置，目前稳定使用了 3 个月 - 梯子是自建的 aws lightsail 东京，5 刀每月，一个 t 的流量，协议是 vless 加上 reality ，原理是伪装成大站的 https 服务器，IP 被封几率小 - 联通宽带，翻墙稳定 - 所有的 ai 服务通过 IpRoyal 出站，通过 clash 的 dialer-proxy 指向 aws 节点，所有的 AI 强制指定这个 clash proxy name, 没法手动切换，防止手贱乱切。 - clash 的 AI 规则我是让 AI 直接参考这个仓库写的 ： https://github.com/szkane/ClashRuleSet - 除了 Claude code 对话，其他的 LLM 输出都是英语 - 安卓 play 商店加上",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-06 ; collecté le 2026-10-06.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "e73b3bcfa5c6a3bd2b",
       "firstSeenAt": "2026-10-04T23:15:48.341Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "f563d70d10f4c91469",
-      "firstSeenAt": "2026-09-26T19:56:52.967Z",
-      "lastSeenAt": "2026-09-26T19:56:52.967Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Design Issues on Pricing Rule",
-      "url": "https://github.com/frappe/erpnext/issues/42195",
-      "sourceName": "GitHub frappe/erpnext",
-      "observedFact": "Design Issues on Pricing Rule Pricing Rules where the discount / margin is applied on other `item code / item group / brand` is broken. ## Broken Scenarios: |-|Apply On|Value|Apply Rule on Other | Value| |-|-|-|-|-| |1| Item Code| _Item 1_ | Item Code| _Item 2_| |2| Item Group| All Item Group | Item Group| All Item Group| |3 | Item Code/Group| _any_value_ |Brand | _any_value_| On above cases, the discount is applied ",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2024-07-05 ; collecté le 2026-09-26.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-04T23:15:48.341Z",
-    "family": "communautes-us",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-06T00:51:13.741Z",
+    "family": "communautes-chine-asie",
+    "region": "Chine / Asie",
+    "newSignals": 1,
     "collectionError": null
   }
 }
