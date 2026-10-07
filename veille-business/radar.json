@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T20:24:08.850Z",
+  "updatedAt": "2026-10-07T00:46:45.638Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "90d46a2ec68aeee3e9",
+      "firstSeenAt": "2026-10-07T00:46:45.638Z",
+      "lastSeenAt": "2026-10-07T00:46:45.638Z",
+      "region": "Chine / Asie",
+      "language": "chinois",
+      "sourceFamily": "communautes-chine-asie",
+      "title": "I built ZombieTrend: turn two photos into a 15-second AI zombie story",
+      "url": "https://www.v2ex.com/t/1246672",
+      "sourceName": "V2EX",
+      "observedFact": "I built ZombieTrend: turn two photos into a 15-second AI zombie story Hi V2EX, I'm the developer behind [ZombieTrend]( https://zombietrend.com/), a newly launched web app for making fictional AI zombie story videos from two photos. ## What it does The story starts with a tense encounter: a familiar person or pet appears infected and rushes toward the human character. At the moment of contact, the scene turns into a w",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-06 ; collecté le 2026-10-07.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "97708ff879bf87f7a5",
       "firstSeenAt": "2026-10-06T20:24:08.850Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "fbc69701bb3d73d45b",
-      "firstSeenAt": "2026-09-29T05:50:25.215Z",
-      "lastSeenAt": "2026-09-29T05:50:25.215Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Is your Postgres migration safe or not safe?",
-      "url": "https://news.ycombinator.com/item?id=49859110",
-      "sourceName": "Hacker News",
-      "observedFact": "Is your Postgres migration safe or not safe? This largely depends on the kind of software system you are working on. These sorts of DDL migrations are common on the kinds of Rails apps I’ve worked on over my career. Size of the table, traffic patterns, who uses associated features, tolerance for small downtime windows, or orchestrating a multi-phase zero-downtime migration are all ways to justify these migrations, an",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-26 ; collecté le 2026-09-29.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-06T20:24:08.850Z",
-    "family": "travail-manuel-recurrent",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-07T00:46:45.638Z",
+    "family": "communautes-chine-asie",
+    "region": "Chine / Asie",
+    "newSignals": 1,
     "collectionError": null
   }
 }
