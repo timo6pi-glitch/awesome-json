@@ -1,15 +1,55 @@
 {
   "version": 2,
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "name": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust) what could you possibly need 219 built-in tools for and why would I want to watch it move my mouse? Seems like if I&#x27;m sitting there watching it I could just move it myself. Where is the code? the github is just sales pitch that eventually admits it is just a wrapper around claude&#x2F;whatever. Nobody here is going to run this blackbox-with-a-sal",
+      "problem": "Jev-Driven SRE Diagnosis: What Worked and What Failed I&#x27;m guessing you&#x27;re getting downvoted due to dismissive tone, but I think there&#x27;s truth to this. Labeling something as &quot;don&#x27;t escalate&quot; that should have been isn&#x27;t great. Paying 5x and having to wait 10s instead of 100ms or whatever for a reasoning model (with tools?) is very likely worth it.",
+      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49989101"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains reports revenue growth, net financial loss for 2025",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "JetBrains reports revenue growth, net financial loss for 2025 This repo I started yesterday has most of the patterns I like to use: https:&#x2F;&#x2F;github.com&#x2F;mbcrawfo&#x2F;SqlSource Really the single biggest piece I use today is using a tool like superpowers to ensure your task is well defined. Added bonuses are its TDD implementation skills and multiple review steps baked into the workflow. Before I discover",
+      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49987174"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains reports revenue growth, net financial loss for 2025",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "JetBrains reports revenue growth, net financial loss for 2025 Not sure who downvoted this. JetBrains IDEs are done for. I don&#x27;t even remember the last time I opened them, I cancelled my All Products pack this year. The advantage it had over vscode was always the better language features and the familiar UI. None of that is useful to me in AI based workflows. Some might still disagree, but the manual development ",
       "evidence": "Hacker News — Publié le 2026-10-06 ; collecté le 2026-10-06.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
@@ -21,54 +61,14 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49974598"
-        }
-      ]
-    },
-    {
-      "name": "The End of Software Secrecy",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "The End of Software Secrecy This is exactly what made me bite the bullet and buy a Claude subscription back in February. It was very easy to evaluate how good the AI was if I _already knew_ what I was trying to build. A linter and its very well defined rules fit this perfectly. Plus the upside of building something that already exists is that you can scrape the internet for repos using the dependency, and compare you",
-      "evidence": "Hacker News — Publié le 2026-10-06 ; collecté le 2026-10-06.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49973835"
-        }
-      ]
-    },
-    {
-      "name": "个人使用 Claude 防止封号的经验分享",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "个人使用 Claude 防止封号的经验分享 我是之前 IP 在 US 和 JP 乱窜，开了几个月的 Claude ，被封号了。 现在改成一下的配置，目前稳定使用了 3 个月 - 梯子是自建的 aws lightsail 东京，5 刀每月，一个 t 的流量，协议是 vless 加上 reality ，原理是伪装成大站的 https 服务器，IP 被封几率小 - 联通宽带，翻墙稳定 - 所有的 ai 服务通过 IpRoyal 出站，通过 clash 的 dialer-proxy 指向 aws 节点，所有的 AI 强制指定这个 clash proxy name, 没法手动切换，防止手贱乱切。 - clash 的 AI 规则我是让 AI 直接参考这个仓库写的 ： https://github.com/szkane/ClashRuleSet - 除了 Claude code 对话，其他的 LLM 输出都是英语 - 安卓 play 商店加上",
-      "evidence": "V2EX — Publié le 2026-10-06 ; collecté le 2026-10-06.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "V2EX",
-          "url": "https://www.v2ex.com/t/1246574"
+          "url": "https://news.ycombinator.com/item?id=49977765"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 9 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 10 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "communautes-us",
