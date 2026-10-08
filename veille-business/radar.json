@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T21:20:59.881Z",
+  "updatedAt": "2026-10-08T02:01:38.255Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "0dce2e634bfc7c4e51",
+      "firstSeenAt": "2026-10-08T02:01:38.255Z",
+      "lastSeenAt": "2026-10-08T02:01:38.255Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "[NEXT-3982] ChunkLoadError: Loading chunk app/layout failed. (timeout: http://localhost:3000/_next/static/chunks/app/layout.js)",
+      "url": "https://github.com/vercel/next.js/issues/66526",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "[NEXT-3982] ChunkLoadError: Loading chunk app/layout failed. (timeout: http://localhost:3000/_next/static/chunks/app/layout.js) ### Link to the code that reproduces this issue https://github.com/Intellyse/next-js-bug ### To Reproduce 1. clone project 2. npm install 3. npm run dev 4. open the page and you can see chrome console output: Uncaught SyntaxError: Invalid or unexpected token 5. same minutes you can see error",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2024-06-04 ; collecté le 2026-10-08.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "471e32323b7ba1f654",
+      "firstSeenAt": "2026-10-08T02:01:38.255Z",
+      "lastSeenAt": "2026-10-08T02:01:38.255Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Turbopack generates external module references with hashes that don't match installed packages when node_modules structure differs",
+      "url": "https://github.com/vercel/next.js/issues/87737",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Turbopack generates external module references with hashes that don't match installed packages when node_modules structure differs ### Link to the code that reproduces this issue https://github.com/Aluisio/test-styled-components ### To Reproduce 1. Create a Next.js 16.1.1+ project with OpenTelemetry instrumentation 2. Add `instrumentation.ts` file that imports `@opentelemetry/auto-instrumentations-node` 3. Build the ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2025-12-23 ; collecté le 2026-10-08.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "877958bb0b75974b1a",
       "firstSeenAt": "2026-10-07T21:20:59.881Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "a4d40ae21330ff7501",
-      "firstSeenAt": "2026-09-30T20:51:04.095Z",
-      "lastSeenAt": "2026-09-30T20:51:04.095Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "travail-manuel-recurrent",
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "url": "https://news.ycombinator.com/item?id=49840867",
-      "sourceName": "Hacker News",
-      "observedFact": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-09-25 ; collecté le 2026-09-30.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "ed53f83fbce2a606a3",
-      "firstSeenAt": "2026-09-30T20:51:04.095Z",
-      "lastSeenAt": "2026-09-30T20:51:04.095Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "travail-manuel-recurrent",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://news.ycombinator.com/item?id=49737218",
-      "sourceName": "Hacker News",
-      "observedFact": "OpenSpec – A lightweight and configurable AI spec framework It&#x27;s interesting to see the divergence of opinions on these frameworks and also at least anecdotally how many people roll their own custom implementations of workflow management on top of their favourite SDD framework. I also ended up doing my own thing mainly to address several omissions in the existing frameworks (for SDD I prefer to use Superpowers a",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-09-17 ; collecté le 2026-09-30.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-07T21:20:59.881Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-08T02:01:38.255Z",
+    "family": "changements-plateformes",
+    "region": "Monde",
+    "newSignals": 2,
     "collectionError": null
   }
 }
