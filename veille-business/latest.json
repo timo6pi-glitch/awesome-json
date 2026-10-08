@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "JetBrains reports revenue growth, net financial loss for 2025",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "JetBrains reports revenue growth, net financial loss for 2025 One example of a &quot;hobby grade&quot; problem that only fable could resolve that I had no time to mess around with. I have a home network consisting of multiple buildings, a server room with a k8 cluster and various devices, some Cctv cameras, redundant fiber links between buildings, ftth Internet and lte backup, and so on. Not a simple network. All on ",
+      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49993007"
+        }
+      ]
+    },
+    {
+      "name": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Tell HN: GitHub refuses to remove cracked copies of my software after a month Also get ye some trademarks. Make sure your logo and branding colors are trademarked in combination with the name Photopea. Use the logo and branding colors more places. It won&#x27;t stop AI thieves cold, but now they&#x27;ll be in violation of two kinds of law unless they do a bunch more work to rip out all the trademarked branding. Final",
+      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49992984"
+        }
+      ]
+    },
     {
       "name": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
       "verdict": "RECHERCHER",
@@ -24,54 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=49989101"
         }
       ]
-    },
-    {
-      "name": "JetBrains reports revenue growth, net financial loss for 2025",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "JetBrains reports revenue growth, net financial loss for 2025 This repo I started yesterday has most of the patterns I like to use: https:&#x2F;&#x2F;github.com&#x2F;mbcrawfo&#x2F;SqlSource Really the single biggest piece I use today is using a tool like superpowers to ensure your task is well defined. Added bonuses are its TDD implementation skills and multiple review steps baked into the workflow. Before I discover",
-      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49987174"
-        }
-      ]
-    },
-    {
-      "name": "JetBrains reports revenue growth, net financial loss for 2025",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "JetBrains reports revenue growth, net financial loss for 2025 Not sure who downvoted this. JetBrains IDEs are done for. I don&#x27;t even remember the last time I opened them, I cancelled my All Products pack this year. The advantage it had over vscode was always the better language features and the familiar UI. None of that is useful to me in AI based workflows. Some might still disagree, but the manual development ",
-      "evidence": "Hacker News — Publié le 2026-10-06 ; collecté le 2026-10-06.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49977765"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 10 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique nouveaux-usages-developpeurs. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-us",
+      "nouveaux-usages-developpeurs",
       "Sans ChatGPT"
     ]
   }
