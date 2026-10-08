@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T02:01:38.255Z",
+  "updatedAt": "2026-10-08T16:35:04.888Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "79368c5cd99dc683d1",
+      "firstSeenAt": "2026-10-08T16:35:04.888Z",
+      "lastSeenAt": "2026-10-08T16:35:04.888Z",
+      "region": "Chine / Asie",
+      "language": "chinois",
+      "sourceFamily": "communautes-chine-asie",
+      "title": "去年做的 iPhone Wi-Fi 备份到 NAS 小工具，这次开源啦",
+      "url": "https://www.v2ex.com/t/1247204",
+      "sourceName": "V2EX",
+      "observedFact": "去年做的 iPhone Wi-Fi 备份到 NAS 小工具，这次开源啦 去年发过一个[把 iPhone 通过 Wi-Fi 备份到 NAS 的小工具]( https://v2ex.com/t/1139025)。最近做了一些更新，也把源码整理公开了，回来补个后续。 工具做的事情很简单：在 Linux 主机或 NAS 上跑一个容器，通过浏览器管理 iPhone / iPad 的备份，数据直接保存在自己指定的目录里。 目前支持： - **USB / Wi-Fi 备份**：手动发起，也可以按设备设置定时备份、时间段、电量和充电条件。 - **备份加密**：管理设备的备份加密设置和密码。 - **查看备份状态**：查看进度、当前阶段、备份信息和文件列表。 - **结果通知**：支持 Telegram 、邮件、企业微信、Bark 和 Webhook 。 这次主要补了一些实际使用中容易卡住的地方。比如备份长时间没有动静时，会按阶段超时退出，不再",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-10-08 ; collecté le 2026-10-08.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "0dce2e634bfc7c4e51",
       "firstSeenAt": "2026-10-08T02:01:38.255Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "83323d060f44064224",
-      "firstSeenAt": "2026-10-01T00:35:34.244Z",
-      "lastSeenAt": "2026-10-01T00:35:34.244Z",
-      "region": "Chine / Asie",
-      "language": "chinois",
-      "sourceFamily": "communautes-chine-asie",
-      "title": "[油猴] 硬路由器 Web 后台全系增强插件支持 7 品牌（小米、TP、中兴、华为、华硕、腾达、H3C）",
-      "url": "https://www.v2ex.com/t/1245917",
-      "sourceName": "V2EX",
-      "observedFact": "[油猴] 硬路由器 Web 后台全系增强插件支持 7 品牌（小米、TP、中兴、华为、华硕、腾达、H3C） ZTE-Stat_Max | Bro-Stat 演示 强烈建议搭配实战演示食用： https://www.bilibili.com/video/BV1PtR7B8ECC/ 『无线不能超二定则』（ 提示：地址在简介） Bro-Stat 是一个致力于改善各大品牌路由器、硬路由原生 Web 后台体验的浏览器扩展组件。目前通用版主要适配并优化 TP-Link （普联）、小米（ MiWiFi ）、华硕 (ASUS/ROG)、华为（或许还有 HONOR ） 等常见品牌的路由器后台，是一款 哥哥科技 开发的一套网络数据遥测与多端转发解决方案。 本脚本通过接管原生 Vue 框架的底层 XML API 数据流，在不破坏官方原有拓扑与结构的前提下，重构了“组网管理”与“接入设备”页面的 UI 布局。引入了梯形积分算法、异常流量雷达以及双轨制流量",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-09-30 ; collecté le 2026-10-01.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-08T02:01:38.255Z",
-    "family": "changements-plateformes",
-    "region": "Monde",
-    "newSignals": 2,
+    "at": "2026-10-08T16:35:04.888Z",
+    "family": "communautes-chine-asie",
+    "region": "Chine / Asie",
+    "newSignals": 1,
     "collectionError": null
   }
 }
