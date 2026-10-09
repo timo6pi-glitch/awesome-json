@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
@@ -68,7 +68,7 @@
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique nouveaux-usages-developpeurs. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique nouveaux-usages-developpeurs. 1 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "nouveaux-usages-developpeurs",

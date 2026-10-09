@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T22:09:38.284Z",
+  "updatedAt": "2026-10-09T09:16:51.329Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "bb22de310b98b229f2",
+      "firstSeenAt": "2026-10-09T09:16:51.329Z",
+      "lastSeenAt": "2026-10-09T09:16:51.329Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧",
+      "url": "https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80",
+      "sourceName": "DEV Community",
+      "observedFact": "Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧 The config migration was small. Preserving the package contract was the interesting part. Hoi hoi!...",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-07 ; collecté le 2026-10-09.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "98312b45e45da348ab",
       "firstSeenAt": "2026-10-08T22:09:38.284Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "f668fbfc1893b5618d",
-      "firstSeenAt": "2026-10-01T14:34:01.955Z",
-      "lastSeenAt": "2026-10-01T14:34:01.955Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "No On-Chain Index Exists to Discover Agreements by Payer or Payee Address",
-      "url": "https://github.com/Trellis-Ecosystem/trellis/issues/458",
-      "sourceName": "GitHub Issues",
-      "observedFact": "No On-Chain Index Exists to Discover Agreements by Payer or Payee Address ## Description Callers must already know the exact `agreement_id` — there is no way to enumerate 'all agreements where I am payer/payee' from contract state alone. All existing frontend 'history' functionality is purely client-side `localStorage`, a workaround for this exact contract-level gap. ## Requirements and Context **Relevant files:** - ",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-09-24 ; collecté le 2026-10-01.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-08T22:09:38.284Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-10-09T09:16:51.329Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 12,
+    "newSignals": 1,
     "collectionError": null
   }
 }
