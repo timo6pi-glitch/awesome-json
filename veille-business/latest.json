@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "The people holding up the internet",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "The people holding up the internet Is it actually a shortcoming? People choose to use these licences. They explicitly say the companies can use it free with no obligation. Most are happy with that choice and say so. If they were not happy they can change the license for new code. They could use a license unpalatable to those companies and dual license with a paid alternative Last week someone had left bags of apples ",
+      "evidence": "Hacker News — Publié le 2026-10-08 ; collecté le 2026-10-09.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50010836"
+        }
+      ]
+    },
     {
       "name": "JetBrains reports revenue growth, net financial loss for 2025",
       "verdict": "RECHERCHER",
@@ -44,34 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=49992984"
         }
       ]
-    },
-    {
-      "name": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Jev-Driven SRE Diagnosis: What Worked and What Failed I&#x27;m guessing you&#x27;re getting downvoted due to dismissive tone, but I think there&#x27;s truth to this. Labeling something as &quot;don&#x27;t escalate&quot; that should have been isn&#x27;t great. Paying 5x and having to wait 10s instead of 100ms or whatever for a reasoning model (with tools?) is very likely worth it.",
-      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49989101"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique nouveaux-usages-developpeurs. 1 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "nouveaux-usages-developpeurs",
+      "communautes-chine-asie",
       "Sans ChatGPT"
     ]
   }
