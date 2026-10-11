@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "The people holding up the internet",
+      "name": "Open-Source Rust Alternatives to Adobe Apps",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "The people holding up the internet Is it actually a shortcoming? People choose to use these licences. They explicitly say the companies can use it free with no obligation. Most are happy with that choice and say so. If they were not happy they can change the license for new code. They could use a license unpalatable to those companies and dual license with a paid alternative Last week someone had left bags of apples ",
-      "evidence": "Hacker News — Publié le 2026-10-08 ; collecté le 2026-10-09.",
+      "problem": "Open-Source Rust Alternatives to Adobe Apps It can only be an alternative if 1) it is an exact clone of Adobe apps including feature set and the UI&#x2F;UX, or 2) it has a different design but provides the same features along with good UX and can help user complete various tasks effectively (which requires tons of UX research on its own). Even small details can matter. Which is why people still go to Adobe products d",
+      "evidence": "Hacker News — Publié le 2026-10-08 ; collecté le 2026-10-11.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50010836"
+          "url": "https://news.ycombinator.com/item?id=50004519"
         }
       ]
     },
     {
-      "name": "JetBrains reports revenue growth, net financial loss for 2025",
+      "name": "Bitwarden Dual License Model",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "JetBrains reports revenue growth, net financial loss for 2025 One example of a &quot;hobby grade&quot; problem that only fable could resolve that I had no time to mess around with. I have a home network consisting of multiple buildings, a server room with a k8 cluster and various devices, some Cctv cameras, redundant fiber links between buildings, ftth Internet and lte backup, and so on. Not a simple network. All on ",
-      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
+      "problem": "Bitwarden Dual License Model This post is what triggered me to cancel my subscription and migrate away from Bitwarden in July. I’ve seen too many repeats of this show. This has completely soured me from cloud-backed critical software. Slowly moving toward offline alternatives wherever possible and self-hosting when it isn’t.",
+      "evidence": "Hacker News — Publié le 2026-10-10 ; collecté le 2026-10-11.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49993007"
+          "url": "https://news.ycombinator.com/item?id=50034904"
         }
       ]
     },
     {
-      "name": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "name": "Computers Cannot Make Decisions",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Tell HN: GitHub refuses to remove cracked copies of my software after a month Also get ye some trademarks. Make sure your logo and branding colors are trademarked in combination with the name Photopea. Use the logo and branding colors more places. It won&#x27;t stop AI thieves cold, but now they&#x27;ll be in violation of two kinds of law unless they do a bunch more work to rip out all the trademarked branding. Final",
-      "evidence": "Hacker News — Publié le 2026-10-07 ; collecté le 2026-10-07.",
+      "problem": "Computers Cannot Make Decisions I know this topic and thinking will evolve. When someone hands the reins to an agent or group of agents, the agent(s) have free rein to do things, including things not directly intended by the owner. If a person has a child, and their child does something bad, there is some mixed responsibility there. It’s a spectrum from age 0 to 18, where 0 is 100% parent responsibility and 18 is 100",
+      "evidence": "Hacker News — Publié le 2026-10-10 ; collecté le 2026-10-11.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49992984"
+          "url": "https://news.ycombinator.com/item?id=50037984"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique avis-et-alternatives-logicielles. 5 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-chine-asie",
+      "avis-et-alternatives-logicielles",
       "Sans ChatGPT"
     ]
   }
