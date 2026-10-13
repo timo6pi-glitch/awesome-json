@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Open-Source Rust Alternatives to Adobe Apps",
+      "name": "Your Agent Paid. That Does Not Mean It Should Have.",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Open-Source Rust Alternatives to Adobe Apps It can only be an alternative if 1) it is an exact clone of Adobe apps including feature set and the UI&#x2F;UX, or 2) it has a different design but provides the same features along with good UX and can help user complete various tasks effectively (which requires tons of UX research on its own). Even small details can matter. Which is why people still go to Adobe products d",
-      "evidence": "Hacker News — Publié le 2026-10-08 ; collecté le 2026-10-11.",
+      "problem": "Your Agent Paid. That Does Not Mean It Should Have. An AI agent is writing a report and needs one data point. The API answers: this costs five cents. The...",
+      "evidence": "DEV Community — Publié le 2026-10-11 ; collecté le 2026-10-13.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50004519"
+          "label": "DEV Community",
+          "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd"
         }
       ]
     },
     {
-      "name": "Bitwarden Dual License Model",
+      "name": "Many-to-One Subscription to Invoice relationship?",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Bitwarden Dual License Model This post is what triggered me to cancel my subscription and migrate away from Bitwarden in July. I’ve seen too many repeats of this show. This has completely soured me from cloud-backed critical software. Slowly moving toward offline alternatives wherever possible and self-hosting when it isn’t.",
-      "evidence": "Hacker News — Publié le 2026-10-10 ; collecté le 2026-10-11.",
+      "problem": "Many-to-One Subscription to Invoice relationship? ## Before Submitting - [x] I searched existing issues and confirmed this is not a duplicate - [x] This is a feature request, not a bug or support question - [ ] For support: https://discuss.frappe.io/c/erpnext/6 **Is your feature request related to a problem? Please describe.** I have a Supplier who issues invoices with multiple Subscriptions on it. Currently, ERPNext",
+      "evidence": "GitHub frappe/erpnext — Publié le 2026-06-25 ; collecté le 2026-10-12.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -40,17 +40,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50034904"
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/56483"
         }
       ]
     },
     {
-      "name": "Computers Cannot Make Decisions",
+      "name": "\"write off amount\" is not working for Sales Invoice and POS Invoice",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Computers Cannot Make Decisions I know this topic and thinking will evolve. When someone hands the reins to an agent or group of agents, the agent(s) have free rein to do things, including things not directly intended by the owner. If a person has a child, and their child does something bad, there is some mixed responsibility there. It’s a spectrum from age 0 to 18, where 0 is 100% parent responsibility and 18 is 100",
-      "evidence": "Hacker News — Publié le 2026-10-10 ; collecté le 2026-10-11.",
+      "problem": "\"write off amount\" is not working for Sales Invoice and POS Invoice ### Information about bug Currently the \"write off amount\" field is not working for doctype Sales Invoice and POS Invoice. Origem of this bug was made on https://github.com/frappe/erpnext/pull/30395 Because this PR impact on POS Sales where **change amount** and **write off** amount need work together. How we expect this to work: **Example 1:** I cre",
+      "evidence": "GitHub frappe/erpnext — Publié le 2025-01-29 ; collecté le 2026-10-12.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,15 +60,15 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50037984"
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/45607"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique nouveaux-usages-developpeurs. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique nouveaux-usages-developpeurs. 1 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "nouveaux-usages-developpeurs",

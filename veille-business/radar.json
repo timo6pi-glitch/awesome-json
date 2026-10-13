@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T02:04:58.476Z",
+  "updatedAt": "2026-10-13T09:31:19.220Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "e1ade39188fb49f381",
+      "firstSeenAt": "2026-10-13T09:31:19.220Z",
+      "lastSeenAt": "2026-10-13T09:31:19.220Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Your Agent Paid. That Does Not Mean It Should Have.",
+      "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd",
+      "sourceName": "DEV Community",
+      "observedFact": "Your Agent Paid. That Does Not Mean It Should Have. An AI agent is writing a report and needs one data point. The API answers: this costs five cents. The...",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-11 ; collecté le 2026-10-13.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "6efd2dccaaba8dcb73",
       "firstSeenAt": "2026-10-13T02:04:58.476Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "96343674ec2e31331d",
-      "firstSeenAt": "2026-10-04T15:24:35.279Z",
-      "lastSeenAt": "2026-10-04T15:24:35.279Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Why don't more developers “use the platform”?",
-      "url": "https://news.ycombinator.com/item?id=49953717",
-      "sourceName": "Hacker News",
-      "observedFact": "Why don't more developers “use the platform”? ~a year ago i passed a major inflection point regarding web UIs. i built an in-browser STT app UI with dear imgui, and everything just _worked_. i’m rendering to a canvas, running the model in a service worker and heavily using web audio, among other platform APIs. but. at this point, i’d even struggle to comprehend the concept of going back to using the DOM for anything ",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-10-04 ; collecté le 2026-10-04.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-13T02:04:58.476Z",
-    "family": "changements-plateformes",
+    "at": "2026-10-13T09:31:19.220Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 5,
+    "newSignals": 1,
     "collectionError": null
   }
 }
