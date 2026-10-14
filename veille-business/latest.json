@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Recreational Programming",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Recreational Programming &gt; but no PC Magazine Product of the Year! Well, hitting the first home run took about a decade full of base hits and more than a few strike-outs on the way to figuring out what I needed to know to do a tech startup well. &gt; What is the &quot;weird&quot; kid doing today? Over the last decade I&#x27;ve spent increasing pro bono time trying to &#x27;pay it forward&#x27; talking to classes a",
+      "evidence": "Hacker News — Publié le 2026-10-14 ; collecté le 2026-10-14.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50081954"
+        }
+      ]
+    },
+    {
+      "name": "Gemini 4 Argon",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Gemini 4 Argon - I clicked &quot;try in gemini&quot;, typed a prompt, got an unimpressive result. - Then I realized Gemini 3 was active. - I tried switching models. - I was presented with a $99&#x2F;mo subscription offering. - I scrolled down and clicked to get cheaper options. - I chose the $19.99 &quot;AI Pro&quot; monthly option and paid. - In chat I was able to use Argon. Cool. Seems pretty smart. - I asked Argon",
+      "evidence": "Hacker News — Publié le 2026-10-14 ; collecté le 2026-10-14.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50081645"
+        }
+      ]
+    },
     {
       "name": "Your Agent Paid. That Does Not Mean It Should Have.",
       "verdict": "RECHERCHER",
@@ -24,54 +64,14 @@
           "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd"
         }
       ]
-    },
-    {
-      "name": "Many-to-One Subscription to Invoice relationship?",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Many-to-One Subscription to Invoice relationship? ## Before Submitting - [x] I searched existing issues and confirmed this is not a duplicate - [x] This is a feature request, not a bug or support question - [ ] For support: https://discuss.frappe.io/c/erpnext/6 **Is your feature request related to a problem? Please describe.** I have a Supplier who issues invoices with multiple Subscriptions on it. Currently, ERPNext",
-      "evidence": "GitHub frappe/erpnext — Publié le 2026-06-25 ; collecté le 2026-10-12.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/56483"
-        }
-      ]
-    },
-    {
-      "name": "\"write off amount\" is not working for Sales Invoice and POS Invoice",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "\"write off amount\" is not working for Sales Invoice and POS Invoice ### Information about bug Currently the \"write off amount\" field is not working for doctype Sales Invoice and POS Invoice. Origem of this bug was made on https://github.com/frappe/erpnext/pull/30395 Because this PR impact on POS Sales where **change amount** and **write off** amount need work together. How we expect this to work: **Example 1:** I cre",
-      "evidence": "GitHub frappe/erpnext — Publié le 2025-01-29 ; collecté le 2026-10-12.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/45607"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique nouveaux-usages-developpeurs. 1 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 11 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "nouveaux-usages-developpeurs",
+      "communautes-us",
       "Sans ChatGPT"
     ]
   }
