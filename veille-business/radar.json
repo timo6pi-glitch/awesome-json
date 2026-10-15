@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T22:21:05.722Z",
+  "updatedAt": "2026-10-15T01:32:35.811Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "6a0ae11cc2cd58944b",
+      "firstSeenAt": "2026-10-15T01:32:35.811Z",
+      "lastSeenAt": "2026-10-15T01:32:35.811Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Local speech with llamadart: giving Llama Village a voice",
+      "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
+      "sourceName": "DEV Community",
+      "observedFact": "Local speech with llamadart: giving Llama Village a voice Beyond chat with llamadart · Part 3 Pip’s scarf is missing. I wanted Dash to be able to fly over to...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-14 ; collecté le 2026-10-15.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "4a4c32ec728aec7527",
       "firstSeenAt": "2026-10-14T22:21:05.722Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "627c1f5fb10620baa3",
-      "firstSeenAt": "2026-10-06T15:16:16.397Z",
-      "lastSeenAt": "2026-10-06T15:16:16.397Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://news.ycombinator.com/item?id=49978354",
-      "sourceName": "Hacker News",
-      "observedFact": "JetBrains reported a net financial loss first time in its tracked history YOE is ~30, from my first PHP app to present. I&#x27;ve spent somewhere between 5 and 80 hours a week coding for the past 30 years, mostly self-employed, writing tools and creating custom CNC machines&#x2F;robots for my own business, but more recently doing same thing for a company as a full time employee. I still get to do some coding, where t",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-10-06 ; collecté le 2026-10-06.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-14T22:21:05.722Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-10-15T01:32:35.811Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 5,
+    "newSignals": 1,
     "collectionError": null
   }
 }
