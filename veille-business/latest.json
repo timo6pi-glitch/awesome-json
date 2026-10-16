@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Show HN: Ito – build terminal UI in Lua",
+      "name": "Non-Determinism Doesn't Matter",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Show HN: Ito – build terminal UI in Lua My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts&#x27; desire. So, we started looking out for harnesses. Pi was great, Pi was good. But in the end, it was JavaScript. I don&#x27;t have anything against JavaScript, but Lua is more fitting, and I can just as easily ",
-      "evidence": "Hacker News — Publié le 2026-10-15 ; collecté le 2026-10-15.",
+      "problem": "Non-Determinism Doesn't Matter I hate using LLMs as a tool, I never hated compilers, I’m very confident I wouldn’t have hated compilers if I was writing machine code. Some folks seem to like LLMs as a tool, some hate it. I think the reason it is so polarizing, is whether you like using your brain to problem solve or not. Those who don’t want to use their brain to problem solve and would rather just spend all their ti",
+      "evidence": "Hacker News — Publié le 2026-10-16 ; collecté le 2026-10-16.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50100131"
+          "url": "https://news.ycombinator.com/item?id=50113986"
         }
       ]
     },
     {
-      "name": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "name": "The 8-mile hole in a Hawaii national park that no one can explain",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Banks are now trying to offload the AI data center debt they just underwrote Bonds are a weird product. As long as the issuer honors them (remains in business) they are a guaranteed return. In this case CoreWeave has sold ~4billion in 5 year bonds at a 9% rate. If you buy one for 1000 bucks you will get 2x45$ payments a year for 5 years. Then at the end a 1000 cash payment. For the sake of argument let&#x27;s say you",
-      "evidence": "Hacker News — Publié le 2026-10-15 ; collecté le 2026-10-15.",
+      "problem": "The 8-mile hole in a Hawaii national park that no one can explain &gt; I sometimes wonder how these devs can sleep at night You might be surprised. I met a guy in Berkeley who lived out of a van. He told me that he ran a horrible ad distribution thing as a way to make his living. There was some fly-by-night colo or homelab setup he had to run some cheap pizza box hardware. &quot;I&#x27;m basically always playing a ga",
+      "evidence": "Hacker News — Publié le 2026-10-16 ; collecté le 2026-10-16.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50099683"
+          "url": "https://news.ycombinator.com/item?id=50113497"
         }
       ]
     },
     {
-      "name": "How Amazon pushes up prices all across the Internet",
+      "name": "Using AI to reverse engineer hardware",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "How Amazon pushes up prices all across the Internet A previous customer paid money for a new fan, and then they got a refund by returning the old fan as new. Now they have a new fan, and they have their money back. The shitbird customer is pleased with their infinite-fan life hack. Their return goes back normal stock. --- It&#x27;s ugly and reprehensible. It happens all the time. It happens with places that are down ",
-      "evidence": "Hacker News — Publié le 2026-10-15 ; collecté le 2026-10-15.",
+      "problem": "Using AI to reverse engineer hardware I&#x27;m guessing the Lexicon was mine: https:&#x2F;&#x2F;github.com&#x2F;joelanders&#x2F;reflecticon-224 It was a fun project because it predates DSP chips by a couple years (1978). So there&#x27;s an 8080 host driving some DSP boards made out of 7400 series chips. Bio of the designer with a photo of him prototyping it: https:&#x2F;&#x2F;www.davidgriesinger.com&#x2F;biographies&",
+      "evidence": "Hacker News — Publié le 2026-10-15 ; collecté le 2026-10-16.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,14 +61,14 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50099164"
+          "url": "https://news.ycombinator.com/item?id=50111576"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 11 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 9 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "communautes-us",
