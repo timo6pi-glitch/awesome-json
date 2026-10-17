@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T13:18:43.541Z",
+  "updatedAt": "2026-10-17T05:39:13.719Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "94a95149ca825ee4b0",
+      "firstSeenAt": "2026-10-17T05:39:13.719Z",
+      "lastSeenAt": "2026-10-17T05:39:13.719Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "My old job feels distant now",
+      "url": "https://news.ycombinator.com/item?id=50127612",
+      "sourceName": "Hacker News",
+      "observedFact": "My old job feels distant now While that sounds a little doomerish and probably for good reason, there is the obvious alternative. Dont change. Software developers do not have to change anything they control their means of production and we dont HAVE to use any of this stuff. IF you are saying that there will be non-engineers willing to step in to hit enter (as in the business&#x2F;product people) and LLMs will be goo",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "989eb0fa12b55baa61",
       "firstSeenAt": "2026-10-16T13:18:43.541Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "8ec486882fe309e4e4",
-      "firstSeenAt": "2026-10-07T21:20:59.881Z",
-      "lastSeenAt": "2026-10-07T21:20:59.881Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "FTL: A new operating system for clouds",
-      "url": "https://news.ycombinator.com/item?id=49946726",
-      "sourceName": "Hacker News",
-      "observedFact": "FTL: A new operating system for clouds When AI proves theorems, it uses divide-and-conquer approach just as humans - it breaks a big theorem into lemmas and tackles lemmas one by one. An alternative approach where it is just one big-ass logical expression is just not better. Same thing with code, I think - you need some intermediate results like a calling convention, helper subroutines, etc. A sufficiently powerful A",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-03 ; collecté le 2026-10-07.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3626,10 +3626,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-16T13:18:43.541Z",
+    "at": "2026-10-17T05:39:13.719Z",
     "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 4,
+    "newSignals": 1,
     "collectionError": null
   }
 }
