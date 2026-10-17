@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T05:39:13.719Z",
+  "updatedAt": "2026-10-17T14:14:54.750Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "85166c0f216a902d56",
+      "firstSeenAt": "2026-10-17T14:14:54.750Z",
+      "lastSeenAt": "2026-10-17T14:14:54.750Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[Phase 3] Automação de Deploy Serverless no GCP (Cloud Run, Cloud Tasks)",
+      "url": "https://github.com/luismarquitti/intellifinance-go/issues/20",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[Phase 3] Automação de Deploy Serverless no GCP (Cloud Run, Cloud Tasks) ## Objetivo Desenvolver scripts de automação (scripts/deploy-gcp.sh) e templates de infraestrutura para provisionamento e deploy contínuo no Google Cloud com scale-to-zero ( custo ocioso). ## Tarefas - [ ] Criar script scripts/deploy-gcp.sh utilizando Google Cloud Build e gcloud run deploy - [ ] Configurar parâmetros de scale-to-zero no Cloud Ru",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-10-15 ; collecté le 2026-10-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "ba18c613242051a391",
+      "firstSeenAt": "2026-10-17T14:14:54.750Z",
+      "lastSeenAt": "2026-10-17T14:14:54.750Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[P2][TECH-DEBT][CONSOLE][CONFIG][APDEX] Auditar todas as variáveis: persistência INI/sessão, restauração e execução efetiva",
+      "url": "https://github.com/cardozo81/RASAI-Readiness-Auditor/issues/523",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[P2][TECH-DEBT][CONSOLE][CONFIG][APDEX] Auditar todas as variáveis: persistência INI/sessão, restauração e execução efetiva ## Contexto — smoke humano, 13/10/2026 (AUD nova em execução) Após configurar Perplexity Search Intelligence e seus parâmetros em sessão anterior e executar **Salvar configuração** para o `rasai-console.ini`, o operador abriu o console em outra sessão e observou: ```text Perplexity externa : NÃO",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-13 ; collecté le 2026-10-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "461a82e1a6e0de3c77",
+      "firstSeenAt": "2026-10-17T14:14:54.750Z",
+      "lastSeenAt": "2026-10-17T14:14:54.750Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Epic: documentation redesign, iteration 2: sparse landing page, three pathways (science / code / demos), Neutronics Lesson 1 \"Meet the Neutron\"",
+      "url": "https://github.com/theodoreOnzGit/outram-park-backend/issues/906",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Epic: documentation redesign, iteration 2: sparse landing page, three pathways (science / code / demos), Neutronics Lesson 1 \"Meet the Neutron\" Maintainer specification, 2026-10-16. It is reproduced in full below, as written. Related: #509 (teaching-site epic), #876 (web demo feedback, including item 8, the site-wide search), #510 and #511. **Governing principle:** *Help users see through the information before showi",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-16 ; collecté le 2026-10-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "94a95149ca825ee4b0",
       "firstSeenAt": "2026-10-17T05:39:13.719Z",
@@ -3557,63 +3611,14 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "1f5097791b5e460e7b",
-      "firstSeenAt": "2026-10-07T21:20:59.881Z",
-      "lastSeenAt": "2026-10-07T21:20:59.881Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Vibecoding Photoshop: Time and pressure",
-      "url": "https://news.ycombinator.com/item?id=49990606",
-      "sourceName": "Hacker News",
-      "observedFact": "Vibecoding Photoshop: Time and pressure And if you’re in the middle? I’ve decided to build my alternative because every time there is a prosumer tool I like (Pixelmator, affinity) they get bought out (affinity to canva), or the developers suck (Pixelmator developers cramming all features people wanted into a different “pro” version) More info in another comment. One of the reasons I’m doing this is to also see how (a",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-07 ; collecté le 2026-10-07.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "78dbb75101143f4801",
-      "firstSeenAt": "2026-10-07T21:20:59.881Z",
-      "lastSeenAt": "2026-10-07T21:20:59.881Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://news.ycombinator.com/item?id=49980793",
-      "sourceName": "Hacker News",
-      "observedFact": "JetBrains reported a net financial loss first time in its tracked history Obviously the narrative will be AI CLI impact but the quality of IntelliJ has taken such a nose dive that I was already looking for alternatives before Claude Code took over the world. IJ used to be one of my most respected pieces of software, it was solid, performant, and the new features were generally thoughtful and well done. That started c",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-06 ; collecté le 2026-10-07.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "34674a2870eee134a8",
-      "firstSeenAt": "2026-10-07T21:20:59.881Z",
-      "lastSeenAt": "2026-10-07T21:20:59.881Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49959474",
-      "sourceName": "Hacker News",
-      "observedFact": "Tell HN: Bob Cringely has died Don&#x27;t know, sounds like a total plattitude. There&#x27;s no singular &quot;right way to think&quot; that applies in all cases. In many cases thinking of &quot;radical alternatives&quot; can be a bad idea (think people falling for &quot;alternative medicine&quot; stuff). Or some idiot coming up with shitty &quot;radical alternatives&quot; because they can&#x27;t accept some specific",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-05 ; collecté le 2026-10-07.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
+    {
+      "url": "https://github.com/CompuMasterGmbH/CompuMaster.Dms/issues/90",
+      "reason": "Sujet exclu par les règles du radar (service, contenu marketing ou mission).",
+      "rejectedAt": "2026-10-17T14:14:54.750Z"
+    },
     {
       "url": "https://www.reddit.com/r/smallbusiness/comments/1tcaizi/how_do_you_all_handle_invoicing_im_embarrassed_by/",
       "reason": "Le message décrit 3 à 4 heures hebdomadaires d’invoicing manuel, mais un commentaire relie l’auteur à un produit qu’il construisait déjà ; risque élevé de recherche marketing déguisée et solutions gratuites citées.",
@@ -3626,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-17T05:39:13.719Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
-    "newSignals": 1,
+    "at": "2026-10-17T14:14:54.750Z",
+    "family": "github-et-demandes-fonctionnelles",
+    "region": "Monde",
+    "newSignals": 3,
     "collectionError": null
   }
 }
