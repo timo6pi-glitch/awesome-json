@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Non-Determinism Doesn't Matter",
+      "name": "My old job feels distant now",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Non-Determinism Doesn't Matter I hate using LLMs as a tool, I never hated compilers, I’m very confident I wouldn’t have hated compilers if I was writing machine code. Some folks seem to like LLMs as a tool, some hate it. I think the reason it is so polarizing, is whether you like using your brain to problem solve or not. Those who don’t want to use their brain to problem solve and would rather just spend all their ti",
-      "evidence": "Hacker News — Publié le 2026-10-16 ; collecté le 2026-10-16.",
+      "problem": "My old job feels distant now While that sounds a little doomerish and probably for good reason, there is the obvious alternative. Dont change. Software developers do not have to change anything they control their means of production and we dont HAVE to use any of this stuff. IF you are saying that there will be non-engineers willing to step in to hit enter (as in the business&#x2F;product people) and LLMs will be goo",
+      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-17.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,15 +21,15 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50113986"
+          "url": "https://news.ycombinator.com/item?id=50127612"
         }
       ]
     },
     {
-      "name": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "name": "Ubuntu 26.10 (Stonking Stingray) released",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "The 8-mile hole in a Hawaii national park that no one can explain &gt; I sometimes wonder how these devs can sleep at night You might be surprised. I met a guy in Berkeley who lived out of a van. He told me that he ran a horrible ad distribution thing as a way to make his living. There was some fly-by-night colo or homelab setup he had to run some cheap pizza box hardware. &quot;I&#x27;m basically always playing a ga",
+      "problem": "Ubuntu 26.10 (Stonking Stingray) released &gt; you can&#x27;t opt out of apt without changing distros Yes, however apt&#x2F;dnf&#x2F;emerge&#x2F;etc. are main package managers of the systems. They don&#x27;t slowly overtake packages you use or the repositories of other distributions do not quietly offload package installations to other package managers (e.g.: apt install firefox triggers snap installation in Ubuntu. ",
       "evidence": "Hacker News — Publié le 2026-10-16 ; collecté le 2026-10-16.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
@@ -41,7 +41,7 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50113497"
+          "url": "https://news.ycombinator.com/item?id=50115572"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "name": "Using AI to reverse engineer hardware",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Using AI to reverse engineer hardware I&#x27;m guessing the Lexicon was mine: https:&#x2F;&#x2F;github.com&#x2F;joelanders&#x2F;reflecticon-224 It was a fun project because it predates DSP chips by a couple years (1978). So there&#x27;s an 8080 host driving some DSP boards made out of 7400 series chips. Bio of the designer with a photo of him prototyping it: https:&#x2F;&#x2F;www.davidgriesinger.com&#x2F;biographies&",
+      "problem": "Using AI to reverse engineer hardware &gt; It sucks if you’re a rent seeker, but I’m enjoying this post-IP world Oh yes, this new world is terrible for rent seekers. It&#x27;s like the kum-bah-yah free software world Stallman might have imagined. Information wants to be free and all. Can&#x27;t stop the signal. Very counterculture. Like the Adobe clone apps. Except for the closed SOTA model weights, out of reach hard",
       "evidence": "Hacker News — Publié le 2026-10-15 ; collecté le 2026-10-16.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50111576"
+          "url": "https://news.ycombinator.com/item?id=50111346"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 9 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-us",
+      "changements-plateformes",
       "Sans ChatGPT"
     ]
   }
