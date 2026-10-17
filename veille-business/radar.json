@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T14:14:54.750Z",
+  "updatedAt": "2026-10-17T17:18:42.435Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "bbb69df19711e1a7ad",
+      "firstSeenAt": "2026-10-17T17:18:42.435Z",
+      "lastSeenAt": "2026-10-17T17:18:42.435Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
+      "sourceName": "DEV Community",
+      "observedFact": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives? Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-13 ; collecté le 2026-10-17.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "85166c0f216a902d56",
       "firstSeenAt": "2026-10-17T14:14:54.750Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "3096de2e2f2e9024a6",
-      "firstSeenAt": "2026-10-07T21:20:59.881Z",
-      "lastSeenAt": "2026-10-07T21:20:59.881Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "url": "https://news.ycombinator.com/item?id=49990858",
-      "sourceName": "Hacker News",
-      "observedFact": "ArtCraft Apps – open-source Adobe compatible suite written in Rust honestly, for what it is, it aint too bad, to think ai did this in this short of a time, im actually stoked on what the project could become. I want to leave adobe for good and this LightCraft thing does what no other alternative can, Presets from lightroom. if the creator fixes Masks and uses local ai possibilities for masking and such, this could ve",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-07 ; collecté le 2026-10-07.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-17T14:14:54.750Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-10-17T17:18:42.435Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 3,
+    "newSignals": 1,
     "collectionError": null
   }
 }
