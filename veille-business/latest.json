@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "My old job feels distant now",
+      "name": "A skeptic's first contact with Kubernetes (2024)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "My old job feels distant now While that sounds a little doomerish and probably for good reason, there is the obvious alternative. Dont change. Software developers do not have to change anything they control their means of production and we dont HAVE to use any of this stuff. IF you are saying that there will be non-engineers willing to step in to hit enter (as in the business&#x2F;product people) and LLMs will be goo",
-      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-17.",
+      "problem": "A skeptic's first contact with Kubernetes (2024) This is partially a tangent, but the whole managing of software infrastructure is a strange culture. There would of course be lots of better ways, but it&#x27;s too bad the infrastructure side of the software industry lives partially in a parallel world and many of the lessons from elsewhere in the industry are not really widespread there (at least yet). Even banks see",
+      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50127612"
+          "url": "https://news.ycombinator.com/item?id=50134634"
         }
       ]
     },
     {
-      "name": "Ubuntu 26.10 (Stonking Stingray) released",
+      "name": "Why is every rationalist blog post way too long?",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ubuntu 26.10 (Stonking Stingray) released &gt; you can&#x27;t opt out of apt without changing distros Yes, however apt&#x2F;dnf&#x2F;emerge&#x2F;etc. are main package managers of the systems. They don&#x27;t slowly overtake packages you use or the repositories of other distributions do not quietly offload package installations to other package managers (e.g.: apt install firefox triggers snap installation in Ubuntu. ",
-      "evidence": "Hacker News — Publié le 2026-10-16 ; collecté le 2026-10-16.",
+      "problem": "Why is every rationalist blog post way too long? Dissapointingly, I got the exact response I thought I would. &gt; I spent quite a lot of time reading and interactimg with conservatives and republicans. I am from that environment. I don&#x27;t believe you. I am not conservative; I am not American, and I can tell you haven&#x27;t. &gt; Claim it was rejection of both parties is self serving bullshit. It feel good sound",
+      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50115572"
+          "url": "https://news.ycombinator.com/item?id=50134432"
         }
       ]
     },
     {
-      "name": "Using AI to reverse engineer hardware",
+      "name": "Making chicken transparent using Dorito dust",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Using AI to reverse engineer hardware &gt; It sucks if you’re a rent seeker, but I’m enjoying this post-IP world Oh yes, this new world is terrible for rent seekers. It&#x27;s like the kum-bah-yah free software world Stallman might have imagined. Information wants to be free and all. Can&#x27;t stop the signal. Very counterculture. Like the Adobe clone apps. Except for the closed SOTA model weights, out of reach hard",
-      "evidence": "Hacker News — Publié le 2026-10-15 ; collecté le 2026-10-16.",
+      "problem": "Making chicken transparent using Dorito dust I’ve got those same calipers (they look like the generic calipers from outstanding companies on Amazon such as CEDEXS) that I found along side the road on a run. I would venture to say they’d survive a good dousing in alcohol, but not an autoclave. They’re worth about what I’d paid for them, but yeah, I’d hate to ruin even found tools with salmonella vectors.",
+      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50111346"
+          "url": "https://news.ycombinator.com/item?id=50133966"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 3 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "changements-plateformes",
+      "github-et-demandes-fonctionnelles",
       "Sans ChatGPT"
     ]
   }

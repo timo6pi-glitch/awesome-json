@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T23:10:59.055Z",
+  "updatedAt": "2026-10-18T06:00:11.108Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "7b17388a3cc247f54a",
+      "firstSeenAt": "2026-10-18T06:00:11.108Z",
+      "lastSeenAt": "2026-10-18T06:00:11.108Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "feat(dart): unify cached and uncached CRUD/traversal with Firestore-style sync",
+      "url": "https://github.com/anaregdesign/lantern/issues/1766",
+      "sourceName": "GitHub Issues",
+      "observedFact": "feat(dart): unify cached and uncached CRUD/traversal with Firestore-style sync ## Current exit buckets - 2026-10-18 | Independent exit | Done/total | Evidence/blocker | | --- | --- | --- | | Merged feature source/CI | Historical 6/6; post-feature repair 0/1 | #1815/#1818 and OPEN PR #1816 remain blocking. | | Final selected-source acceptance | 0/1 | Unmerged `b44427de`: canonical 65 PASS / 1 FAIL / 11 NOT_RUN; F PASS",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-14 ; collecté le 2026-10-18.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "f54ad608e32ad00315",
+      "firstSeenAt": "2026-10-18T06:00:11.108Z",
+      "lastSeenAt": "2026-10-18T06:00:11.108Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Register source-owned flow event and revision identifiers for Core exact-record contracts",
+      "url": "https://github.com/sgajbi/lotus-platform/issues/967",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Register source-owned flow event and revision identifiers for Core exact-record contracts ## Problem and ownership Core's unreleased `PortfolioFinancialFlowObservations:v1` needs stable original supplier record identity and a positive immutable integer revision. Existing `event_id` is a consumer dead-letter audit identifier; `source_version` is a source contract/product version. The later proposed `source_event_id` a",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-15 ; collecté le 2026-10-18.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "336a1ce8fd50a2bb10",
+      "firstSeenAt": "2026-10-18T06:00:11.108Z",
+      "lastSeenAt": "2026-10-18T06:00:11.108Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[CRAP] workflowFailureReporter.action (128) + githubHelpers.detectFailedChecks (87)",
+      "url": "https://github.com/IstiN/dmtools-agents/issues/1007",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[CRAP] workflowFailureReporter.action (128) + githubHelpers.detectFailedChecks (87) ## Problem `js/workflowFailureReporter.js::action` **128.1** and `js/common/githubHelpers.js::detectFailedChecks` **86.9**: failure reporting and CI failure classification, used when deciding rework vs retry. ## Goal Bring each named function under CRAP 30 by extracting pure parse/build/decide helpers and covering every branch with ch",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-18.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "7935378ddf76612487",
       "firstSeenAt": "2026-10-17T23:10:59.055Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "372a6fba6e8551aa98",
-      "firstSeenAt": "2026-10-09T21:44:39.215Z",
-      "lastSeenAt": "2026-10-09T21:44:39.215Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://news.ycombinator.com/item?id=50018816",
-      "sourceName": "Hacker News",
-      "observedFact": "Man discovers his parents' coffee machine used 1TB of data in 10 days Difficult to tell. I seen a heavy duty (office) top notch and top brand coffee maker breaking down in every two weeks before the IoT frenzy and killing people&#x27;s privacy by collecting all their data covertly. The mechanics may be good, may be bad, and for a grinder+brewer unit connected to the water pipes so you don&#x27;t have to fill it up, e",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-09 ; collecté le 2026-10-09.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "b557fa2cb2be187635",
-      "firstSeenAt": "2026-10-09T21:44:39.215Z",
-      "lastSeenAt": "2026-10-09T21:44:39.215Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "url": "https://news.ycombinator.com/item?id=50015082",
-      "sourceName": "Hacker News",
-      "observedFact": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI I am anti LLM by many means, but I do believe it is possible (setting aside some moral quandaries just for the sake of argument) to accelerate the development of software in a meaningful way using them. But doing so requires a strictly defined process of incrementalism, incorporating human expertise and intervention, treating the LLM as a",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-09 ; collecté le 2026-10-09.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "b2e240b08d34b3ce94",
-      "firstSeenAt": "2026-10-09T21:44:39.215Z",
-      "lastSeenAt": "2026-10-09T21:44:39.215Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.ycombinator.com/item?id=50014060",
-      "sourceName": "Hacker News",
-      "observedFact": "Margaret Hamilton has died About Canada https:&#x2F;&#x2F;engineerscanada.ca&#x2F;become-an-engineer&#x2F;use-of-profess... &gt; Misuse of the title engineer [..] &gt; Areas of concern &gt; There are several places where the use of engineer is often used improperly. They include: &gt; Software or data engineer: In most provinces*, unless someone is licensed with a provincial or territorial engineering regulator, they",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-08 ; collecté le 2026-10-09.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-17T23:10:59.055Z",
-    "family": "communautes-us",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-18T06:00:11.108Z",
+    "family": "github-et-demandes-fonctionnelles",
+    "region": "Monde",
+    "newSignals": 3,
     "collectionError": null
   }
 }
