@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "A skeptic's first contact with Kubernetes (2024)",
+      "name": "Sourcehut account takeover via build logs (XSS in ansi2html)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "A skeptic's first contact with Kubernetes (2024) This is partially a tangent, but the whole managing of software infrastructure is a strange culture. There would of course be lots of better ways, but it&#x27;s too bad the infrastructure side of the software industry lives partially in a parallel world and many of the lessons from elsewhere in the industry are not really widespread there (at least yet). Even banks see",
-      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
+      "problem": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-10-19.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50134634"
+          "url": "https://news.ycombinator.com/item?id=49840867"
         }
       ]
     },
     {
-      "name": "Why is every rationalist blog post way too long?",
+      "name": "OpenSpec – A lightweight and configurable AI spec framework",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Why is every rationalist blog post way too long? Dissapointingly, I got the exact response I thought I would. &gt; I spent quite a lot of time reading and interactimg with conservatives and republicans. I am from that environment. I don&#x27;t believe you. I am not conservative; I am not American, and I can tell you haven&#x27;t. &gt; Claim it was rejection of both parties is self serving bullshit. It feel good sound",
-      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
+      "problem": "OpenSpec – A lightweight and configurable AI spec framework It&#x27;s interesting to see the divergence of opinions on these frameworks and also at least anecdotally how many people roll their own custom implementations of workflow management on top of their favourite SDD framework. I also ended up doing my own thing mainly to address several omissions in the existing frameworks (for SDD I prefer to use Superpowers a",
+      "evidence": "Hacker News — Publié le 2026-09-17 ; collecté le 2026-10-19.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,15 +41,15 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50134432"
+          "url": "https://news.ycombinator.com/item?id=49737218"
         }
       ]
     },
     {
-      "name": "Making chicken transparent using Dorito dust",
+      "name": "Microsoft Teams is a red flag",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Making chicken transparent using Dorito dust I’ve got those same calipers (they look like the generic calipers from outstanding companies on Amazon such as CEDEXS) that I found along side the road on a run. I would venture to say they’d survive a good dousing in alcohol, but not an autoclave. They’re worth about what I’d paid for them, but yeah, I’d hate to ruin even found tools with salmonella vectors.",
+      "problem": "Microsoft Teams is a red flag Snap opinion made by a software dev who thinks the entire world revolves around software development and this dev&#x27;s workflow. There&#x27;s any number of reasons an org would choose teams over slack, or any Microsoft product over an alternative, even your example of the cost shows a clear lack of knowledge of information outside your narrow scope. How do you know your org is paying t",
       "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50133966"
+          "url": "https://news.ycombinator.com/item?id=50134982"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 3 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "changements-plateformes",
       "Sans ChatGPT"
     ]
   }
