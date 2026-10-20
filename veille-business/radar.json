@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T07:41:33.058Z",
+  "updatedAt": "2026-10-20T13:37:42.357Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "47d6bb2a498419fced",
+      "firstSeenAt": "2026-10-20T13:37:42.357Z",
+      "lastSeenAt": "2026-10-20T13:37:42.357Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "It's still ok to enjoy programming",
+      "url": "https://news.ycombinator.com/item?id=50162619",
+      "sourceName": "Hacker News",
+      "observedFact": "It's still ok to enjoy programming For starters, I&#x27;d love to see someone with hiring or legislative power tackle the subject of displacement without being dismissive. For example, anyone who dedicated a bit of brainpower could understand that prompt engineering was bullshit from the beginning. Yet today we&#x27;re still seeing it being rehashed as an alternative to knowledge work in the form of harnessing , guar",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-20 ; collecté le 2026-10-20.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "c07d6a4a683ad642f1",
+      "firstSeenAt": "2026-10-20T13:37:42.357Z",
+      "lastSeenAt": "2026-10-20T13:37:42.357Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "url": "https://news.ycombinator.com/item?id=50152875",
+      "sourceName": "Hacker News",
+      "observedFact": "Ousted Savannah police officer gave ICE agent husband access to Flock system I think the idea of Flock (and all modern software, pretty much) is not just to offer a service, but to offer it as dirt-cheap and lazily as possible with the intent of creating reasonable margins for a product that otherwise shouldn&#x27;t even be profitable in the first place. Doing things, &quot;correctly&quot; is sort of no longer the pl",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-19 ; collecté le 2026-10-20.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "2cd3bf6da8380dd0dc",
       "firstSeenAt": "2026-10-20T07:41:33.058Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "427346d0644dbc2b73",
-      "firstSeenAt": "2026-10-11T22:05:14.237Z",
-      "lastSeenAt": "2026-10-11T22:05:14.237Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "feat: reduce input tokens with quality-gated context selection (ECC + Superpowers)",
-      "url": "https://github.com/cepeter-job/SillyTavern-Telegram-Bridge/issues/421",
-      "sourceName": "GitHub Issues",
-      "observedFact": "feat: reduce input tokens with quality-gated context selection (ECC + Superpowers) > **Acceptance target revision — 2026-10-09:** The current required efficiency gate is **≥20% aggregate provider-reported story input-token reduction** on the predeclared, matched, representative workload, **and lower total story + helper + repair + retry + fallback input per matched accepted work**. Preserve all independently required",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-10-07 ; collecté le 2026-10-12.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "c065b11d8151eb5931",
-      "firstSeenAt": "2026-10-11T22:05:14.237Z",
-      "lastSeenAt": "2026-10-11T22:05:14.237Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "chore: remove the /gh-webhook gateway route and the ADW trigger startup",
-      "url": "https://github.com/SBub/issebya-homes-ai-system/issues/230",
-      "sourceName": "GitHub Issues",
-      "observedFact": "chore: remove the /gh-webhook gateway route and the ADW trigger startup ## Problem GitHub label events no longer come through the tunnel. Since SBub/adw-toolkit#53, every onboarded repo's Issues webhook (this one included, hook 680180167) points at the Supabase Edge Function `github-webhook`. Nothing sends to `/gh-webhook` any more, so the gateway route to the ADW trigger on port 8001 and the script that starts the t",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-10-08 ; collecté le 2026-10-12.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-20T07:41:33.058Z",
-    "family": "communautes-us",
+    "at": "2026-10-20T13:37:42.357Z",
+    "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 5,
+    "newSignals": 2,
     "collectionError": null
   }
 }
