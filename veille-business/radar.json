@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T22:22:24.376Z",
+  "updatedAt": "2026-10-21T01:40:28.274Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "7cb3d6e36838b733a8",
+      "firstSeenAt": "2026-10-21T01:40:28.274Z",
+      "lastSeenAt": "2026-10-21T01:40:28.274Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "If you are a human, what are you looking for here?",
+      "url": "https://dev.to/micaavigliano/if-you-are-a-human-what-are-you-looking-here-4aid",
+      "sourceName": "DEV Community",
+      "observedFact": "If you are a human, what are you looking for here? I have been moderating the tag #a11y for a couple of months and I noticed that it is flooded with...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-21.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "622e793c9300ab1bab",
       "firstSeenAt": "2026-10-20T22:22:24.376Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "1094fcf2e091deb030",
-      "firstSeenAt": "2026-10-11T22:05:14.237Z",
-      "lastSeenAt": "2026-10-11T22:05:14.237Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "[SDI AND02] Android Studio core: canvas, brushes, layers, history, export",
-      "url": "https://github.com/jmw7629/StickDeath-Infinity-/issues/287",
-      "sourceName": "GitHub Issues",
-      "observedFact": "[SDI AND02] Android Studio core: canvas, brushes, layers, history, export Part of #286 and the authoritative delivery tracker #116. **Delivery:** P1 · Later-work queue. **Outcome and acceptance** - [ ] Implement the shared document schema with an Android canvas, brush families, layers, frames, full-document history and atomic save/reopen. - [ ] PNG/spritesheet/MP4 export matching the iOS contract with measured resour",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-07 ; collecté le 2026-10-12.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-20T22:22:24.376Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-10-21T01:40:28.274Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 4,
+    "newSignals": 1,
     "collectionError": null
   }
 }
