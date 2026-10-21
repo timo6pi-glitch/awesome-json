@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "name": "An ad-free Android TV",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-10-19.",
+      "problem": "An ad-free Android TV This is entirely too much effort, which truly drives home how the business model of televisions is now highly influenced by razors. I buy a screen. I choose to control what outputs to said screen. The discussion should end there, were the product the screen. In reality, people actively pay money to become the product (i.e paying to be advertised to, and paying for your own data yo be sold). I se",
+      "evidence": "Hacker News — Publié le 2026-10-21 ; collecté le 2026-10-21.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49840867"
+          "url": "https://news.ycombinator.com/item?id=50176286"
         }
       ]
     },
     {
-      "name": "OpenSpec – A lightweight and configurable AI spec framework",
+      "name": "Is caravan living a realistic answer to Australia's rental crisis?",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "OpenSpec – A lightweight and configurable AI spec framework It&#x27;s interesting to see the divergence of opinions on these frameworks and also at least anecdotally how many people roll their own custom implementations of workflow management on top of their favourite SDD framework. I also ended up doing my own thing mainly to address several omissions in the existing frameworks (for SDD I prefer to use Superpowers a",
-      "evidence": "Hacker News — Publié le 2026-09-17 ; collecté le 2026-10-19.",
+      "problem": "Is caravan living a realistic answer to Australia's rental crisis? Given [1] and [2] Australia is exporting a little less than what it&#x27;s using. The loss of refineries due to ageing is most likely why once again Australia is exporting raw product and paying a premium to ship the finished product back, though from [3] it would seem our natural mineral crude has its days numbered. If I were to be annoyed with anyth",
+      "evidence": "Hacker News — Publié le 2026-10-21 ; collecté le 2026-10-21.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49737218"
+          "url": "https://news.ycombinator.com/item?id=50176086"
         }
       ]
     },
     {
-      "name": "Microsoft Teams is a red flag",
+      "name": "Facebook Pages require paid subscription to post more than two links per month",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Microsoft Teams is a red flag Snap opinion made by a software dev who thinks the entire world revolves around software development and this dev&#x27;s workflow. There&#x27;s any number of reasons an org would choose teams over slack, or any Microsoft product over an alternative, even your example of the cost shows a clear lack of knowledge of information outside your narrow scope. How do you know your org is paying t",
-      "evidence": "Hacker News — Publié le 2026-10-17 ; collecté le 2026-10-18.",
+      "problem": "Facebook Pages require paid subscription to post more than two links per month Most Filipinos cannot grok why Meta and its properties are a toxic waste dump, because they are part of the problem. They&#x27;re addicted to those &quot;data only&quot; plans you&#x27;re talking about. To them, Facebook is the internet. It&#x27;s as simple as that, and because their culture is so docile and submissive, they don&#x27;t thi",
+      "evidence": "Hacker News — Publié le 2026-10-21 ; collecté le 2026-10-21.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,14 +61,14 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50134982"
+          "url": "https://news.ycombinator.com/item?id=50175006"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 5 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "communautes-us",
