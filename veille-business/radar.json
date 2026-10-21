@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T13:54:05.400Z",
+  "updatedAt": "2026-10-21T18:43:32.668Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "33a04a50c78b120fd3",
+      "firstSeenAt": "2026-10-21T18:43:32.668Z",
+      "lastSeenAt": "2026-10-21T18:43:32.668Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Inconsistent Error Messaging / Handling in getStaticPaths",
+      "url": "https://github.com/vercel/next.js/issues/41281",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Inconsistent Error Messaging / Handling in getStaticPaths ### Verify canary release - [X] I verified that the issue exists in the latest Next.js canary release ### Provide environment information Operating System: Platform: darwin Arch: arm64 Version: Darwin Kernel Version 21.0.1: Tue Sep 14 20:56:24 PDT 2021; root:xnu-8019.30.61~4/RELEASE_ARM64_T6000 Binaries: Node: 16.14.2 npm: 8.5.0 Yarn: 1.22.19 pnpm: N/A Relevan",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2022-10-08 ; collecté le 2026-10-21.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "259514722fab8c4681",
+      "firstSeenAt": "2026-10-21T18:43:32.668Z",
+      "lastSeenAt": "2026-10-21T18:43:32.668Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "I18n configuration in next.config.js breaks app directory",
+      "url": "https://github.com/vercel/next.js/issues/53724",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "I18n configuration in next.config.js breaks app directory ### Verify canary release - [X] I verified that the issue exists in the latest Next.js canary release ### Provide environment information ```bash Operating System: Platform: darwin Arch: x64 Version: Darwin Kernel Version 22.6.0: Wed Jul 5 22:21:56 PDT 2023; root:xnu-8796.141.3~6/RELEASE_X86_64 Binaries: Node: 20.5.0 npm: 9.8.0 Yarn: 3.5.0 pnpm: 8.6.12 Relevan",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2023-08-08 ; collecté le 2026-10-21.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "5fc0ad1c4bc7c820f4",
       "firstSeenAt": "2026-10-21T13:54:05.400Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "258e0f58a8bf3746a7",
-      "firstSeenAt": "2026-10-13T02:04:58.476Z",
-      "lastSeenAt": "2026-10-13T02:04:58.476Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "changements-plateformes",
-      "title": "[cacheComponents] Activity component route preservation causes significant breakage in application logic, UI behavior and E2E tests",
-      "url": "https://github.com/vercel/next.js/issues/86577",
-      "sourceName": "GitHub vercel/next.js",
-      "observedFact": "[cacheComponents] Activity component route preservation causes significant breakage in application logic, UI behavior and E2E tests ### Link to the code that reproduces this issue https://github.com/SorooshGb/next16-activity-breakage-repro ### To Reproduce ### This reproduction demonstrates **3** issues caused by Activity-component–driven route preservation when `cacheComponents: true` is enabled 1. Clone the reprodu",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2025-11-27 ; collecté le 2026-10-13.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "5ff3bc0288db067ec8",
-      "firstSeenAt": "2026-10-13T02:04:58.476Z",
-      "lastSeenAt": "2026-10-13T02:04:58.476Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "changements-plateformes",
-      "title": "`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`",
-      "url": "https://github.com/vercel/next.js/issues/53473",
-      "sourceName": "GitHub vercel/next.js",
-      "observedFact": "`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions` ### Verify canary release - [X] I verified that the issue exists in the latest Next.js canary release ### Provide environment information ```bash Operating System: Platform: darwin Arch: arm64 Version: Darwin Kernel Version 22.5.0: Thu Jun 8 22:22:20 PDT 2023; root:xnu-8796.121.3~7/RELEASE_ARM64_T6000 Binaries: Node: 18.14.2 npm: 9.8.1 Yarn:",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2023-08-02 ; collecté le 2026-10-13.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-21T13:54:05.400Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
-    "newSignals": 7,
+    "at": "2026-10-21T18:43:32.668Z",
+    "family": "changements-plateformes",
+    "region": "Monde",
+    "newSignals": 2,
     "collectionError": null
   }
 }
