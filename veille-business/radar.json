@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T13:52:29.544Z",
+  "updatedAt": "2026-10-22T18:36:21.654Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "6efd2dccaaba8dcb73",
+      "firstSeenAt": "2026-10-22T18:36:21.654Z",
+      "lastSeenAt": "2026-10-22T18:36:21.654Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Debugger not binding breakpoints in VSCode in server components, using official Next.js debugger setup",
+      "url": "https://github.com/vercel/next.js/issues/62008",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Debugger not binding breakpoints in VSCode in server components, using official Next.js debugger setup ### Link to the code that reproduces this issue https://github.com/andrewmartin/nextjs-example ### To Reproduce 1. Open the code in `VSCode` 2. Add a breakpoint in any server side files 3. Open the \"Run and Debug\" panel 4. Select \"Next.js: debug full stack\" and press \"F5\" or the play button 5. Note that breakpoints ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2024-02-13 ; collecté le 2026-10-22.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "258e0f58a8bf3746a7",
+      "firstSeenAt": "2026-10-22T18:36:21.654Z",
+      "lastSeenAt": "2026-10-22T18:36:21.654Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "[cacheComponents] Activity component route preservation causes significant breakage in application logic, UI behavior and E2E tests",
+      "url": "https://github.com/vercel/next.js/issues/86577",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "[cacheComponents] Activity component route preservation causes significant breakage in application logic, UI behavior and E2E tests ### Link to the code that reproduces this issue https://github.com/SorooshGb/next16-activity-breakage-repro ### To Reproduce ### This reproduction demonstrates **3** issues caused by Activity-component–driven route preservation when `cacheComponents: true` is enabled 1. Clone the reprodu",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2025-11-27 ; collecté le 2026-10-22.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "5ff3bc0288db067ec8",
+      "firstSeenAt": "2026-10-22T18:36:21.654Z",
+      "lastSeenAt": "2026-10-22T18:36:21.654Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`",
+      "url": "https://github.com/vercel/next.js/issues/53473",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions` ### Verify canary release - [X] I verified that the issue exists in the latest Next.js canary release ### Provide environment information ```bash Operating System: Platform: darwin Arch: arm64 Version: Darwin Kernel Version 22.5.0: Thu Jun 8 22:22:20 PDT 2023; root:xnu-8796.121.3~7/RELEASE_ARM64_T6000 Binaries: Node: 18.14.2 npm: 9.8.1 Yarn:",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2023-08-02 ; collecté le 2026-10-22.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "04078e94189241b279",
       "firstSeenAt": "2026-10-22T13:52:29.544Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "20b9fb9da192f3d9f9",
-      "firstSeenAt": "2026-10-14T13:48:20.733Z",
-      "lastSeenAt": "2026-10-14T13:48:20.733Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-      "url": "https://news.ycombinator.com/item?id=50053463",
-      "sourceName": "Hacker News",
-      "observedFact": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her That&#x27;s not really the point. Employers add software to monitor. How that software works internally they are probably clueless about and if that software decides it wants a live audio stream then it has many alternative pathways.",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-12 ; collecté le 2026-10-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "1b30be1b499e927bcb",
-      "firstSeenAt": "2026-10-14T07:44:45.069Z",
-      "lastSeenAt": "2026-10-14T07:44:45.069Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "A plea not to use uv-build",
-      "url": "https://news.ycombinator.com/item?id=50083795",
-      "sourceName": "Hacker News",
-      "observedFact": "A plea not to use uv-build You are absolutely delusional. None of what you write is true. &gt; This is the entire point of build backends This is false. Python doesn&#x27;t have any format, any way of describing how to compile a package. There&#x27;s a gaping void where such a specification should be. Every tool that does it, has its own bespoke way of configuring it. Most of them don&#x27;t even care what PyPA has t",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-14 ; collecté le 2026-10-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "13498d928a1ff7dc23",
-      "firstSeenAt": "2026-10-14T07:44:45.069Z",
-      "lastSeenAt": "2026-10-14T07:44:45.069Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Recreational Programming",
-      "url": "https://news.ycombinator.com/item?id=50082991",
-      "sourceName": "Hacker News",
-      "observedFact": "Recreational Programming &quot;Recreational Programming&quot; sounds like a fun legal alternative to &quot;Medical Programming&quot; that you don&#x27;t need a prescription from your doctor to do. I prefer the term &quot;Pleasure Programming&quot;, to de-emphasize how addictive it is. &gt;Permission to build useless things. I prefer the term &quot;Ultimate Things&quot;, to de-emphasize how useless they are. https:&#x",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-14 ; collecté le 2026-10-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-22T13:52:29.544Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
-    "newSignals": 4,
+    "at": "2026-10-22T18:36:21.654Z",
+    "family": "changements-plateformes",
+    "region": "Monde",
+    "newSignals": 3,
     "collectionError": null
   }
 }
