@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T07:38:57.951Z",
+  "updatedAt": "2026-10-23T13:32:56.436Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "f6ea1de219f2602899",
+      "firstSeenAt": "2026-10-23T13:32:56.436Z",
+      "lastSeenAt": "2026-10-23T13:32:56.436Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Is this the new cyber normal?",
+      "url": "https://news.ycombinator.com/item?id=50208592",
+      "sourceName": "Hacker News",
+      "observedFact": "Is this the new cyber normal? I’d like to push back on the idea that this bug would have been quite difficult for a human to discover. I’m not much of a C programmer these days, but I’ve known longjmp to be a code smell for decades now. The reasons why were broadly covered in a 1968 CACM letter to the editor by Dijkstra that we’ve all certainly heard about. Though possibly not everyone makes the connection because if",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-23 ; collecté le 2026-10-23.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "2078b4de31db9e5350",
+      "firstSeenAt": "2026-10-23T13:32:56.436Z",
+      "lastSeenAt": "2026-10-23T13:32:56.436Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "What’s getting pwned right now",
+      "url": "https://news.ycombinator.com/item?id=50198190",
+      "sourceName": "Hacker News",
+      "observedFact": "What’s getting pwned right now Rogue AI agents in banks is going to be wild when it hits mainstream notice. This might honestly be one of the most organic shifts that we see back to crypto. At least with bitcoin etc, you can self-custody all your money, and you don&#x27;t have to worry about banks running on 1990s software being one-shot by some one-off hacker running Qwen3.8-heretic on their GPU. (also, what a great",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-22 ; collecté le 2026-10-23.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "a40c3502a3a256506f",
+      "firstSeenAt": "2026-10-23T13:32:56.436Z",
+      "lastSeenAt": "2026-10-23T13:32:56.436Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Claude Duet",
+      "url": "https://news.ycombinator.com/item?id=50196794",
+      "sourceName": "Hacker News",
+      "observedFact": "Claude Duet Ha, sure! It&#x27;s more a &quot;zen sandbox&quot; than something I intended to ever publish... but you never know - after all I didn&#x27;t set out intending to make a vibed DE either. At the same time, I&#x27;d encourage others interested to try making their own zen sandbox instead - you&#x27;d probably enjoy it a lot more than mine! In spirit of the whole thing being vibed, here&#x27;s a low-effort AI ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-22 ; collecté le 2026-10-23.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "672b3e94b51f7da980",
       "firstSeenAt": "2026-10-23T07:38:57.951Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "507d00bcd14956ab12",
-      "firstSeenAt": "2026-10-15T07:32:10.964Z",
-      "lastSeenAt": "2026-10-15T07:32:10.964Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Suicide rates highest ever among middle-aged men",
-      "url": "https://news.ycombinator.com/item?id=50098555",
-      "sourceName": "Hacker News",
-      "observedFact": "Suicide rates highest ever among middle-aged men Most people who are saying this to you are in a similar situation like yourself, but with that missing element you have. If you have money, but they don&#x27;t, then they think there must be your fault, because if they had money, they wouldn&#x27;t be in this situation. If you&#x27;re muscular, but they&#x27;re not, then they think if they were muscular, they wouldn&#x",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-15 ; collecté le 2026-10-15.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "6a0ae11cc2cd58944b",
-      "firstSeenAt": "2026-10-15T01:32:35.811Z",
-      "lastSeenAt": "2026-10-15T01:32:35.811Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "nouveaux-usages-developpeurs",
-      "title": "Local speech with llamadart: giving Llama Village a voice",
-      "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
-      "sourceName": "DEV Community",
-      "observedFact": "Local speech with llamadart: giving Llama Village a voice Beyond chat with llamadart · Part 3 Pip’s scarf is missing. I wanted Dash to be able to fly over to...",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-14 ; collecté le 2026-10-15.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "4a4c32ec728aec7527",
-      "firstSeenAt": "2026-10-14T22:21:05.722Z",
-      "lastSeenAt": "2026-10-14T22:21:05.722Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "github-et-demandes-fonctionnelles",
-      "title": "Explorer public pages and checkout match buyer web without repeated buyer details",
-      "url": "https://github.com/Mingla-LLC/mingla-main/issues/3859",
-      "sourceName": "GitHub Issues",
-      "observedFact": "Explorer public pages and checkout match buyer web without repeated buyer details ## User problem A person using Explorer cannot currently rely on every public page and purchase journey to behave like the equivalent buyer-web journey. The live example is a native brand card that opens Host even though Explorer has a working native event route. Checkout adds higher-risk gaps: installment choice and authority can drift",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-10-14 ; collecté le 2026-10-15.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-23T07:38:57.951Z",
-    "family": "communautes-us",
+    "at": "2026-10-23T13:32:56.436Z",
+    "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 11,
+    "newSignals": 3,
     "collectionError": null
   }
 }
