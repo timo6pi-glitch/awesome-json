@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T22:25:02.706Z",
+  "updatedAt": "2026-10-23T01:35:50.755Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "6418591b17b135376c",
+      "firstSeenAt": "2026-10-23T01:35:50.755Z",
+      "lastSeenAt": "2026-10-23T01:35:50.755Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Docker Compose 5.6's jobs type only starts through docker compose run",
+      "url": "https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a",
+      "sourceName": "DEV Community",
+      "observedFact": "Docker Compose 5.6's jobs type only starts through docker compose run Docker Compose 5.6 added a jobs: section for one-off tasks. up, create and start all refuse to touch one, a scheduled trigger makes up fail outright, and only docker compose run actually starts a job, paying about 15% more when its dependency has to start cold.",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-23.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "92f9b7195fbe7700ee",
       "firstSeenAt": "2026-10-22T22:25:02.706Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "5489473f099ef2966c",
-      "firstSeenAt": "2026-10-14T13:48:20.733Z",
-      "lastSeenAt": "2026-10-14T13:48:20.733Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://news.ycombinator.com/item?id=50060611",
-      "sourceName": "Hacker News",
-      "observedFact": "Will Linux phones become a viable alternative to the Android/iOS duopoly? My personal experience. I&#x27;ve been using GNU&#x2F;Linux on my daily driver phones for nearly two decades now. Started just before the first Android phone appeared on the market and went through a bunch of devices since. Android never appeared to me as a viable alternative during that whole time (it was in fact closer to being one in the pas",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-12 ; collecté le 2026-10-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-22T22:25:02.706Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-10-23T01:35:50.755Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 3,
+    "newSignals": 1,
     "collectionError": null
   }
 }
