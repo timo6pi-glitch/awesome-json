@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "An ad-free Android TV",
+      "name": "I would like the value of my home to rise, while my property taxes fall",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "An ad-free Android TV This is entirely too much effort, which truly drives home how the business model of televisions is now highly influenced by razors. I buy a screen. I choose to control what outputs to said screen. The discussion should end there, were the product the screen. In reality, people actively pay money to become the product (i.e paying to be advertised to, and paying for your own data yo be sold). I se",
-      "evidence": "Hacker News — Publié le 2026-10-21 ; collecté le 2026-10-21.",
+      "problem": "I would like the value of my home to rise, while my property taxes fall Entitlement isn&#x27;t a sin, my good sir! It is instead a thing that is worthy of accomplishing! If you have a degree in mathematics from 1984, then you&#x27;re still entitled to that degree today in 2026. And if you bought a house and the land that it sits on in 1984, and paid for it wholly and own the title for it, then you&#x27;re literally-e",
+      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-23.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50176286"
+          "url": "https://news.ycombinator.com/item?id=50205388"
         }
       ]
     },
     {
-      "name": "Is caravan living a realistic answer to Australia's rental crisis?",
+      "name": "Australia's Hydro Project Snowy 2.0 Now Costs 11 Times Original Estimate",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Is caravan living a realistic answer to Australia's rental crisis? Given [1] and [2] Australia is exporting a little less than what it&#x27;s using. The loss of refineries due to ageing is most likely why once again Australia is exporting raw product and paying a premium to ship the finished product back, though from [3] it would seem our natural mineral crude has its days numbered. If I were to be annoyed with anyth",
-      "evidence": "Hacker News — Publié le 2026-10-21 ; collecté le 2026-10-21.",
+      "problem": "Australia's Hydro Project Snowy 2.0 Now Costs 11 Times Original Estimate It&#x27;s bad luck when one of the main tools to do the job runs into issues, or conditions struck are much different to what was expected. However I have my suspicions [1] that there&#x27;s plenty of people who&#x27;ve either opted to milk as much as they can get from the project or padded bills for reimbursement as the taxman is paying ... or ",
+      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-23.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50176086"
+          "url": "https://news.ycombinator.com/item?id=50203116"
         }
       ]
     },
     {
-      "name": "Facebook Pages require paid subscription to post more than two links per month",
+      "name": "Claude Duet",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Facebook Pages require paid subscription to post more than two links per month Most Filipinos cannot grok why Meta and its properties are a toxic waste dump, because they are part of the problem. They&#x27;re addicted to those &quot;data only&quot; plans you&#x27;re talking about. To them, Facebook is the internet. It&#x27;s as simple as that, and because their culture is so docile and submissive, they don&#x27;t thi",
-      "evidence": "Hacker News — Publié le 2026-10-21 ; collecté le 2026-10-21.",
+      "problem": "Claude Duet Guessed wrong :) I was on the reduced lunch program in high school and a full financial aid scholarship at Harvard; my dad left for China to start a company when I was in middle school and left my mom with $100k in credit card debt that she managed to pay off while working two minimum wage jobs sleeping less than 4 hours a night trying to take care of me as a single parent when I was extremely emotionally",
+      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-23.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,14 +61,14 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50175006"
+          "url": "https://news.ycombinator.com/item?id=50203035"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 11 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "communautes-us",
