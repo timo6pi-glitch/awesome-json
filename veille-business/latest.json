@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown The topic has been discussed multiple times, and propaganda really feels like not acknowledging past discussions. You might not have seen past discussions so I&#x27;ll give you a pass and restate my argument. One important way that scams reach end users are through the willing participation of ad platforms, and even before DSA (not that much has changed)",
+      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-24.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50209610"
+        }
+      ]
+    },
     {
       "name": "I would like the value of my home to rise, while my property taxes fall",
       "verdict": "RECHERCHER",
@@ -44,31 +64,11 @@
           "url": "https://news.ycombinator.com/item?id=50203116"
         }
       ]
-    },
-    {
-      "name": "Claude Duet",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Claude Duet Guessed wrong :) I was on the reduced lunch program in high school and a full financial aid scholarship at Harvard; my dad left for China to start a company when I was in middle school and left my mom with $100k in credit card debt that she managed to pay off while working two minimum wage jobs sleeping less than 4 hours a night trying to take care of me as a single parent when I was extremely emotionally",
-      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-23.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50203035"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 11 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "communautes-us",
