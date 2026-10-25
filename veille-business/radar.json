@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T19:43:35.396Z",
+  "updatedAt": "2026-10-25T22:37:32.384Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "c00b05fc6b5653150f",
+      "firstSeenAt": "2026-10-25T22:37:32.384Z",
+      "lastSeenAt": "2026-10-25T22:37:32.384Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://news.ycombinator.com/item?id=50210949",
+      "sourceName": "Hacker News",
+      "observedFact": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier I hear what you’re saying but let me offer an alternative perspective. Before I started professionally programming I worked in kitchens. I see way more happy, healthy, financially secure folks past middle age in software than I did in restaurants. I sometimes miss the fun but it’s mostly grueling. Also, watching what working in the trades ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-23 ; collecté le 2026-10-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "cd3c132ce7dcab61a4",
       "firstSeenAt": "2026-10-25T19:43:35.396Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "08cf3f6615e31529e8",
-      "firstSeenAt": "2026-10-17T23:10:59.055Z",
-      "lastSeenAt": "2026-10-17T23:10:59.055Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Microsoft Teams is a red flag",
-      "url": "https://news.ycombinator.com/item?id=50135607",
-      "sourceName": "Hacker News",
-      "observedFact": "Microsoft Teams is a red flag &gt; since it&#x27;s literally coercing somebody to accept Microsoft&#x27;s abusive privacy and service policies that explicitly state that unless agreed, their products can&#x27;t be used. As an employee, the company sets the conditions and tools to work there. If communication is to happen on Microsoft Teams, and you refuse to use it, your future employment with them seems difficult. S",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,9 +3631,9 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-25T19:43:35.396Z",
-    "family": "changements-plateformes",
-    "region": "Monde",
+    "at": "2026-10-25T22:37:32.384Z",
+    "family": "avis-et-alternatives-logicielles",
+    "region": "États-Unis / monde",
     "newSignals": 1,
     "collectionError": null
   }
