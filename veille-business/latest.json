@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "name": "We should be more ambitious with the software we build",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown The topic has been discussed multiple times, and propaganda really feels like not acknowledging past discussions. You might not have seen past discussions so I&#x27;ll give you a pass and restate my argument. One important way that scams reach end users are through the willing participation of ad platforms, and even before DSA (not that much has changed)",
-      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-24.",
+      "problem": "We should be more ambitious with the software we build Count me in the second camp. I&#x27;ve been writing software for 20+ years, and I recently built a low-cost Google Voice alternative because every business VoIP option I looked at was either overpriced or missing something I wanted. Without AI, that&#x27;s a project I probably would never have started. With AI, I built it solo in under a month. I even have some p",
+      "evidence": "Hacker News — Publié le 2026-10-25 ; collecté le 2026-10-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50209610"
+          "url": "https://news.ycombinator.com/item?id=50227493"
         }
       ]
     },
     {
-      "name": "I would like the value of my home to rise, while my property taxes fall",
+      "name": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "I would like the value of my home to rise, while my property taxes fall Entitlement isn&#x27;t a sin, my good sir! It is instead a thing that is worthy of accomplishing! If you have a degree in mathematics from 1984, then you&#x27;re still entitled to that degree today in 2026. And if you bought a house and the land that it sits on in 1984, and paid for it wholly and own the title for it, then you&#x27;re literally-e",
-      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-23.",
+      "problem": "Elon Musk Just Gave Europe a Reason to Replace American Technology Sigh. Steve Blank is probably right about this: &gt; In the years ahead, this may cost American companies tens if not hundreds of billions of lost revenue. The question is, if European governments and businesses conclude they cannot trust non-European software and hardware, what can they do about it? On the software side, it seems to me the only reali",
+      "evidence": "Hacker News — Publié le 2026-10-24 ; collecté le 2026-10-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50205388"
+          "url": "https://news.ycombinator.com/item?id=50221863"
         }
       ]
     },
     {
-      "name": "Australia's Hydro Project Snowy 2.0 Now Costs 11 Times Original Estimate",
+      "name": "Many-to-One Subscription to Invoice relationship?",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Australia's Hydro Project Snowy 2.0 Now Costs 11 Times Original Estimate It&#x27;s bad luck when one of the main tools to do the job runs into issues, or conditions struck are much different to what was expected. However I have my suspicions [1] that there&#x27;s plenty of people who&#x27;ve either opted to milk as much as they can get from the project or padded bills for reimbursement as the taxman is paying ... or ",
-      "evidence": "Hacker News — Publié le 2026-10-23 ; collecté le 2026-10-23.",
+      "problem": "Many-to-One Subscription to Invoice relationship? ## Before Submitting - [x] I searched existing issues and confirmed this is not a duplicate - [x] This is a feature request, not a bug or support question - [ ] For support: https://discuss.frappe.io/c/erpnext/6 **Is your feature request related to a problem? Please describe.** I have a Supplier who issues invoices with multiple Subscriptions on it. Currently, ERPNext",
+      "evidence": "GitHub frappe/erpnext — Publié le 2026-06-25 ; collecté le 2026-10-24.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,18 +60,18 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50203116"
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/56483"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique logiciels-open-source-et-lacunes. 1 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-us",
+      "logiciels-open-source-et-lacunes",
       "Sans ChatGPT"
     ]
   }
