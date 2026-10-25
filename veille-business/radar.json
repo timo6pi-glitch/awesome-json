@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:36:48.326Z",
+  "updatedAt": "2026-10-25T19:43:35.396Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "cd3c132ce7dcab61a4",
+      "firstSeenAt": "2026-10-25T19:43:35.396Z",
+      "lastSeenAt": "2026-10-25T19:43:35.396Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Next.js 15.4.4+ production builds broken when using a specific 3rd-party-library - dev server is fine",
+      "url": "https://github.com/vercel/next.js/issues/82640",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Next.js 15.4.4+ production builds broken when using a specific 3rd-party-library - dev server is fine ### Link to the code that reproduces this issue https://github.com/soulchild/next-dynamics-web-api-reproduction ### To Reproduce The repo contains the exact same example, once with Next.js 15.4.3 (working as intended) and Next.js 15.4.6 (build breaks with a weird error). To reproduce, run `npm i && npm run build` in ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2025-08-14 ; collecté le 2026-10-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "cff1e8502995f31671",
       "firstSeenAt": "2026-10-25T12:36:48.326Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "80fe26b12498ef0b65",
-      "firstSeenAt": "2026-10-17T23:10:59.055Z",
-      "lastSeenAt": "2026-10-17T23:10:59.055Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://news.ycombinator.com/item?id=50135410",
-      "sourceName": "Hacker News",
-      "observedFact": "DeepSeek-v4.1-Flash-1017 Caveat: I get a budget of free ai tokens at work, as I work for an open source AI inference provider. My goal is to reverse engineer an entire gamecube game -- I&#x27;m pushing an existing community decomp that was stalled to the finish line, solo, with lots of AI help. This work was directly inspired by https:&#x2F;&#x2F;decomp.dev&#x2F; -- which has just shut down a few days ago because of,",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,8 +3631,8 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-25T12:36:48.326Z",
-    "family": "logiciels-open-source-et-lacunes",
+    "at": "2026-10-25T19:43:35.396Z",
+    "family": "changements-plateformes",
     "region": "Monde",
     "newSignals": 1,
     "collectionError": null
