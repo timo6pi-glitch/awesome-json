@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T22:37:32.384Z",
+  "updatedAt": "2026-10-26T14:21:48.825Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "91274e45d1c39e4293",
+      "firstSeenAt": "2026-10-26T14:21:48.825Z",
+      "lastSeenAt": "2026-10-26T14:21:48.825Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://news.ycombinator.com/item?id=50240378",
+      "sourceName": "Hacker News",
+      "observedFact": "Show HN: A Truly Modular Keyboard Non-viable product. I would NOT buy this. - How much does it cost? Sell price, not BoM price. I expect something like $10&#x27;000 for a full 104-key layout. - How heavy would it be? - Can you lift a 104-key layout from the table without it breaking in 2 (or more) pieces? Can you even lift or move a 40% layout with one hand? - How do you arrange it in a non-ortholinear layout? If you",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-10-26 ; collecté le 2026-10-26.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "c00b05fc6b5653150f",
       "firstSeenAt": "2026-10-25T22:37:32.384Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "a680973a0e70378593",
-      "firstSeenAt": "2026-10-17T23:10:59.055Z",
-      "lastSeenAt": "2026-10-17T23:10:59.055Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "url": "https://news.ycombinator.com/item?id=50135863",
-      "sourceName": "Hacker News",
-      "observedFact": "Microsoft and CMU Team Up to Train Early Career Software Engineers Your comment completely misses the point. AI is fully capable of replacing shitty developers that cannot program and cannot write original code of their own. This is not a technology problem, missing skills problem, or even an AI problem. It’s a problem of missing training and missing mentorship coupled with weak leaders who would rather throw their p",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-17 ; collecté le 2026-10-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,7 +3631,7 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-25T22:37:32.384Z",
+    "at": "2026-10-26T14:21:48.825Z",
     "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
     "newSignals": 1,

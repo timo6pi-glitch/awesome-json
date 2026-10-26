@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
@@ -68,10 +68,10 @@
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique logiciels-open-source-et-lacunes. 1 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique avis-et-alternatives-logicielles. 1 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "logiciels-open-source-et-lacunes",
+      "avis-et-alternatives-logicielles",
       "Sans ChatGPT"
     ]
   }
