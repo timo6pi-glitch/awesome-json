@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T00:32:32.206Z",
+  "updatedAt": "2026-10-27T06:22:55.411Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "0d7073cc3c4882d1c9",
+      "firstSeenAt": "2026-10-27T06:22:55.411Z",
+      "lastSeenAt": "2026-10-27T06:22:55.411Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Do you want to keep your job? Stop feeding AI models",
+      "url": "https://news.ycombinator.com/item?id=50253551",
+      "sourceName": "Hacker News",
+      "observedFact": "Do you want to keep your job? Stop feeding AI models Why would I stop publishing FOSS code? Software&#x27;s ultimate destiny is freedom. It&#x27;s good to propagate high-quality software that respects users, the alternative is a predatory hegemony that punishes humanity even more.",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-27 ; collecté le 2026-10-27.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "c63ae3732ac36f58cd",
+      "firstSeenAt": "2026-10-27T06:22:55.411Z",
+      "lastSeenAt": "2026-10-27T06:22:55.411Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Anthropic S-1",
+      "url": "https://news.ycombinator.com/item?id=50252057",
+      "sourceName": "Hacker News",
+      "observedFact": "Anthropic S-1 Agree. I think slowly companies and governments are ditching US tech. Many companies relied on US tech rather than Chinese with worried of CCP intervention and now it is clear that it will be the same with US tech. I understand that US is migrating to a no friends policy, but I don&#x27;t think its internal market is nearly ready to support it if clients start to go away. Anecdotally, I talked to people",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-26 ; collecté le 2026-10-27.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "1a40d39199a1797890",
       "firstSeenAt": "2026-10-27T00:32:32.206Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "a205763ce9cee5b0a5",
-      "firstSeenAt": "2026-10-18T11:18:20.499Z",
-      "lastSeenAt": "2026-10-18T11:18:20.499Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "[Bug]: SMB webdav Exception \"Malformed state response from server\", \"Undefined index: attributes\"",
-      "url": "https://github.com/nextcloud/server/issues/41114",
-      "sourceName": "GitHub nextcloud/server",
-      "observedFact": "[Bug]: SMB webdav Exception \"Malformed state response from server\", \"Undefined index: attributes\" ### ⚠️ This issue respects the following points: ⚠️ - [X] This is a **bug**, not a question or a configuration/webserver/proxy issue. - [X] This issue is **not** already reported on Github _(I've searched it)_. - [X] Nextcloud Server **is** up to date. See [Maintenance and Release Schedule](https://github.com/nextcloud/s",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2022-06-16 ; collecté le 2026-10-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "dd84388683b7d11315",
-      "firstSeenAt": "2026-10-18T11:18:20.499Z",
-      "lastSeenAt": "2026-10-18T11:18:20.499Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "[Bug]: `hash_hkdf(): Argument #2 ($key) cannot be empty` / `HMAC does not match`",
-      "url": "https://github.com/nextcloud/server/issues/34012",
-      "sourceName": "GitHub nextcloud/server",
-      "observedFact": "[Bug]: `hash_hkdf(): Argument #2 ($key) cannot be empty` / `HMAC does not match` ### ⚠️ This issue respects the following points: ⚠️ - [X] This is a **bug**, not a question or a configuration/webserver/proxy issue. - [X] This issue is **not** already reported on Github _(I've searched it)_. - [X] Nextcloud Server **is** up to date. See [Maintenance and Release Schedule](https://github.com/nextcloud/server/wiki/Mainte",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2022-09-10 ; collecté le 2026-10-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-27T00:32:32.206Z",
-    "family": "communautes-us",
+    "at": "2026-10-27T06:22:55.411Z",
+    "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 9,
+    "newSignals": 2,
     "collectionError": null
   }
 }
