@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "We should be more ambitious with the software we build",
+      "name": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "We should be more ambitious with the software we build Count me in the second camp. I&#x27;ve been writing software for 20+ years, and I recently built a low-cost Google Voice alternative because every business VoIP option I looked at was either overpriced or missing something I wanted. Without AI, that&#x27;s a project I probably would never have started. With AI, I built it solo in under a month. I even have some p",
-      "evidence": "Hacker News — Publié le 2026-10-25 ; collecté le 2026-10-25.",
+      "problem": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis I&#x27;m building a little side business with LLMs doing 90%+ of the work, and this includes numerical analysis of revenue to figure out where to direct effort. Today the problem you&#x27;re mentioning is easily avoided if you are aware by ensuring you direct the agents to build tools for anything deterministic. Every week &quot;we&quot; (myself an",
+      "evidence": "Hacker News — Publié le 2026-10-26 ; collecté le 2026-10-27.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50227493"
+          "url": "https://news.ycombinator.com/item?id=50241892"
         }
       ]
     },
     {
-      "name": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "name": "JetBrains reports revenue growth, net financial loss for 2025",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Elon Musk Just Gave Europe a Reason to Replace American Technology Sigh. Steve Blank is probably right about this: &gt; In the years ahead, this may cost American companies tens if not hundreds of billions of lost revenue. The question is, if European governments and businesses conclude they cannot trust non-European software and hardware, what can they do about it? On the software side, it seems to me the only reali",
-      "evidence": "Hacker News — Publié le 2026-10-24 ; collecté le 2026-10-25.",
+      "problem": "JetBrains reports revenue growth, net financial loss for 2025 Not sure who downvoted this. JetBrains IDEs are done for. I don&#x27;t even remember the last time I opened them, I cancelled my All Products pack this year. The advantage it had over vscode was always the better language features and the familiar UI. None of that is useful to me in AI based workflows. Some might still disagree, but the manual development ",
+      "evidence": "Hacker News — Publié le 2026-10-06 ; collecté le 2026-10-27.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50221863"
+          "url": "https://news.ycombinator.com/item?id=49977765"
         }
       ]
     },
     {
-      "name": "Many-to-One Subscription to Invoice relationship?",
+      "name": "Ask HN: Who wants to be hired? (October 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Many-to-One Subscription to Invoice relationship? ## Before Submitting - [x] I searched existing issues and confirmed this is not a duplicate - [x] This is a feature request, not a bug or support question - [ ] For support: https://discuss.frappe.io/c/erpnext/6 **Is your feature request related to a problem? Please describe.** I have a Supplier who issues invoices with multiple Subscriptions on it. Currently, ERPNext",
-      "evidence": "GitHub frappe/erpnext — Publié le 2026-06-25 ; collecté le 2026-10-24.",
+      "problem": "Ask HN: Who wants to be hired? (October 2026) Location: Madrid, Spain (UTC+1&#x2F;+2) Remote: Yes, remote only Willing to relocate: No Technologies: Python, SQL, PostgreSQL&#x2F;Supabase (multi-tenant RLS), n8n, Docker, WhatsApp Business API, Google Calendar API, LLM integrations (prompts, guardrails, human handoff); earlier C++ and PHP (IVR) Résumé&#x2F;CV: https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;olivermedma",
+      "evidence": "Hacker News — Publié le 2026-10-04 ; collecté le 2026-10-27.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,18 +60,18 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/56483"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49953740"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique avis-et-alternatives-logicielles. 1 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique travail-manuel-recurrent. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "avis-et-alternatives-logicielles",
+      "travail-manuel-recurrent",
       "Sans ChatGPT"
     ]
   }
