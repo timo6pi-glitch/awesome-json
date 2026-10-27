@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T13:19:15.926Z",
+  "updatedAt": "2026-10-27T19:27:57.285Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "846df507e024224c66",
+      "firstSeenAt": "2026-10-27T19:27:57.285Z",
+      "lastSeenAt": "2026-10-27T19:27:57.285Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Hot reload dont work when you use docker",
+      "url": "https://github.com/vercel/next.js/issues/36774",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Hot reload dont work when you use docker ### Verify canary release - [X] I verified that the issue exists in Next.js canary release ### Provide environment information ``` /app # yarn run info yarn run v1.22.18 $ next info Operating System: Platform: linux Arch: x64 Version: #1 SMP Wed Mar 2 00:30:59 UTC 2022 Binaries: Node: 16.15.0 npm: 8.5.5 Yarn: 1.22.18 pnpm: N/A Relevant packages: next: 12.1.7-canary.3 react: 17",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2022-05-09 ; collecté le 2026-10-27.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "811b174cfb18995941",
       "firstSeenAt": "2026-10-27T13:19:15.926Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "6849496d8e924c1b53",
-      "firstSeenAt": "2026-10-18T15:56:55.312Z",
-      "lastSeenAt": "2026-10-18T15:56:55.312Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Interactive Linear Programming in the Browser",
-      "url": "https://news.ycombinator.com/item?id=50141524",
-      "sourceName": "Hacker News",
-      "observedFact": "Interactive Linear Programming in the Browser This is very cool. I wish there was a little more information while running each algorithm. Saying the update rule and being able to tick “next iteration” or something would be interesting.",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-18 ; collecté le 2026-10-18.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-27T13:19:15.926Z",
-    "family": "travail-manuel-recurrent",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-10-27T19:27:57.285Z",
+    "family": "changements-plateformes",
+    "region": "Monde",
+    "newSignals": 1,
     "collectionError": null
   }
 }
