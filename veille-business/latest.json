@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "OpenSpec – A lightweight and configurable AI spec framework",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "OpenSpec – A lightweight and configurable AI spec framework It&#x27;s interesting to see the divergence of opinions on these frameworks and also at least anecdotally how many people roll their own custom implementations of workflow management on top of their favourite SDD framework. I also ended up doing my own thing mainly to address several omissions in the existing frameworks (for SDD I prefer to use Superpowers a",
+      "evidence": "Hacker News — Publié le 2026-09-17 ; collecté le 2026-10-28.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49737218"
+        }
+      ]
+    },
+    {
+      "name": "Ask HN: Who wants to be hired? (September 2026)",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Ask HN: Who wants to be hired? (September 2026) Location: Los Angeles, CA Remote: Yes Willing to relocate: No Technologies: Browser DevTools, manual exploratory QA, responsive testing, accessibility spot-checks, structured bug reports, AI-assisted QA workflows Résumé&#x2F;CV: https:&#x2F;&#x2F;readyset-qa.berry-tide-5469.chatgpt.site&#x2F;sample-repo... Email: private inquiry form — https:&#x2F;&#x2F;formsubmit.co&#x",
+      "evidence": "Hacker News — Publié le 2026-09-08 ; collecté le 2026-10-28.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49604957"
+        }
+      ]
+    },
     {
       "name": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "verdict": "RECHERCHER",
@@ -24,51 +64,11 @@
           "url": "https://news.ycombinator.com/item?id=50241892"
         }
       ]
-    },
-    {
-      "name": "JetBrains reports revenue growth, net financial loss for 2025",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "JetBrains reports revenue growth, net financial loss for 2025 Not sure who downvoted this. JetBrains IDEs are done for. I don&#x27;t even remember the last time I opened them, I cancelled my All Products pack this year. The advantage it had over vscode was always the better language features and the familiar UI. None of that is useful to me in AI based workflows. Some might still disagree, but the manual development ",
-      "evidence": "Hacker News — Publié le 2026-10-06 ; collecté le 2026-10-27.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49977765"
-        }
-      ]
-    },
-    {
-      "name": "Ask HN: Who wants to be hired? (October 2026)",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: Who wants to be hired? (October 2026) Location: Madrid, Spain (UTC+1&#x2F;+2) Remote: Yes, remote only Willing to relocate: No Technologies: Python, SQL, PostgreSQL&#x2F;Supabase (multi-tenant RLS), n8n, Docker, WhatsApp Business API, Google Calendar API, LLM integrations (prompts, guardrails, human handoff); earlier C++ and PHP (IVR) Résumé&#x2F;CV: https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;olivermedma",
-      "evidence": "Hacker News — Publié le 2026-10-04 ; collecté le 2026-10-27.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49953740"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique travail-manuel-recurrent. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique travail-manuel-recurrent. 4 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "travail-manuel-recurrent",
