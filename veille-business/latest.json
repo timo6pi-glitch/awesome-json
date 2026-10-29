@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
+      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-10-29.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49840867"
+        }
+      ]
+    },
     {
       "name": "OpenSpec – A lightweight and configurable AI spec framework",
       "verdict": "RECHERCHER",
@@ -44,31 +64,11 @@
           "url": "https://news.ycombinator.com/item?id=49604957"
         }
       ]
-    },
-    {
-      "name": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis I&#x27;m building a little side business with LLMs doing 90%+ of the work, and this includes numerical analysis of revenue to figure out where to direct effort. Today the problem you&#x27;re mentioning is easily avoided if you are aware by ensuring you direct the agents to build tools for anything deterministic. Every week &quot;we&quot; (myself an",
-      "evidence": "Hacker News — Publié le 2026-10-26 ; collecté le 2026-10-27.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50241892"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique travail-manuel-recurrent. 4 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique travail-manuel-recurrent. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "travail-manuel-recurrent",
