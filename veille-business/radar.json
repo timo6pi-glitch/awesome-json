@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T05:56:26.984Z",
+  "updatedAt": "2026-10-29T19:00:28.958Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "0dce2e634bfc7c4e51",
+      "firstSeenAt": "2026-10-29T19:00:28.958Z",
+      "lastSeenAt": "2026-10-29T19:00:28.958Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "[NEXT-3982] ChunkLoadError: Loading chunk app/layout failed. (timeout: http://localhost:3000/_next/static/chunks/app/layout.js)",
+      "url": "https://github.com/vercel/next.js/issues/66526",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "[NEXT-3982] ChunkLoadError: Loading chunk app/layout failed. (timeout: http://localhost:3000/_next/static/chunks/app/layout.js) ### Link to the code that reproduces this issue https://github.com/Intellyse/next-js-bug ### To Reproduce 1. clone project 2. npm install 3. npm run dev 4. open the page and you can see chrome console output: Uncaught SyntaxError: Invalid or unexpected token 5. same minutes you can see error",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2024-06-04 ; collecté le 2026-10-29.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "471e32323b7ba1f654",
+      "firstSeenAt": "2026-10-29T19:00:28.958Z",
+      "lastSeenAt": "2026-10-29T19:00:28.958Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Turbopack generates external module references with hashes that don't match installed packages when node_modules structure differs",
+      "url": "https://github.com/vercel/next.js/issues/87737",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Turbopack generates external module references with hashes that don't match installed packages when node_modules structure differs ### Link to the code that reproduces this issue https://github.com/Aluisio/test-styled-components ### To Reproduce 1. Create a Next.js 16.1.1+ project with OpenTelemetry instrumentation 2. Add `instrumentation.ts` file that imports `@opentelemetry/auto-instrumentations-node` 3. Build the ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2025-12-23 ; collecté le 2026-10-29.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "a63fe7198b32e77101",
       "firstSeenAt": "2026-10-29T05:56:26.984Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "c07d6a4a683ad642f1",
-      "firstSeenAt": "2026-10-20T13:37:42.357Z",
-      "lastSeenAt": "2026-10-20T13:37:42.357Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
-      "url": "https://news.ycombinator.com/item?id=50152875",
-      "sourceName": "Hacker News",
-      "observedFact": "Ousted Savannah police officer gave ICE agent husband access to Flock system I think the idea of Flock (and all modern software, pretty much) is not just to offer a service, but to offer it as dirt-cheap and lazily as possible with the intent of creating reasonable margins for a product that otherwise shouldn&#x27;t even be profitable in the first place. Doing things, &quot;correctly&quot; is sort of no longer the pl",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-19 ; collecté le 2026-10-20.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "2cd3bf6da8380dd0dc",
-      "firstSeenAt": "2026-10-20T07:41:33.058Z",
-      "lastSeenAt": "2026-10-20T07:41:33.058Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "It's still ok to enjoy programming",
-      "url": "https://news.ycombinator.com/item?id=50162277",
-      "sourceName": "Hacker News",
-      "observedFact": "It's still ok to enjoy programming Reverse-engineering was seen as a challenging hobby where people would deeply collaborate to decipher machine language. People got to know each other pretty well like they were good neighbors thanks to the process. Questions would get asked about patterns people couldn’t resolve on their own which gave opportunities for others to pitch in or relay knowledge. A network would get esta",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-10-20 ; collecté le 2026-10-20.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-29T05:56:26.984Z",
-    "family": "travail-manuel-recurrent",
-    "region": "États-Unis / monde",
-    "newSignals": 8,
+    "at": "2026-10-29T19:00:28.958Z",
+    "family": "changements-plateformes",
+    "region": "Monde",
+    "newSignals": 2,
     "collectionError": null
   }
 }
