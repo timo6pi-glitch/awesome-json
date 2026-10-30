@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T05:57:56.673Z",
+  "updatedAt": "2026-10-30T18:39:21.321Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "e5d882487d99afa2e1",
+      "firstSeenAt": "2026-10-30T18:39:21.321Z",
+      "lastSeenAt": "2026-10-30T18:39:21.321Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+      "sourceName": "DEV Community",
+      "observedFact": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-29 ; collecté le 2026-10-30.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "70870e7300f77b18d3",
+      "firstSeenAt": "2026-10-30T18:39:21.321Z",
+      "lastSeenAt": "2026-10-30T18:39:21.321Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+      "url": "https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm",
+      "sourceName": "DEV Community",
+      "observedFact": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It. This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-29 ; collecté le 2026-10-30.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "b1963131c5248df345",
       "firstSeenAt": "2026-10-30T05:57:56.673Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "3ecea1346011f9d867",
-      "firstSeenAt": "2026-10-21T07:46:09.167Z",
-      "lastSeenAt": "2026-10-21T07:46:09.167Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "Is caravan living a realistic answer to Australia's rental crisis?",
-      "url": "https://news.ycombinator.com/item?id=50176086",
-      "sourceName": "Hacker News",
-      "observedFact": "Is caravan living a realistic answer to Australia's rental crisis? Given [1] and [2] Australia is exporting a little less than what it&#x27;s using. The loss of refineries due to ageing is most likely why once again Australia is exporting raw product and paying a premium to ship the finished product back, though from [3] it would seem our natural mineral crude has its days numbered. If I were to be annoyed with anyth",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-10-21 ; collecté le 2026-10-21.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "a142933f3b113e6014",
-      "firstSeenAt": "2026-10-21T07:46:09.167Z",
-      "lastSeenAt": "2026-10-21T07:46:09.167Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://news.ycombinator.com/item?id=50175869",
-      "sourceName": "Hacker News",
-      "observedFact": "The Other Epidemic: Trying to get off benzodiazepines I&#x27;m not sure if it&#x27;s just the US and Canada, but doctors here (in my experience) are absolutely atrocious and not properly trained when it comes to getting off benzos (but in fairness my experience was from the mid&#x2F;late 00s). Many years ago my partner at the time was prescribed Klonopin, primarily as a sleep aid. When he decided to go off it, he tal",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-10-21 ; collecté le 2026-10-21.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-30T05:57:56.673Z",
-    "family": "travail-manuel-recurrent",
-    "region": "États-Unis / monde",
-    "newSignals": 1,
+    "at": "2026-10-30T18:39:21.321Z",
+    "family": "nouveaux-usages-developpeurs",
+    "region": "Monde",
+    "newSignals": 2,
     "collectionError": null
   }
 }
