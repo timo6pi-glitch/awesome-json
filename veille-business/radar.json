@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T23:20:49.583Z",
+  "updatedAt": "2026-10-30T05:57:56.673Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "b1963131c5248df345",
+      "firstSeenAt": "2026-10-30T05:57:56.673Z",
+      "lastSeenAt": "2026-10-30T05:57:56.673Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "travail-manuel-recurrent",
+      "title": "Sorry Harvey! I Made a Free Open-Source Alternative to Your Overpriced Legal AI",
+      "url": "https://news.ycombinator.com/item?id=50289485",
+      "sourceName": "Hacker News",
+      "observedFact": "Sorry Harvey! I Made a Free Open-Source Alternative to Your Overpriced Legal AI I worked in legal tech&#x2F;AI. It&#x27;s relatively easy to reach the capabilities of Legora and Harvey. My finding is that it&#x27;s the industry itself that&#x27;s very tricky and old fashioned. Lot of legal contracts at the large law firms (which Legora&#x2F;Harvey are targeting) are controlled by iManage and NetDocuments systems. To ",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-10-29 ; collecté le 2026-10-30.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "d3ff3c625dcacb290e",
       "firstSeenAt": "2026-10-29T23:20:49.583Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "b2c6de3f27ae3b8d73",
-      "firstSeenAt": "2026-10-21T07:46:09.167Z",
-      "lastSeenAt": "2026-10-21T07:46:09.167Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "The End of Rationing",
-      "url": "https://news.ycombinator.com/item?id=50175761",
-      "sourceName": "Hacker News",
-      "observedFact": "The End of Rationing Software engineers need to grow up, at the turn of the century when software was starting to remake the world, they developed an enormous conceit and started believing that the world revolved around their work and they were going to shape it. It doesn&#x27;t. The world revolves around economics and politics, just like it always did. It took a decade or two for established institutions to catch up",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-10-21 ; collecté le 2026-10-21.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-29T23:20:49.583Z",
-    "family": "github-et-demandes-fonctionnelles",
-    "region": "Monde",
-    "newSignals": 8,
+    "at": "2026-10-30T05:57:56.673Z",
+    "family": "travail-manuel-recurrent",
+    "region": "États-Unis / monde",
+    "newSignals": 1,
     "collectionError": null
   }
 }
