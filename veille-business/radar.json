@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T20:01:52.967Z",
+  "updatedAt": "2026-10-31T23:26:33.169Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "da48c413e0b4d278d7",
+      "firstSeenAt": "2026-10-31T23:26:33.169Z",
+      "lastSeenAt": "2026-10-31T23:26:33.169Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[provider] Audit static model catalog for Claude Opus 4.5/4.6/4.7 variants",
+      "url": "https://github.com/ausardcompany/alexi/issues/2183",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[provider] Audit static model catalog for Claude Opus 4.5/4.6/4.7 variants ## What Audit Alexi static model catalog for missing Claude Opus 4.5/4.6/4.7 dated variants and verify bash tree-sitter tag extraction completeness. ## Why Aider PR #5173 (2026-10-26) expanded the Anthropic model list with recent Claude variants: `claude-opus-4-5-20251101`, `claude-opus-4-6-20260205`, `claude-opus-4-7-20260416`, `claude-3-7-so",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-10-26 ; collecté le 2026-11-01.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "e6973ff2627a0d2ed2",
       "firstSeenAt": "2026-10-31T20:01:52.967Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "aa53dad7eccddd8680",
-      "firstSeenAt": "2026-10-22T07:41:38.711Z",
-      "lastSeenAt": "2026-10-22T07:41:38.711Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "communautes-us",
-      "title": "I can't believe PowerShell is good",
-      "url": "https://news.ycombinator.com/item?id=50191451",
-      "sourceName": "Hacker News",
-      "observedFact": "I can't believe PowerShell is good Yeah, you&#x27;re not the first to discover this, but I&#x27;m curious how you&#x27;ll feel in a few years. I recall three years ago my wife got a new gamer laptop and had nothing to do with her old one. I don&#x27;t game, but got curious about playing around with Hyper-V. Packer at the time had no working builder for it, so I figured I&#x27;d make my own to create Linux VM images I",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-10-22 ; collecté le 2026-10-22.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-31T20:01:52.967Z",
-    "family": "logiciels-open-source-et-lacunes",
+    "at": "2026-10-31T23:26:33.169Z",
+    "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 12,
+    "newSignals": 1,
     "collectionError": null
   }
 }
