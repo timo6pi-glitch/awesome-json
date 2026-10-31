@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T23:00:24.852Z",
+  "updatedAt": "2026-10-31T09:45:38.574Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "2df06e3ee293e80a0c",
+      "firstSeenAt": "2026-10-31T09:45:38.574Z",
+      "lastSeenAt": "2026-10-31T09:45:38.574Z",
+      "region": "Chine / Asie",
+      "language": "chinois",
+      "sourceFamily": "communautes-chine-asie",
+      "title": "我的 Claude 是不是要凉了？",
+      "url": "https://www.v2ex.com/t/1253394",
+      "sourceName": "V2EX",
+      "observedFact": "我的 Claude 是不是要凉了？ 昨晚 iOS 账户的钱不够，claude 订阅扣款失败了。今天充上之后，钱扣了，但订阅没有恢复。打开网页端显示：Complete identity verification to finish setting up your subscription. Verify ![]( https://i.imgur.com/bzlUHqI.png) 我都不敢点击 verify ，只不是可以直接注册新号了？",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-10-31 ; collecté le 2026-10-31.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "6f66a1ca40c02e1383",
       "firstSeenAt": "2026-10-30T23:00:24.852Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "369d8fcf9e3d62c6ed",
-      "firstSeenAt": "2026-10-21T13:54:05.400Z",
-      "lastSeenAt": "2026-10-21T13:54:05.400Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Ask HN: What have you built privately with AI that you'd like to share?",
-      "url": "https://news.ycombinator.com/item?id=50166744",
-      "sourceName": "Hacker News",
-      "observedFact": "Ask HN: What have you built privately with AI that you'd like to share? Been working on a self hosted discord alternative for the past 6 months. Comes with most features you would expect of chat software (and a few more). Testing native clients right now https:&#x2F;&#x2F;github.com&#x2F;Chatter-Org&#x2F;Chatter",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-20 ; collecté le 2026-10-21.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-30T23:00:24.852Z",
-    "family": "github-et-demandes-fonctionnelles",
-    "region": "Monde",
-    "newSignals": 7,
+    "at": "2026-10-31T09:45:38.574Z",
+    "family": "communautes-chine-asie",
+    "region": "Chine / Asie",
+    "newSignals": 1,
     "collectionError": null
   }
 }
