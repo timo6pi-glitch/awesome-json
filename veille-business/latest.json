@@ -1,56 +1,16 @@
 {
   "version": 2,
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "我的 Claude 是不是要凉了？",
+      "name": "Anthropic takes steps to block Claude from reverse-engineering video games",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "我的 Claude 是不是要凉了？ 昨晚 iOS 账户的钱不够，claude 订阅扣款失败了。今天充上之后，钱扣了，但订阅没有恢复。打开网页端显示：Complete identity verification to finish setting up your subscription. Verify ![]( https://i.imgur.com/bzlUHqI.png) 我都不敢点击 verify ，只不是可以直接注册新号了？",
-      "evidence": "V2EX — Publié le 2026-10-31 ; collecté le 2026-10-31.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "V2EX",
-          "url": "https://www.v2ex.com/t/1253394"
-        }
-      ]
-    },
-    {
-      "name": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It. This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
-      "evidence": "DEV Community — Publié le 2026-10-29 ; collecté le 2026-10-30.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "DEV Community",
-          "url": "https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm"
-        }
-      ]
-    },
-    {
-      "name": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Sourcehut account takeover via build logs (XSS in ansi2html) &gt; The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances). This is the most unexpected bit. Circumstances made it so I got a new computer right around the time srht put out their anti-LLM policy. So I immediately started setting up a forgejo ",
-      "evidence": "Hacker News — Publié le 2026-09-25 ; collecté le 2026-10-29.",
+      "problem": "Anthropic takes steps to block Claude from reverse-engineering video games They are absolutely going to be getting sued by major software IP and copyright holders. Adobe and other companies have been holding back because they are also using frontier models to keep pace. Suing Anthropic means getting cut off. But now that alternatives are proving themselves.. This, to me, is why Anthropic is rushing their IPO. I simpl",
+      "evidence": "Hacker News — Publié le 2026-11-01 ; collecté le 2026-11-01.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +21,57 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49840867"
+          "url": "https://news.ycombinator.com/item?id=50323799"
+        }
+      ]
+    },
+    {
+      "name": "Software may be getting worse, but it used to be horrible",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Software may be getting worse, but it used to be horrible All these apps are modern and of the highest quality. All of them very popular except the last I listed. Not mentioned are the many high quality apps included with MacOS, including the Music.app (iTunes), which doesn&#x27;t need any Internet connection to play your MP3s. Games I don&#x27;t care about, for those a PC or console is most likely your better option",
+      "evidence": "Hacker News — Publié le 2026-10-27 ; collecté le 2026-11-01.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50265468"
+        }
+      ]
+    },
+    {
+      "name": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.)",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.) [1 of 5] &gt; The problem is that Android was designed as a vehicle to collect the personal information of users to feed that data to Google’s servers for its targeted advertising. It is true that Google&#x27;s services (their web services and apps) use data collection as a revenue stream. Despite that, their operating systems (AOSP, Chro",
+      "evidence": "Hacker News — Publié le 2026-10-28 ; collecté le 2026-11-01.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50268748"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-chine-asie. 1 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique avis-et-alternatives-logicielles. 5 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-chine-asie",
+      "avis-et-alternatives-logicielles",
       "Sans ChatGPT"
     ]
   }
