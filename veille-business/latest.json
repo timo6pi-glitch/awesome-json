@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "OccupySaaS",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "OccupySaaS I think it&#x27;s great new takes on software comes around, but I hope that anyone that engages in these movements understands two things: - Not every SaaS have their moat at a 100% of the software, e.g.: You could vibecode a Twilio, but good luck establishing contracts with carriers on getting phone numbers in bulk, which is their actual moat. - Having the movement&#x27;s foundation on revenge is a fuel t",
+      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-02.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50332295"
+        }
+      ]
+    },
+    {
+      "name": "Kosmos+ add-on: encrypted backup of all a user's Kosmos files (Josh 10-27; proposal first, reuse Enterprise E0.6)",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Kosmos+ add-on: encrypted backup of all a user's Kosmos files (Josh 10-27; proposal first, reuse Enterprise E0.6) Josh, #admin, 2026-10-27 20:09 CDT: > it would be cool to offer a backup service for all files for Kosmos users as a premium add on (\"along with S3\" in the same message reads as Amazon S3-style storage, not relay slice S3.) **What exists:** the Enterprise backup (E0.6, #5535, Baron): an encrypted, append-",
+      "evidence": "GitHub Issues — Publié le 2026-10-28 ; collecté le 2026-11-02.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/joshualeestone/kosmos/issues/7404"
+        }
+      ]
+    },
     {
       "name": "Anthropic takes steps to block Claude from reverse-engineering video games",
       "verdict": "RECHERCHER",
@@ -24,54 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=50323799"
         }
       ]
-    },
-    {
-      "name": "Software may be getting worse, but it used to be horrible",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Software may be getting worse, but it used to be horrible All these apps are modern and of the highest quality. All of them very popular except the last I listed. Not mentioned are the many high quality apps included with MacOS, including the Music.app (iTunes), which doesn&#x27;t need any Internet connection to play your MP3s. Games I don&#x27;t care about, for those a PC or console is most likely your better option",
-      "evidence": "Hacker News — Publié le 2026-10-27 ; collecté le 2026-11-01.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50265468"
-        }
-      ]
-    },
-    {
-      "name": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.)",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.) [1 of 5] &gt; The problem is that Android was designed as a vehicle to collect the personal information of users to feed that data to Google’s servers for its targeted advertising. It is true that Google&#x27;s services (their web services and apps) use data collection as a revenue stream. Despite that, their operating systems (AOSP, Chro",
-      "evidence": "Hacker News — Publié le 2026-10-28 ; collecté le 2026-11-01.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50268748"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique avis-et-alternatives-logicielles. 5 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "avis-et-alternatives-logicielles",
+      "communautes-chine-asie",
       "Sans ChatGPT"
     ]
   }
