@@ -1,16 +1,36 @@
 {
   "version": 2,
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
+      "name": "WTF Ubuntu?",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "WTF Ubuntu? With Open Source &#x2F; Free Software we&#x27;re trying an alternate economic model, shooting to overtake the standard model. We rely on volunteers. It creates an awkward situation where we can&#x27;t be unappreciative of effort (no matter the quality of output), but we also have to have expectations or this model is just not going to work. So we should respectfully expect better than this. (With the cave",
+      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-03.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50342265"
+        }
+      ]
+    },
+    {
       "name": "OccupySaaS",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "OccupySaaS I think it&#x27;s great new takes on software comes around, but I hope that anyone that engages in these movements understands two things: - Not every SaaS have their moat at a 100% of the software, e.g.: You could vibecode a Twilio, but good luck establishing contracts with carriers on getting phone numbers in bulk, which is their actual moat. - Having the movement&#x27;s foundation on revenge is a fuel t",
-      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-02.",
+      "problem": "OccupySaaS The problem with the idea is that there is no right solution. What they do are free alternatives. Free software is not a new idea. Secondly, even if SaaS companies get all developers back then competitors with less devs may be more agile as they as well have AI tools and without all this people be more lean. If anything, regulation is the more realistic solution. Requiring licensed CS&#x2F;CE&#x2F;STEM eng",
+      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,36 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50332295"
+          "url": "https://news.ycombinator.com/item?id=50336662"
         }
       ]
     },
     {
-      "name": "Kosmos+ add-on: encrypted backup of all a user's Kosmos files (Josh 10-27; proposal first, reuse Enterprise E0.6)",
+      "name": "Retro Gaming Has a Port-Slop Problem",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Kosmos+ add-on: encrypted backup of all a user's Kosmos files (Josh 10-27; proposal first, reuse Enterprise E0.6) Josh, #admin, 2026-10-27 20:09 CDT: > it would be cool to offer a backup service for all files for Kosmos users as a premium add on (\"along with S3\" in the same message reads as Amazon S3-style storage, not relay slice S3.) **What exists:** the Enterprise backup (E0.6, #5535, Baron): an encrypted, append-",
-      "evidence": "GitHub Issues — Publié le 2026-10-28 ; collecté le 2026-11-02.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "GitHub Issues",
-          "url": "https://github.com/joshualeestone/kosmos/issues/7404"
-        }
-      ]
-    },
-    {
-      "name": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Anthropic takes steps to block Claude from reverse-engineering video games They are absolutely going to be getting sued by major software IP and copyright holders. Adobe and other companies have been holding back because they are also using frontier models to keep pace. Suing Anthropic means getting cut off. But now that alternatives are proving themselves.. This, to me, is why Anthropic is rushing their IPO. I simpl",
-      "evidence": "Hacker News — Publié le 2026-11-01 ; collecté le 2026-11-01.",
+      "problem": "Retro Gaming Has a Port-Slop Problem I’ve been into the retro scene for decades (Oric-1&#x2F;Atmos!) and also am quite a synthesizer nerd, so I’ve been kind of keeping my eye on how AI slop is effecting these subjects with kind of a keen interest .. and let me tell you, things are getting wild and woolly, indeed. There are folks who are taking 40–year old games developed for their favourite systems, packaging them in",
+      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50323799"
+          "url": "https://news.ycombinator.com/item?id=50333629"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 9 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-chine-asie",
+      "github-et-demandes-fonctionnelles",
       "Sans ChatGPT"
     ]
   }
