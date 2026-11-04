@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "WTF Ubuntu?",
+      "name": "[送兑换码] 做了个 iOS 翻译 App，用自己的 API Key，多个大模型译文并排对比，送 30 个永久解锁码",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "WTF Ubuntu? With Open Source &#x2F; Free Software we&#x27;re trying an alternate economic model, shooting to overtake the standard model. We rely on volunteers. It creates an awkward situation where we can&#x27;t be unappreciative of effort (no matter the quality of output), but we also have to have expectations or this model is just not going to work. So we should respectfully expect better than this. (With the cave",
-      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-03.",
+      "problem": "[送兑换码] 做了个 iOS 翻译 App，用自己的 API Key，多个大模型译文并排对比，送 30 个永久解锁码 平时翻译我习惯同一段话丢给好几个模型，DeepSeek 一份、Claude 一份、Gemini 一份，再挑读起来最顺的那句。来回切 App 、复制粘贴实在太烦，于是做了 **Transory**： - **多模型并排对比**：一次请求多个服务，每个模型一张卡片，流式输出。支持 DeepSeek 、Claude 、Gemini 、OpenAI 、OpenRouter 、硅基流动、Kimi 、智谱、通义千问，以及任何 OpenAI / Anthropic 兼容接口 - **局域网本地模型**：可以连电脑上的 Ollama 、LM Studio - **拍照翻译**：文字在本机用 Vision 识别，译文直接盖在原图对应位置，也能切成对照模式 - **四种风格**：自然 / 正式 / 口语 / 直译；原文已经是目标语言",
+      "evidence": "V2EX — Publié le 2026-11-04 ; collecté le 2026-11-04.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50342265"
+          "label": "V2EX",
+          "url": "https://www.v2ex.com/t/1254448"
         }
       ]
     },
     {
-      "name": "OccupySaaS",
+      "name": "Ask HN: Who wants to be hired? (November 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "OccupySaaS The problem with the idea is that there is no right solution. What they do are free alternatives. Free software is not a new idea. Secondly, even if SaaS companies get all developers back then competitors with less devs may be more agile as they as well have AI tools and without all this people be more lean. If anything, regulation is the more realistic solution. Requiring licensed CS&#x2F;CE&#x2F;STEM eng",
-      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-03.",
+      "problem": "Ask HN: Who wants to be hired? (November 2026) Location: Lisbon, Portugal (GMT+0&#x2F;+1) Remote: Yes Willing to relocate: Willing to travel 2 weeks&#x2F;mo on-site globally Technologies: Typescript, React, TanStack Start, Next.js, PostgreSQL, pgvector, Redis, Docker, Drizzle ORM, Zod, Zustand, TanStack Query, Tailwind CSS, Plasmo, Vite, Astro, Expo, AI SDK, Python, TensorFlow, scikit-learn, Pandas, Deck.gl, AWS, GCP",
+      "evidence": "Hacker News — Publié le 2026-11-03 ; collecté le 2026-11-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,15 +41,15 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50336662"
+          "url": "https://news.ycombinator.com/item?id=50347133"
         }
       ]
     },
     {
-      "name": "Retro Gaming Has a Port-Slop Problem",
+      "name": "Ask HN: Who is hiring? (November 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Retro Gaming Has a Port-Slop Problem I’ve been into the retro scene for decades (Oric-1&#x2F;Atmos!) and also am quite a synthesizer nerd, so I’ve been kind of keeping my eye on how AI slop is effecting these subjects with kind of a keen interest .. and let me tell you, things are getting wild and woolly, indeed. There are folks who are taking 40–year old games developed for their favourite systems, packaging them in",
+      "problem": "Ask HN: Who is hiring? (November 2026) Fredrin | GTM Engineer | REMOTE (US) | Full-time | $130k + equity | https:&#x2F;&#x2F;www.fredrin.com&#x2F;careers&#x2F;gtm-engineer?utm_source=hack... Fredrin is the multiplayer software factory: one app where a team and its AI Workers build software together, and Workers running Claude Code or Codex, on the subscription you already pay for, plan, build, test and merge the work",
       "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-03.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50333629"
+          "url": "https://news.ycombinator.com/item?id=50341328"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 9 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-chine-asie. 1 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "communautes-chine-asie",
       "Sans ChatGPT"
     ]
   }

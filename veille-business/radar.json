@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T21:07:49.419Z",
+  "updatedAt": "2026-11-04T09:25:42.347Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "bf49956aa9490bf15e",
+      "firstSeenAt": "2026-11-04T09:25:42.347Z",
+      "lastSeenAt": "2026-11-04T09:25:42.347Z",
+      "region": "Chine / Asie",
+      "language": "chinois",
+      "sourceFamily": "communautes-chine-asie",
+      "title": "[送兑换码] 做了个 iOS 翻译 App，用自己的 API Key，多个大模型译文并排对比，送 30 个永久解锁码",
+      "url": "https://www.v2ex.com/t/1254448",
+      "sourceName": "V2EX",
+      "observedFact": "[送兑换码] 做了个 iOS 翻译 App，用自己的 API Key，多个大模型译文并排对比，送 30 个永久解锁码 平时翻译我习惯同一段话丢给好几个模型，DeepSeek 一份、Claude 一份、Gemini 一份，再挑读起来最顺的那句。来回切 App 、复制粘贴实在太烦，于是做了 **Transory**： - **多模型并排对比**：一次请求多个服务，每个模型一张卡片，流式输出。支持 DeepSeek 、Claude 、Gemini 、OpenAI 、OpenRouter 、硅基流动、Kimi 、智谱、通义千问，以及任何 OpenAI / Anthropic 兼容接口 - **局域网本地模型**：可以连电脑上的 Ollama 、LM Studio - **拍照翻译**：文字在本机用 Vision 识别，译文直接盖在原图对应位置，也能切成对照模式 - **四种风格**：自然 / 正式 / 口语 / 直译；原文已经是目标语言",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-11-04 ; collecté le 2026-11-04.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "ff1b3c4e62b0af050a",
       "firstSeenAt": "2026-11-03T21:07:49.419Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "739a6c08fb31aafcd0",
-      "firstSeenAt": "2026-10-24T12:44:46.653Z",
-      "lastSeenAt": "2026-10-24T12:44:46.653Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "travail-manuel-recurrent",
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://news.ycombinator.com/item?id=50212325",
-      "sourceName": "Hacker News",
-      "observedFact": "The foolishness of \"natural language programming\" (1978) The thing is, if you’re good at designing and breaking down problems and coming up with a good system, code is not likely an hindrance. You can take any idea and try to flesh it out with pseudo code. Once that’s done, try to convert it to real code and you’ll see that process is fairly mechanical. This is why people says that coding wasn’t an issue for ages. Co",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-10-23 ; collecté le 2026-10-24.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-03T21:07:49.419Z",
-    "family": "travail-manuel-recurrent",
-    "region": "États-Unis / monde",
-    "newSignals": 11,
+    "at": "2026-11-04T09:25:42.347Z",
+    "family": "communautes-chine-asie",
+    "region": "Chine / Asie",
+    "newSignals": 1,
     "collectionError": null
   }
 }
