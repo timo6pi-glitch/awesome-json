@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T06:57:33.771Z",
+  "updatedAt": "2026-11-05T15:34:19.675Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "5ef384338854310a5c",
+      "firstSeenAt": "2026-11-05T15:34:19.675Z",
+      "lastSeenAt": "2026-11-05T15:34:19.675Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Reactive R7: Replace every UI refresh loop with shared subscriptions",
+      "url": "https://github.com/opensimgear/cockpit/issues/196",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Reactive R7: Replace every UI refresh loop with shared subscriptions ## Direct USB input streams delivered — 0216f71 Pushed [0216f71](https://github.com/opensimgear/cockpit/commit/0216f71ac87185ee70870d891b059247dba52656). One blocking duplex owner now feeds a bounded native input capture shared by event-woken profile readers and passive preview subscriptions. The preview's 750ms EventsState acquisition timer is remo",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-10-29 ; collecté le 2026-11-05.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "b1db90cd224638d48f",
+      "firstSeenAt": "2026-11-05T15:34:19.675Z",
+      "lastSeenAt": "2026-11-05T15:34:19.675Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Open World level estates: build each region's estate-crucible before its support (Batch Badlands first)",
+      "url": "https://github.com/squid-protocol/gitgalaxy/issues/7065",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Open World level estates: build each region's estate-crucible before its support (Batch Badlands first) **Owner direction 2026-10-29:** keep the L1-L4 ladder and add breadth for what typical CICS estates hold. Open World rule 5 (`.claude/rules/mainframe-evidence-policy.md`, owner 2026-10-11) says: build a region's **level estate-crucible before its support lands**. Its first run is the first-time number, measured onc",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-10-30 ; collecté le 2026-11-05.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "92aa6c33681d101ae4",
+      "firstSeenAt": "2026-11-05T15:34:19.675Z",
+      "lastSeenAt": "2026-11-05T15:34:19.675Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "BED-038 — LLVM and C/GCC Backends over Approved MIR",
+      "url": "https://github.com/gregkrsak/bowfin/issues/117",
+      "sourceName": "GitHub Issues",
+      "observedFact": "BED-038 — LLVM and C/GCC Backends over Approved MIR > **Current investigation status — preparation may continue; first-push hold:** Greg has [retired X01/X03 cumulative handwritten-line stops and X01’s numerical unsafe/FFI stop](https://github.com/gregkrsak/bowfin/issues/117#issuecomment-6619582603). Counts/history remain informational; X01’s retained native boundary requires independent review, and X03’s zero-unsafe",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-11-03 ; collecté le 2026-11-05.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "1030c4f27ca4c4a7a7",
       "firstSeenAt": "2026-11-05T06:57:33.771Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "25b96a697ddb2faa9b",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "url": "https://news.ycombinator.com/item?id=50221863",
-      "sourceName": "Hacker News",
-      "observedFact": "Elon Musk Just Gave Europe a Reason to Replace American Technology Sigh. Steve Blank is probably right about this: &gt; In the years ahead, this may cost American companies tens if not hundreds of billions of lost revenue. The question is, if European governments and businesses conclude they cannot trust non-European software and hardware, what can they do about it? On the software side, it seems to me the only reali",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-10-24 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "861baebba6eaa0ec71",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "url": "https://news.ycombinator.com/item?id=50221532",
-      "sourceName": "Hacker News",
-      "observedFact": "Elon Musk Just Gave Europe a Reason to Replace American Technology For any of those regulation attempts, the duopoly has been coming up with another countermeasure that delayed and nullified the main effect. Remote attestation as a broadly used technology will in itself protect the duopoly. Without it, smaller competitors could just offer an alternative that is automatically compatible with the app or service ecosyst",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-24 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "6480611926debd8f2b",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "url": "https://news.ycombinator.com/item?id=50221228",
-      "sourceName": "Hacker News",
-      "observedFact": "Elon Musk Just Gave Europe a Reason to Replace American Technology &gt; It might have given a reason, but it’s not like that will actually create anything in Europe. Oh we absolutely are building replacement stuff for a lot of American things. IRIS2 for example is our Starlink alternative. OVH, Hetzner and a bunch of other smaller players can provide hosting. Mistral is our AI model. Cars, trucks and farm equipment c",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-24 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-05T06:57:33.771Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
-    "newSignals": 12,
+    "at": "2026-11-05T15:34:19.675Z",
+    "family": "github-et-demandes-fonctionnelles",
+    "region": "Monde",
+    "newSignals": 3,
     "collectionError": null
   }
 }
