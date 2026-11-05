@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T15:34:19.675Z",
+  "updatedAt": "2026-11-05T22:04:37.553Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "2975cbb7cfd8c4f473",
+      "firstSeenAt": "2026-11-05T22:04:37.553Z",
+      "lastSeenAt": "2026-11-05T22:04:37.553Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50377715",
+      "sourceName": "Hacker News",
+      "observedFact": "Ask HN: What's your current AI agentic setup? My use cases are mostly analytical work, document generation, and code generation and review. I used to have the Pro subcription for Claude but switched recently to the equivalent Plus subscription for ChatGPT. With Anthropic, you cannot access their inference servers without going through one their client software or paying the API pricing. It is really annoying as those",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-11-05 ; collecté le 2026-11-05.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "5938a9dbd01e5d68ac",
+      "firstSeenAt": "2026-11-05T22:04:37.553Z",
+      "lastSeenAt": "2026-11-05T22:04:37.553Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://news.ycombinator.com/item?id=50350669",
+      "sourceName": "Hacker News",
+      "observedFact": "Polyend releases the Tracker firmware source code Yup. I remember the Yamaha TX16W sampler whose software was so horribly hostile that someone developed an alternative OS called Typhoon.",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-11-03 ; collecté le 2026-11-05.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "5ef384338854310a5c",
       "firstSeenAt": "2026-11-05T15:34:19.675Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "1c737aefc3f0f13dff",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "FreeDNS",
-      "url": "https://news.ycombinator.com/item?id=50223665",
-      "sourceName": "Hacker News",
-      "observedFact": "FreeDNS I&#x27;ve used FreeDNS on occasion for test domain names, one-off experiments, and similar. I&#x27;m very appreciative this exists, but there are some pain points that similar services handle better. The domains are missing from the public suffix list. This impacts how cookies are handled by the domain names, with concerns the browser will allow software to set the cookie on the shared domain name instead of ",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-10-24 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "ca150a92f044ddd06b",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "url": "https://news.ycombinator.com/item?id=50223567",
-      "sourceName": "Hacker News",
-      "observedFact": "Around a dozen banking apps began specifically permitting GrapheneOS It&#x27;s very difficult to convince these apps to officially support a single alternative to Apple and Google Mobile Services devices. Once they&#x27;re convinced to it and have committed to it, it&#x27;s much easier to convince them to support more alternatives. Many of these apps are required to check device and app integrity by government regula",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-10-24 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-05T15:34:19.675Z",
-    "family": "github-et-demandes-fonctionnelles",
-    "region": "Monde",
-    "newSignals": 3,
+    "at": "2026-11-05T22:04:37.553Z",
+    "family": "avis-et-alternatives-logicielles",
+    "region": "États-Unis / monde",
+    "newSignals": 2,
     "collectionError": null
   }
 }
