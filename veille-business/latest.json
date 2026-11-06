@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Ask HN: What's your current AI agentic setup?",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Ask HN: What's your current AI agentic setup? My use cases are mostly analytical work, document generation, and code generation and review. I used to have the Pro subcription for Claude but switched recently to the equivalent Plus subscription for ChatGPT. With Anthropic, you cannot access their inference servers without going through one their client software or paying the API pricing. It is really annoying as those",
+      "evidence": "Hacker News — Publié le 2026-11-05 ; collecté le 2026-11-05.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50377715"
+        }
+      ]
+    },
     {
       "name": "Affinity for Linux is in active development",
       "verdict": "RECHERCHER",
@@ -44,34 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=50363431"
         }
       ]
-    },
-    {
-      "name": "How I use AI (Oct 2026)",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "How I use AI (Oct 2026) I am not OP, obviously, but I am writing to address the &quot;Where do you think human taste and experience in software comes from?&quot; point, hoping that I provide an alternative perspective. As someone who wrote code for 27 years in all sorts of languages, not necessarily impressive code, but got paid for it, made a career, and changed life for the better multiple times, I don&#x27;t think",
-      "evidence": "Hacker News — Publié le 2026-11-04 ; collecté le 2026-11-05.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50363159"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 3 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "changements-plateformes",
       "Sans ChatGPT"
     ]
   }
