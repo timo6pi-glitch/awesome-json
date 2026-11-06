@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T22:04:37.553Z",
+  "updatedAt": "2026-11-06T23:14:42.654Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "d819b7600af68ace15",
+      "firstSeenAt": "2026-11-06T23:14:42.654Z",
+      "lastSeenAt": "2026-11-06T23:14:42.654Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "feat(security): protect local conversations from programs running as the same OS user",
+      "url": "https://github.com/woojubb/robota/issues/3679",
+      "sourceName": "GitHub Issues",
+      "observedFact": "feat(security): protect local conversations from programs running as the same OS user ## Outcome A \"secure conversation\" capability for the CLI and the desktop app. When Robota runs on a local machine, other programs on that machine cannot easily read conversation content: prompts, responses, tool output, transcripts, checkpoints, memory and drafts. This issue records the research, the threat model and the first meas",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-11-01 ; collecté le 2026-11-07.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "dc4057d46b119ab8d3",
+      "firstSeenAt": "2026-11-06T23:14:42.654Z",
+      "lastSeenAt": "2026-11-06T23:14:42.654Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "Team Onboarding Tutorial?",
+      "url": "https://github.com/OmniBlocks/monorepo/issues/903",
+      "sourceName": "GitHub Issues",
+      "observedFact": "Team Onboarding Tutorial? @OmniBlocks/coders A lot of new team members don't actually know how to use command line tools like pnpm and git, so they end up confuzzled by the codebase. Maybe we should have some sort of tutorial or teach them the codebase instead of just throwing them into the river and expecting them to swim through? Idk its like trying to boil the ocean 🤑 In all seriousness maybe we could record a vi",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-11-06 ; collecté le 2026-11-07.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "2975cbb7cfd8c4f473",
       "firstSeenAt": "2026-11-05T22:04:37.553Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "636e4508ee9afd5495",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://news.ycombinator.com/item?id=50227493",
-      "sourceName": "Hacker News",
-      "observedFact": "We should be more ambitious with the software we build Count me in the second camp. I&#x27;ve been writing software for 20+ years, and I recently built a low-cost Google Voice alternative because every business VoIP option I looked at was either overpriced or missing something I wanted. Without AI, that&#x27;s a project I probably would never have started. With AI, I built it solo in under a month. I even have some p",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-10-25 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "63dfa31edb1886091d",
-      "firstSeenAt": "2026-10-25T06:17:09.076Z",
-      "lastSeenAt": "2026-10-25T06:17:09.076Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "url": "https://news.ycombinator.com/item?id=50224288",
-      "sourceName": "Hacker News",
-      "observedFact": "Danish Government silently drops plan to dump MS Office I send a fair amount of physical mailings. This requires me to do a mail merge from a spreadsheet to adhesive labels. I will buy whatever brand of inkjet paper filled with adhesive labels is the cheapest at that given time. The manufacturer gives a template for the labels. Every year or so I will check the feasibility of switching to LibreOffice or OnlyOffice or",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-10-24 ; collecté le 2026-10-25.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,9 +3631,9 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-05T22:04:37.553Z",
-    "family": "avis-et-alternatives-logicielles",
-    "region": "États-Unis / monde",
+    "at": "2026-11-06T23:14:42.654Z",
+    "family": "github-et-demandes-fonctionnelles",
+    "region": "Monde",
     "newSignals": 2,
     "collectionError": null
   }
