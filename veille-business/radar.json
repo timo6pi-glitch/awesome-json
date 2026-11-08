@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T07:27:39.647Z",
+  "updatedAt": "2026-11-08T15:19:55.066Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "9abbf76aa2e55d57d5",
+      "firstSeenAt": "2026-11-08T15:19:55.066Z",
+      "lastSeenAt": "2026-11-08T15:19:55.066Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "i18n phase 3 (platform metadata and built-in emails): extraction and bundle checks read PLATFORM_LOCALES; backfill the seven missing locales",
+      "url": "https://github.com/objectstack-ai/objectstack/issues/30512",
+      "sourceName": "GitHub Issues",
+      "observedFact": "i18n phase 3 (platform metadata and built-in emails): extraction and bundle checks read PLATFORM_LOCALES; backfill the seven missing locales triage#1 · os-zhuang · session_01AavokzJ5DndAwitDXvKy4U Filing gate: ③ a split of tracking card #29428 (ruling F of #29349), which `domain:spec#2` asked for (6659592659). Phase 1, #30001, landed in PR #30007, so `@objectstack/spec/system` now exports `PLATFORM_LOCALES`, `PLATFOR",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-11-05 ; collecté le 2026-11-08.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "e99635e2fcab76f5e6",
       "firstSeenAt": "2026-11-08T07:27:39.647Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "f9bf3abb2a5aec2a6b",
-      "firstSeenAt": "2026-10-28T05:52:30.215Z",
-      "lastSeenAt": "2026-10-28T05:52:30.215Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "travail-manuel-recurrent",
-      "title": "New study: Insurance AI adoption exposes verification gap",
-      "url": "https://news.ycombinator.com/item?id=49574734",
-      "sourceName": "Hacker News",
-      "observedFact": "New study: Insurance AI adoption exposes verification gap Insurers are automating claims and underwriting faster than their verification systems are developing, according to new research commissioned by Clearspeed. The study found a widening gap between AI adoption and insurers’ ability to validate information used in automated decisions. Researchers examined how insurers handle evidence as AI takes on more decisions",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-09-05 ; collecté le 2026-10-28.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-08T07:27:39.647Z",
+    "at": "2026-11-08T15:19:55.066Z",
     "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 7,
+    "newSignals": 1,
     "collectionError": null
   }
 }
