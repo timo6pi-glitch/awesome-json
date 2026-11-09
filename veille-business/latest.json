@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "name": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "They don't make 'em like that any more: Borland Turbo Pascal 7 According to Kahn, in this enjoyable read from a year later, at https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;micro-cornucopia-magazine-1984-1... . &gt; The ad broke in November, and that month we took in 1100 orders. So the ad was paid for. The second month we took in 2500 orders. It&#x27;s a bit tricky to figure out the exact breakdown since it requir",
-      "evidence": "Hacker News — Publié le 2026-11-07 ; collecté le 2026-11-08.",
+      "problem": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU Been through the same journey -- and have been super annoyed each year when I paid the several hundred dollar license for a tool I didn&#x27;t use much, but really needed when I did use it. My exit has been FreeCAD with an MCP-bridge, letting me talk to an agent that implements my requests directly in the FreeCAD file I have open. Works super well ",
+      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-09.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50408356"
+          "url": "https://news.ycombinator.com/item?id=50422197"
         }
       ]
     },
     {
-      "name": "Running a law firm on Free software",
+      "name": "I'm not convinced the AI bubble exists",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Running a law firm on Free software &gt;I hear CourtListener (a free legal research tool) is working on a citator--hopefully it&#x27;s competitive with the paid services. Even if. it&#x27;s not just the citation graph. No headnotes. No restatements. They&#x27;re about 100 light years away from being close to usable, even if the citator was complete and comparable.",
-      "evidence": "Hacker News — Publié le 2026-11-07 ; collecté le 2026-11-08.",
+      "problem": "I'm not convinced the AI bubble exists &gt; If you check any online discussion about the financial situation of the AI industry, it&#x27;s essentially taken for granted that the bubble exists and is going to pop any day now. I don&#x27;t think that this is a reasonable assumption, though. To say that it is (essentially) taken for granted isn’t a great start to a rebuke. You have to engage with the arguments that they",
+      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-09.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50408293"
+          "url": "https://news.ycombinator.com/item?id=50422043"
         }
       ]
     },
     {
-      "name": "The end of Microsoft Research's AI Frontiers group",
+      "name": "RIP, Harvest",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "The end of Microsoft Research's AI Frontiers group Historically, that happens now and then. Examples include color television cameras and fluorescent lamp ballasts. RCA developed the first good color TV cameras. They were monsters. Originally, electronic TV (as opposed to mechanical scanning) used Zworykin&#x27;s iconoscope. This needed huge amounts of light. It didn&#x27;t have a photo-multiplier stage to boost sens",
-      "evidence": "Hacker News — Publié le 2026-11-07 ; collecté le 2026-11-08.",
+      "problem": "RIP, Harvest Yeah, my consultancy had used Harvest for over a decade. It just worked; it did what we needed, and I didn&#x27;t think twice about the $1500&#x2F;yr or so bill... Until this year when they dumped us over into &quot;enterprise&quot; and charged my business card TWENTY THOUSAND DOLLARS. I found that charge two days after it posted when I went in to remove a seat for a contractor who had moved on. I absolu",
+      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-09.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50408007"
+          "url": "https://news.ycombinator.com/item?id=50421170"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 7 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "communautes-us",
       "Sans ChatGPT"
     ]
   }
