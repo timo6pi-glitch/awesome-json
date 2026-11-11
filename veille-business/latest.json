@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "name": "Ableton Live 13",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU Been through the same journey -- and have been super annoyed each year when I paid the several hundred dollar license for a tool I didn&#x27;t use much, but really needed when I did use it. My exit has been FreeCAD with an MCP-bridge, letting me talk to an agent that implements my requests directly in the FreeCAD file I have open. Works super well ",
-      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-09.",
+      "problem": "Ableton Live 13 I remember these were the software programs that had no good alternative back in the day. SketchUp, after Google offloaded it, became paid software. All these FL Studio, Ableton, etc. SketchUp has already been cloned as Ketchup. I wonder if FL Studio and Ableton will soon be cloned? pretty sure someone is already doing egui rust clone.",
+      "evidence": "Hacker News — Publié le 2026-11-10 ; collecté le 2026-11-11.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50422197"
+          "url": "https://news.ycombinator.com/item?id=50440238"
         }
       ]
     },
     {
-      "name": "I'm not convinced the AI bubble exists",
+      "name": "Ask HN: What are you working on? (November 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "I'm not convinced the AI bubble exists &gt; If you check any online discussion about the financial situation of the AI industry, it&#x27;s essentially taken for granted that the bubble exists and is going to pop any day now. I don&#x27;t think that this is a reasonable assumption, though. To say that it is (essentially) taken for granted isn’t a great start to a rebuke. You have to engage with the arguments that they",
-      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-09.",
+      "problem": "Ask HN: What are you working on? (November 2026) I&#x27;m building Fillvisa - a free and open-source alternative to Docketwise, specifically for solo immigration practices, document preparers, and paralegals. What does it do? Helps you fill out USCIS immigration forms and DS-160 without dealing with complicated government PDFs. All forms are available for free. Who is it for? Solo immigration attorneys, paralegals, d",
+      "evidence": "Hacker News — Publié le 2026-11-10 ; collecté le 2026-11-11.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50422043"
+          "url": "https://news.ycombinator.com/item?id=50439562"
         }
       ]
     },
     {
-      "name": "RIP, Harvest",
+      "name": "The Web Is More Than Enough",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "RIP, Harvest Yeah, my consultancy had used Harvest for over a decade. It just worked; it did what we needed, and I didn&#x27;t think twice about the $1500&#x2F;yr or so bill... Until this year when they dumped us over into &quot;enterprise&quot; and charged my business card TWENTY THOUSAND DOLLARS. I found that charge two days after it posted when I went in to remove a seat for a contractor who had moved on. I absolu",
-      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-09.",
+      "problem": "The Web Is More Than Enough That&#x27;s... uh... extremely biased and quite limited? Respectfully, it sounds like you haven&#x27;t been around the internet for so long (&quot;half a decade&quot; sounds like you&#x27;re pretty young :-) ). First, Google did not give us the web. Google gave us a good search engine, then Gmail, then worked very hard towards becoming the quasi-monopoly it is by killing the competition in",
+      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-11.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50421170"
+          "url": "https://news.ycombinator.com/item?id=50423259"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique nouveaux-usages-developpeurs. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 7 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "nouveaux-usages-developpeurs",
+      "github-et-demandes-fonctionnelles",
       "Sans ChatGPT"
     ]
   }
