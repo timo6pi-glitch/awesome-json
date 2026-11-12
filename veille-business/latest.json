@@ -1,10 +1,50 @@
 {
   "version": 2,
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Payment request should allow \"resend\" when status = \"Initiated\"",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Payment request should allow \"resend\" when status = \"Initiated\" **Is your feature request related to a problem? Please describe.** There is no easy way to resend a payment request (including payment_url). **Describe the solution you'd like** I would like to remove \"Initiated\" from the following line in erpnext/accounts/doctype/payment_request/payment_request.js `![\"Initiated\", \"Paid\"].includes(frm.doc.status) &&` **D",
+      "evidence": "GitHub frappe/erpnext — Publié le 2025-05-27 ; collecté le 2026-11-12.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext/issues/47771"
+        }
+      ]
+    },
+    {
+      "name": "Subscription Calendar Events are not returned by REPORT dav request",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
+      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-11-12.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub nextcloud/server",
+          "url": "https://github.com/nextcloud/server/issues/42143"
+        }
+      ]
+    },
     {
       "name": "Ableton Live 13",
       "verdict": "RECHERCHER",
@@ -24,54 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=50440238"
         }
       ]
-    },
-    {
-      "name": "Ask HN: What are you working on? (November 2026)",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: What are you working on? (November 2026) I&#x27;m building Fillvisa - a free and open-source alternative to Docketwise, specifically for solo immigration practices, document preparers, and paralegals. What does it do? Helps you fill out USCIS immigration forms and DS-160 without dealing with complicated government PDFs. All forms are available for free. Who is it for? Solo immigration attorneys, paralegals, d",
-      "evidence": "Hacker News — Publié le 2026-11-10 ; collecté le 2026-11-11.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50439562"
-        }
-      ]
-    },
-    {
-      "name": "The Web Is More Than Enough",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "The Web Is More Than Enough That&#x27;s... uh... extremely biased and quite limited? Respectfully, it sounds like you haven&#x27;t been around the internet for so long (&quot;half a decade&quot; sounds like you&#x27;re pretty young :-) ). First, Google did not give us the web. Google gave us a good search engine, then Gmail, then worked very hard towards becoming the quasi-monopoly it is by killing the competition in",
-      "evidence": "Hacker News — Publié le 2026-11-09 ; collecté le 2026-11-11.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50423259"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique github-et-demandes-fonctionnelles. 7 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique logiciels-open-source-et-lacunes. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "github-et-demandes-fonctionnelles",
+      "logiciels-open-source-et-lacunes",
       "Sans ChatGPT"
     ]
   }
