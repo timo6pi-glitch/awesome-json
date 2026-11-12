@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T12:52:38.659Z",
+  "updatedAt": "2026-11-12T20:53:54.978Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "02731e2efe4242bf2a",
+      "firstSeenAt": "2026-11-12T20:53:54.978Z",
+      "lastSeenAt": "2026-11-12T20:53:54.978Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "logiciels-open-source-et-lacunes",
+      "title": "Calendar and Contacts Trashbin",
+      "url": "https://github.com/nextcloud/server/issues/1662",
+      "sourceName": "GitHub nextcloud/server",
+      "observedFact": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2016-10-07 ; collecté le 2026-11-12.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "cca4bbefe70d48afcd",
+      "firstSeenAt": "2026-11-12T20:53:54.978Z",
+      "lastSeenAt": "2026-11-12T20:53:54.978Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "logiciels-open-source-et-lacunes",
+      "title": "[Bug]: Nextcloud 33 cron.php uses a lot of CPU / postgres activity",
+      "url": "https://github.com/nextcloud/server/issues/59036",
+      "sourceName": "GitHub nextcloud/server",
+      "observedFact": "[Bug]: Nextcloud 33 cron.php uses a lot of CPU / postgres activity > [!NOTE] > ### How to help with this issue > * Use the 👍 reaction to show you are affected by this as well > * Avoid commenting unless you have relevant information to add; unnecessary comments create noise for subscribers. > * Subscribe to receive notifications about status changes and new comments. --- *Original report by @z3ntu* > Since upgrading",
+      "evidenceType": "PLATFORM_CHANGE",
+      "freshness": "Publié le 2026-03-18 ; collecté le 2026-11-12.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "71330ac78834bf0a9f",
       "firstSeenAt": "2026-11-12T12:52:38.659Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "830350915c8a2377ca",
-      "firstSeenAt": "2026-11-01T14:19:35.603Z",
-      "lastSeenAt": "2026-11-01T14:19:35.603Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "url": "https://news.ycombinator.com/item?id=50323799",
-      "sourceName": "Hacker News",
-      "observedFact": "Anthropic takes steps to block Claude from reverse-engineering video games They are absolutely going to be getting sued by major software IP and copyright holders. Adobe and other companies have been holding back because they are also using frontier models to keep pace. Suing Anthropic means getting cut off. But now that alternatives are proving themselves.. This, to me, is why Anthropic is rushing their IPO. I simpl",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-11-01 ; collecté le 2026-11-01.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "dedd68a791774b4183",
-      "firstSeenAt": "2026-11-01T14:19:35.603Z",
-      "lastSeenAt": "2026-11-01T14:19:35.603Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Software may be getting worse, but it used to be horrible",
-      "url": "https://news.ycombinator.com/item?id=50265468",
-      "sourceName": "Hacker News",
-      "observedFact": "Software may be getting worse, but it used to be horrible All these apps are modern and of the highest quality. All of them very popular except the last I listed. Not mentioned are the many high quality apps included with MacOS, including the Music.app (iTunes), which doesn&#x27;t need any Internet connection to play your MP3s. Games I don&#x27;t care about, for those a PC or console is most likely your better option",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-10-27 ; collecté le 2026-11-01.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-12T12:52:38.659Z",
+    "at": "2026-11-12T20:53:54.978Z",
     "family": "logiciels-open-source-et-lacunes",
     "region": "Monde",
-    "newSignals": 12,
+    "newSignals": 2,
     "collectionError": null
   }
 }
