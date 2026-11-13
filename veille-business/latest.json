@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Calendar and Contacts Trashbin",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
+      "evidence": "GitHub nextcloud/server — Publié le 2016-10-07 ; collecté le 2026-11-12.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub nextcloud/server",
+          "url": "https://github.com/nextcloud/server/issues/1662"
+        }
+      ]
+    },
     {
       "name": "Payment request should allow \"resend\" when status = \"Initiated\"",
       "verdict": "RECHERCHER",
@@ -44,34 +64,14 @@
           "url": "https://github.com/nextcloud/server/issues/42143"
         }
       ]
-    },
-    {
-      "name": "Ableton Live 13",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ableton Live 13 I remember these were the software programs that had no good alternative back in the day. SketchUp, after Google offloaded it, became paid software. All these FL Studio, Ableton, etc. SketchUp has already been cloned as Ketchup. I wonder if FL Studio and Ableton will soon be cloned? pretty sure someone is already doing egui rust clone.",
-      "evidence": "Hacker News — Publié le 2026-11-10 ; collecté le 2026-11-11.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50440238"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique logiciels-open-source-et-lacunes. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "logiciels-open-source-et-lacunes",
+      "communautes-chine-asie",
       "Sans ChatGPT"
     ]
   }
