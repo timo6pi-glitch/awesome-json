@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Calendar and Contacts Trashbin",
+      "name": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Calendar and Contacts Trashbin We already provide a trash bin for files, that allows users to restore deleted files. I'd like to see something similar for calendars and contacts. This also helps users who accidentally deleted events/contacts or an entire calendar/addressbook in their client. Todo - [x] Calendar and event trash bin - [ ] Calendar subscription trash bin - [ ] Address book and contact card trash bin cc ",
-      "evidence": "GitHub nextcloud/server — Publié le 2016-10-07 ; collecté le 2026-11-12.",
+      "problem": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app My mum passed away but she was constantly embroidering on these machines and always complained about the Brother software costing a bunch of money and not working on the later versions of Windows. We managed to find alternative software so she could use the software using Windows 7. It’s nice to see PES support and hopefully the lifetime",
+      "evidence": "Hacker News — Publié le 2026-11-13 ; collecté le 2026-11-14.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/1662"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50482039"
         }
       ]
     },
     {
-      "name": "Payment request should allow \"resend\" when status = \"Initiated\"",
+      "name": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Payment request should allow \"resend\" when status = \"Initiated\" **Is your feature request related to a problem? Please describe.** There is no easy way to resend a payment request (including payment_url). **Describe the solution you'd like** I would like to remove \"Initiated\" from the following line in erpnext/accounts/doctype/payment_request/payment_request.js `![\"Initiated\", \"Paid\"].includes(frm.doc.status) &&` **D",
-      "evidence": "GitHub frappe/erpnext — Publié le 2025-05-27 ; collecté le 2026-11-12.",
+      "problem": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app It&#x27;s also good for user privacy. I suppose it can accelerate privacy invasions that software makes, but the thing with software and services is you generally get to choose which ones you use. 1. AI coding gives privacy-focused software creators more ability to create great UX allowing for them to be more serious alternatives to priv",
+      "evidence": "Hacker News — Publié le 2026-11-13 ; collecté le 2026-11-14.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -40,17 +40,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub frappe/erpnext",
-          "url": "https://github.com/frappe/erpnext/issues/47771"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50476708"
         }
       ]
     },
     {
-      "name": "Subscription Calendar Events are not returned by REPORT dav request",
+      "name": "Jensen Huang resigns",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
-      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-11-12.",
+      "problem": "Jensen Huang resigns This is what people miss. Their view of China is decades out of date, and they aren&#x27;t paying attention to the recent history of industries where China has gone from playing catch-up to outright dominance. It&#x27;s not just about the end product (GPUs or whatever). It&#x27;s about the entire supply chain, manufacturing capacity, and industrial ecosystem behind it. And the dangerous assumptio",
+      "evidence": "Hacker News — Publié le 2026-11-12 ; collecté le 2026-11-14.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -60,18 +60,18 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/42143"
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50471444"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-chine-asie. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique avis-et-alternatives-logicielles. 8 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-chine-asie",
+      "avis-et-alternatives-logicielles",
       "Sans ChatGPT"
     ]
   }
