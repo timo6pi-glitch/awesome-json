@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T23:07:36.205Z",
+  "updatedAt": "2026-11-15T02:46:10.707Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "7d008d31c961ba2cfd",
+      "firstSeenAt": "2026-11-15T02:46:10.707Z",
+      "lastSeenAt": "2026-11-15T02:46:10.707Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "nouveaux-usages-developpeurs",
+      "title": "remove.bg Is Shutting Down — Here's a Free, No-Upload Alternative",
+      "url": "https://dev.to/akhourianmolkumar/removebg-is-shutting-down-heres-a-free-no-upload-alternative-4ebo",
+      "sourceName": "DEV Community",
+      "observedFact": "remove.bg Is Shutting Down — Here's a Free, No-Upload Alternative On December 1, 2026 at 9:00 AM CET, remove.bg — the site that turned \"one-click background removal\"...",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-11-13 ; collecté le 2026-11-15.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "e549bace3b9df181f4",
       "firstSeenAt": "2026-11-14T23:07:36.205Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "adeb0b213067094034",
-      "firstSeenAt": "2026-11-03T21:07:49.419Z",
-      "lastSeenAt": "2026-11-03T21:07:49.419Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "travail-manuel-recurrent",
-      "title": "Ask HN: Who wants to be hired? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50346894",
-      "sourceName": "Hacker News",
-      "observedFact": "Ask HN: Who wants to be hired? (November 2026) Location : Philippines (GMT +8) Remote : Yes (Global) Willing to relocate : No Technologies : Python, Docker&#x2F;Podman, PostgreSQL, JS Resume&#x2F;CV : https:&#x2F;&#x2F;pdlozano.com&#x2F;freelance-resume&#x2F; Resume&#x2F;CV (PDF) : https:&#x2F;&#x2F;assets.pdlozano.com&#x2F;Freelance%20Resume.pdf Email : pauldavidlozano@gmail.com I am a hardware engineer by day but I",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-11-03 ; collecté le 2026-11-03.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-14T23:07:36.205Z",
-    "family": "github-et-demandes-fonctionnelles",
+    "at": "2026-11-15T02:46:10.707Z",
+    "family": "nouveaux-usages-developpeurs",
     "region": "Monde",
-    "newSignals": 6,
+    "newSignals": 1,
     "collectionError": null
   }
 }
