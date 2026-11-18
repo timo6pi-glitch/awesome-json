@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T14:12:02.456Z",
+  "updatedAt": "2026-11-18T22:04:08.858Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "a0bd3d9484cf2f2d55",
+      "firstSeenAt": "2026-11-18T22:04:08.858Z",
+      "lastSeenAt": "2026-11-18T22:04:08.858Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "Is the SaaS business model dead or there is still oportunities in this age of AI",
+      "url": "https://news.ycombinator.com/item?id=50547404",
+      "sourceName": "Hacker News",
+      "observedFact": "Is the SaaS business model dead or there is still oportunities in this age of AI This question reappears often on HN. Note that you should submit as an &quot;AskHN:&quot; for responses to a question. At any rate, here is my somewhat promising (but not guaranteed) look at the future of subscription software services--and I did not use an LLM to inform my answer: My crystal ball says... 1. For software products that ca",
+      "evidenceType": "PAYMENT",
+      "freshness": "Publié le 2026-11-18 ; collecté le 2026-11-18.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "MEDIUM",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "1edaf9c527f8e23bba",
       "firstSeenAt": "2026-11-18T14:12:02.456Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "c9b7229fc5e28c8072",
-      "firstSeenAt": "2026-11-05T06:57:33.771Z",
-      "lastSeenAt": "2026-11-05T06:57:33.771Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Affinity for Linux is in active development",
-      "url": "https://news.ycombinator.com/item?id=50369642",
-      "sourceName": "Hacker News",
-      "observedFact": "Affinity for Linux is in active development &gt; Selling binaries is no longer a viable business model anymore for a technical customer, or so I thought. You thought wrong. I&#x27;m not gonna vibecode my own Photoshop, nor am I gonna be happy with the FOSS alternatives. Spending what I make in a few hours of work to have a commercial product that satisfies all my need still is a savvy business and time-saving investm",
-      "evidenceType": "MANUAL_WORK",
-      "freshness": "Publié le 2026-11-04 ; collecté le 2026-11-05.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-18T14:12:02.456Z",
+    "at": "2026-11-18T22:04:08.858Z",
     "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 2,
+    "newSignals": 1,
     "collectionError": null
   }
 }
