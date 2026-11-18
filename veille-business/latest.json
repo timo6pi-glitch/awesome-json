@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns Because people don&#x27;t understand timelines. When I saw Photocraft for the first time, my thought wasn&#x27;t &quot;Adobe is done&quot; but &quot;wtf this will change software as we know it in the next 5 years&quot;. Then the whole reingineering of firmwares and fixing bugs in software you don&#x27;t have the source code for. Was it possible to bre",
+      "evidence": "Hacker News — Publié le 2026-11-17 ; collecté le 2026-11-17.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50533487"
+        }
+      ]
+    },
     {
       "name": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
       "verdict": "RECHERCHER",
@@ -44,31 +64,11 @@
           "url": "https://news.ycombinator.com/item?id=50482039"
         }
       ]
-    },
-    {
-      "name": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app It&#x27;s also good for user privacy. I suppose it can accelerate privacy invasions that software makes, but the thing with software and services is you generally get to choose which ones you use. 1. AI coding gives privacy-focused software creators more ability to create great UX allowing for them to be more serious alternatives to priv",
-      "evidence": "Hacker News — Publié le 2026-11-13 ; collecté le 2026-11-14.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50476708"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique avis-et-alternatives-logicielles. 4 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique avis-et-alternatives-logicielles. 2 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
       "avis-et-alternatives-logicielles",

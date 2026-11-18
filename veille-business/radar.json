@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T22:57:44.399Z",
+  "updatedAt": "2026-11-18T14:12:02.456Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,42 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "1edaf9c527f8e23bba",
+      "firstSeenAt": "2026-11-18T14:12:02.456Z",
+      "lastSeenAt": "2026-11-18T14:12:02.456Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "What is the best harness for each model?",
+      "url": "https://news.ycombinator.com/item?id=50540911",
+      "sourceName": "Hacker News",
+      "observedFact": "What is the best harness for each model? One reason is because a lot of older code is insecure. Another reason is that if you can find a better way to accomplish the goal, then you should eventually switch to it. Technically, the FAA sees positive business value from using floppy disks over magnetic tape or punch cards. But that’s not the right metric, since it ignores the fact that floppy disks are worse than a mode",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-11-18 ; collecté le 2026-11-18.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "eb23f8f56ea441b86b",
+      "firstSeenAt": "2026-11-18T14:12:02.456Z",
+      "lastSeenAt": "2026-11-18T14:12:02.456Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "avis-et-alternatives-logicielles",
+      "title": "We don't need more apps, we need better open source",
+      "url": "https://news.ycombinator.com/item?id=50540414",
+      "sourceName": "Hacker News",
+      "observedFact": "We don't need more apps, we need better open source There&#x27;s a lot of small business use cases that you might not be thinking of. For example Dolibarr &#x2F; ERPNext running point of sale for apparently damn near every digitized small business in South America. FOSS creates a free as in beer alternative to commercial POS software for these people, and as long as the technical challenge of getting it running is ea",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2026-11-18 ; collecté le 2026-11-18.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "28e44c15b6c7589ae1",
       "firstSeenAt": "2026-11-17T22:57:44.399Z",
@@ -3575,42 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "2edf0850964ddabf12",
-      "firstSeenAt": "2026-11-05T06:57:33.771Z",
-      "lastSeenAt": "2026-11-05T06:57:33.771Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Affinity for Linux is in active development",
-      "url": "https://news.ycombinator.com/item?id=50368512",
-      "sourceName": "Hacker News",
-      "observedFact": "Affinity for Linux is in active development I like F&#x2F;LOSS software, but I&#x27;m no Stallman. Let&#x27;s be honest, flawed proprietary products I can&#x27;t improve but am still forced to pay for are a regular part of day-to-day life. I have no meaningful influence over the products I buy in the supermarket, or my apartment building&#x27;s elevator programming, or the entertainment cluster of modern cars. All el",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2026-11-04 ; collecté le 2026-11-05.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "7c394c2d9929be951a",
-      "firstSeenAt": "2026-11-05T06:57:33.771Z",
-      "lastSeenAt": "2026-11-05T06:57:33.771Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Affinity for Linux is in active development",
-      "url": "https://news.ycombinator.com/item?id=50367617",
-      "sourceName": "Hacker News",
-      "observedFact": "Affinity for Linux is in active development &gt; Because getting the F&#x2F;LOSS alternative to feature-parity is going to require a multi-million-dollar investment, That may have been true a year ago, but these days FOSS software can be extended by anyone with a GPU and some imagination, or any proprietary software can be rapidly reverse engineered and clean-roomed as open source. I have added features to most softw",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-11-04 ; collecté le 2026-11-05.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-17T22:57:44.399Z",
+    "at": "2026-11-18T14:12:02.456Z",
     "family": "avis-et-alternatives-logicielles",
     "region": "États-Unis / monde",
-    "newSignals": 5,
+    "newSignals": 2,
     "collectionError": null
   }
 }
