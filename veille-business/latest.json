@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Is the SaaS business model dead or there is still oportunities in this age of AI",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Is the SaaS business model dead or there is still oportunities in this age of AI This question reappears often on HN. Note that you should submit as an &quot;AskHN:&quot; for responses to a question. At any rate, here is my somewhat promising (but not guaranteed) look at the future of subscription software services--and I did not use an LLM to inform my answer: My crystal ball says... 1. For software products that ca",
+      "evidence": "Hacker News — Publié le 2026-11-18 ; collecté le 2026-11-18.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50547404"
+        }
+      ]
+    },
     {
       "name": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
       "verdict": "RECHERCHER",
@@ -44,34 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=50513632"
         }
       ]
-    },
-    {
-      "name": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app My mum passed away but she was constantly embroidering on these machines and always complained about the Brother software costing a bunch of money and not working on the later versions of Windows. We managed to find alternative software so she could use the software using Windows 7. It’s nice to see PES support and hopefully the lifetime",
-      "evidence": "Hacker News — Publié le 2026-11-13 ; collecté le 2026-11-14.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50482039"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique avis-et-alternatives-logicielles. 2 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique travail-manuel-recurrent. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "avis-et-alternatives-logicielles",
+      "travail-manuel-recurrent",
       "Sans ChatGPT"
     ]
   }
