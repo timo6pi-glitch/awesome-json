@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Is the SaaS business model dead or there is still oportunities in this age of AI",
+      "name": "Ask HN: Who wants to be hired? (November 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Is the SaaS business model dead or there is still oportunities in this age of AI This question reappears often on HN. Note that you should submit as an &quot;AskHN:&quot; for responses to a question. At any rate, here is my somewhat promising (but not guaranteed) look at the future of subscription software services--and I did not use an LLM to inform my answer: My crystal ball says... 1. For software products that ca",
-      "evidence": "Hacker News — Publié le 2026-11-18 ; collecté le 2026-11-18.",
+      "problem": "Ask HN: Who wants to be hired? (November 2026) Location: Lisbon, Portugal (GMT+0&#x2F;+1) Remote: Yes Willing to relocate: Willing to travel 2 weeks&#x2F;mo on-site globally Technologies: Typescript, React, TanStack Start, Next.js, PostgreSQL, pgvector, Redis, Docker, Drizzle ORM, Zod, Zustand, TanStack Query, Tailwind CSS, Plasmo, Vite, Astro, Expo, AI SDK, Python, TensorFlow, scikit-learn, Pandas, Deck.gl, AWS, GCP",
+      "evidence": "Hacker News — Publié le 2026-11-03 ; collecté le 2026-11-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50547404"
+          "url": "https://news.ycombinator.com/item?id=50347133"
         }
       ]
     },
     {
-      "name": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "name": "Ask HN: Who is hiring? (November 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns Because people don&#x27;t understand timelines. When I saw Photocraft for the first time, my thought wasn&#x27;t &quot;Adobe is done&quot; but &quot;wtf this will change software as we know it in the next 5 years&quot;. Then the whole reingineering of firmwares and fixing bugs in software you don&#x27;t have the source code for. Was it possible to bre",
-      "evidence": "Hacker News — Publié le 2026-11-17 ; collecté le 2026-11-17.",
+      "problem": "Ask HN: Who is hiring? (November 2026) Fredrin | GTM Engineer | REMOTE (US) | Full-time | $130k + equity | https:&#x2F;&#x2F;www.fredrin.com&#x2F;careers&#x2F;gtm-engineer?utm_source=hack... Fredrin is the multiplayer software factory: one app where a team and its AI Workers build software together, and Workers running Claude Code or Codex, on the subscription you already pay for, plan, build, test and merge the work",
+      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50533487"
+          "url": "https://news.ycombinator.com/item?id=50341328"
         }
       ]
     },
     {
-      "name": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "name": "Ask HN: Who wants to be hired? (November 2026)",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs &gt; After 18 months without a job (I got DOGE&#x27;d), I gave the hell up and joined the resraurant biz. Sorry for your situation, but congrats on finding an alternative. One of the scary aspects of the software industry becoming a frozen job market is that things are moving so fast that I suspect other industries will be far enough beh",
-      "evidence": "Hacker News — Publié le 2026-11-16 ; collecté le 2026-11-16.",
+      "problem": "Ask HN: Who wants to be hired? (November 2026) Location: Ho Chi Minh City, Vietnam (UTC+7) Remote: Yes Willing to relocate: No Technologies: Python (httpx, Playwright, FastAPI, pandas), TypeScript&#x2F;Node.js, PHP, SQL (PostgreSQL&#x2F;Supabase, SQLite), n8n, Make, Apify SDK, React, React Native (Expo), Google Apps Script Résumé&#x2F;CV: https:&#x2F;&#x2F;trungthanhtran.vercel.app&#x2F;cv Email: ttrungthanh90@gmail.",
+      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,7 +61,7 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50513632"
+          "url": "https://news.ycombinator.com/item?id=50338764"
         }
       ]
     }
