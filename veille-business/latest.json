@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Ask HN: Who wants to be hired? (November 2026)",
+      "name": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: Who wants to be hired? (November 2026) Location: Lisbon, Portugal (GMT+0&#x2F;+1) Remote: Yes Willing to relocate: Willing to travel 2 weeks&#x2F;mo on-site globally Technologies: Typescript, React, TanStack Start, Next.js, PostgreSQL, pgvector, Redis, Docker, Drizzle ORM, Zod, Zustand, TanStack Query, Tailwind CSS, Plasmo, Vite, Astro, Expo, AI SDK, Python, TensorFlow, scikit-learn, Pandas, Deck.gl, AWS, GCP",
-      "evidence": "Hacker News — Publié le 2026-11-03 ; collecté le 2026-11-20.",
+      "problem": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
+      "evidence": "DEV Community — Publié le 2026-11-16 ; collecté le 2026-11-21.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50347133"
+          "label": "DEV Community",
+          "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091"
         }
       ]
     },
     {
-      "name": "Ask HN: Who is hiring? (November 2026)",
+      "name": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: Who is hiring? (November 2026) Fredrin | GTM Engineer | REMOTE (US) | Full-time | $130k + equity | https:&#x2F;&#x2F;www.fredrin.com&#x2F;careers&#x2F;gtm-engineer?utm_source=hack... Fredrin is the multiplayer software factory: one app where a team and its AI Workers build software together, and Workers running Claude Code or Codex, on the subscription you already pay for, plan, build, test and merge the work",
-      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-20.",
+      "problem": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026 I keep coming back to one small question: why do we ask a model to write a paragraph when all our...",
+      "evidence": "DEV Community — Publié le 2026-11-19 ; collecté le 2026-11-21.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -40,17 +40,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50341328"
+          "label": "DEV Community",
+          "url": "https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24"
         }
       ]
     },
     {
-      "name": "Ask HN: Who wants to be hired? (November 2026)",
+      "name": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: Who wants to be hired? (November 2026) Location: Ho Chi Minh City, Vietnam (UTC+7) Remote: Yes Willing to relocate: No Technologies: Python (httpx, Playwright, FastAPI, pandas), TypeScript&#x2F;Node.js, PHP, SQL (PostgreSQL&#x2F;Supabase, SQLite), n8n, Make, Apify SDK, React, React Native (Expo), Google Apps Script Résumé&#x2F;CV: https:&#x2F;&#x2F;trungthanhtran.vercel.app&#x2F;cv Email: ttrungthanh90@gmail.",
-      "evidence": "Hacker News — Publié le 2026-11-02 ; collecté le 2026-11-20.",
+      "problem": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis I&#x27;m building a little side business with LLMs doing 90%+ of the work, and this includes numerical analysis of revenue to figure out where to direct effort. Today the problem you&#x27;re mentioning is easily avoided if you are aware by ensuring you direct the agents to build tools for anything deterministic. Every week &quot;we&quot; (myself an",
+      "evidence": "Hacker News — Publié le 2026-10-26 ; collecté le 2026-11-20.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50338764"
+          "url": "https://news.ycombinator.com/item?id=50241892"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique travail-manuel-recurrent. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "travail-manuel-recurrent",
+      "changements-plateformes",
       "Sans ChatGPT"
     ]
   }
