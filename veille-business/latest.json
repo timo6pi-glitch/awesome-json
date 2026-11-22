@@ -1,56 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+      "name": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
-      "evidence": "DEV Community — Publié le 2026-11-16 ; collecté le 2026-11-21.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "DEV Community",
-          "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091"
-        }
-      ]
-    },
-    {
-      "name": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026 I keep coming back to one small question: why do we ask a model to write a paragraph when all our...",
-      "evidence": "DEV Community — Publié le 2026-11-19 ; collecté le 2026-11-21.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "DEV Community",
-          "url": "https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24"
-        }
-      ]
-    },
-    {
-      "name": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis I&#x27;m building a little side business with LLMs doing 90%+ of the work, and this includes numerical analysis of revenue to figure out where to direct effort. Today the problem you&#x27;re mentioning is easily avoided if you are aware by ensuring you direct the agents to build tools for anything deterministic. Every week &quot;we&quot; (myself an",
-      "evidence": "Hacker News — Publié le 2026-10-26 ; collecté le 2026-11-20.",
+      "problem": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day &gt; if the assembly is large enough This is the direct democracy problem. If you have a small or medium number of representatives, they become the targets for capture and are few enough that you don&#x27;t need many bad ones to cause a huge problem. If you have number of representatives large enough to prevent that, they stop paying attention",
+      "evidence": "Hacker News — Publié le 2026-11-22 ; collecté le 2026-11-22.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +21,57 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50241892"
+          "url": "https://news.ycombinator.com/item?id=50596893"
+        }
+      ]
+    },
+    {
+      "name": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades' We also work for people who are like that when we could work someplace else. So we end up doing charity work for their get rich (or out of perpetual debt) story while missing special events with family. There was a great commercial years ago of a guy in front of a spruced up but typical middle class house, on a riding lawnmower, talking about",
+      "evidence": "Hacker News — Publié le 2026-11-22 ; collecté le 2026-11-22.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50596836"
+        }
+      ]
+    },
+    {
+      "name": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Toyota, Nissan, and Honda to standardize parts to lower costs Once upon a time, headlight bulbs used to be more-standard than they are. Or at least: They were from my US perspective. I&#x27;ve had cars with 9006&#x2F;9007 headlight bulbs. Those were OK, I guess, other than the polycarbonate housings that turn into a clouded quagmire of shit when exposed to sunlight. My 2012 Honda uses D2S headlight bulbs. That&#x27;s",
+      "evidence": "Hacker News — Publié le 2026-11-22 ; collecté le 2026-11-22.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50596765"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique changements-plateformes. 0 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 7 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "changements-plateformes",
+      "communautes-us",
       "Sans ChatGPT"
     ]
   }
