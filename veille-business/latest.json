@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio Thanks! I agree, the models have gotten really good, and Klistra uses a similar pipeline to Claude + Remotion under the hood. It doesn&#x27;t use Remotion, but it&#x27;s currently running on Opus 5.5. What I tried to do with this project was make it more accessible and integrate all the supporting tooling into one studio with a purpose-buil",
+      "evidence": "Hacker News — Publié le 2026-11-21 ; collecté le 2026-11-24.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50590824"
+        }
+      ]
+    },
     {
       "name": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
       "verdict": "RECHERCHER",
@@ -44,34 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=50587791"
         }
       ]
-    },
-    {
-      "name": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades' I really hope so too! And I think it will help. But people need to keep in mind how much money there is in math proofs before they get too excited. In short: there&#x27;s very little. Mathematicians are often regarded as a pinnacle of human intelligence, but most of them are working at universities and working on these problems in their off t",
-      "evidence": "Hacker News — Publié le 2026-11-22 ; collecté le 2026-11-22.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50600669"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique avis-et-alternatives-logicielles. 4 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique travail-manuel-recurrent. 4 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "avis-et-alternatives-logicielles",
+      "travail-manuel-recurrent",
       "Sans ChatGPT"
     ]
   }
