@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
+      "name": "Nvidia board's Huang reversal raises doubts about independence, critics say",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio Thanks! I agree, the models have gotten really good, and Klistra uses a similar pipeline to Claude + Remotion under the hood. It doesn&#x27;t use Remotion, but it&#x27;s currently running on Opus 5.5. What I tried to do with this project was make it more accessible and integrate all the supporting tooling into one studio with a purpose-buil",
-      "evidence": "Hacker News — Publié le 2026-11-21 ; collecté le 2026-11-24.",
+      "problem": "Nvidia board's Huang reversal raises doubts about independence, critics say Like I said, shaky but not dirty. Even if these deals didn&#x27;t encourage overbuilding, the correlation between the deals is their problem. They are correlated because they are all with the same type of businesses, AI data centers. A secular downturn or stagnation in the industry affects everyone. They are also correlated the chips would be",
+      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -21,16 +21,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50590824"
+          "url": "https://news.ycombinator.com/item?id=50639256"
         }
       ]
     },
     {
-      "name": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "name": "AI People Are Extremely Rich",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do? Probably bad advice (different country, w lower pay than US): - lie - if lying makes you uncomfortable, „enlarge“ what you did in past positions - including the „projects“ you worked upon in the last 2y - if they don’t exist, step 1 alternative routes: - ai engineering (modern day prompt engineering), I haven’t written much code in the las",
-      "evidence": "Hacker News — Publié le 2026-11-21 ; collecté le 2026-11-22.",
+      "problem": "AI People Are Extremely Rich I was hired by AOL, with a start date of mid-June 1995. I left AOL in mid-August of 1997. It had just gotten too toxic for me, and I couldn’t stay there any longer. I later calculated that, if I had managed to stay there and sell all my vested shares at peak, I would have had $16M after taxes. But it was a toxic environment, so I couldn’t stay. If I hadn’t delayed my exit from my previous",
+      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50591578"
+          "url": "https://news.ycombinator.com/item?id=50639015"
         }
       ]
     },
     {
-      "name": "And yet, it moves",
+      "name": "Jetty Pro",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "And yet, it moves &quot;I think it&#x27;s a false dichotomy to say we&#x27;re either &quot;Literal slaves&quot; or &quot;totally free&quot;.&quot; I did not meant to imply that at all. And I am very aware of what this means, especially if you have family. It is just that the impression I get in these debates, that people behave like entitled slaves sometimes. &quot;There is no alternative! I cannot leave my golden ca",
-      "evidence": "Hacker News — Publié le 2026-11-21 ; collecté le 2026-11-22.",
+      "problem": "Jetty Pro &gt; I have no problem with the price, but I do have a problem with the subscription. Interesting! I wonder what problem he has, I’ll keep reading &gt; Do I want it? Beats me, if it’s a subscription for the functionality described in these comments, I’m not even going to click. Hum. He sure doesn’t like subscriptions, but hasn’t said why. Oh someone asked, I’ll keep reading. &gt; Perhaps I’ve worded it poor",
+      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-25.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50587791"
+          "url": "https://news.ycombinator.com/item?id=50638181"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique travail-manuel-recurrent. 4 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique communautes-us. 11 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "travail-manuel-recurrent",
+      "communautes-us",
       "Sans ChatGPT"
     ]
   }
