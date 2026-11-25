@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T08:46:02.091Z",
+  "updatedAt": "2026-11-25T19:23:17.949Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "0dce2e634bfc7c4e51",
+      "firstSeenAt": "2026-11-25T19:23:17.949Z",
+      "lastSeenAt": "2026-11-25T19:23:17.949Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "[NEXT-3982] ChunkLoadError: Loading chunk app/layout failed. (timeout: http://localhost:3000/_next/static/chunks/app/layout.js)",
+      "url": "https://github.com/vercel/next.js/issues/66526",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "[NEXT-3982] ChunkLoadError: Loading chunk app/layout failed. (timeout: http://localhost:3000/_next/static/chunks/app/layout.js) ### Link to the code that reproduces this issue https://github.com/Intellyse/next-js-bug ### To Reproduce 1. clone project 2. npm install 3. npm run dev 4. open the page and you can see chrome console output: Uncaught SyntaxError: Invalid or unexpected token 5. same minutes you can see error",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2024-06-04 ; collecté le 2026-11-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "471e32323b7ba1f654",
+      "firstSeenAt": "2026-11-25T19:23:17.949Z",
+      "lastSeenAt": "2026-11-25T19:23:17.949Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Turbopack generates external module references with hashes that don't match installed packages when node_modules structure differs",
+      "url": "https://github.com/vercel/next.js/issues/87737",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Turbopack generates external module references with hashes that don't match installed packages when node_modules structure differs ### Link to the code that reproduces this issue https://github.com/Aluisio/test-styled-components ### To Reproduce 1. Create a Next.js 16.1.1+ project with OpenTelemetry instrumentation 2. Add `instrumentation.ts` file that imports `@opentelemetry/auto-instrumentations-node` 3. Build the ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2025-12-23 ; collecté le 2026-11-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "cd3c132ce7dcab61a4",
+      "firstSeenAt": "2026-11-25T19:23:17.949Z",
+      "lastSeenAt": "2026-11-25T19:23:17.949Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "changements-plateformes",
+      "title": "Next.js 15.4.4+ production builds broken when using a specific 3rd-party-library - dev server is fine",
+      "url": "https://github.com/vercel/next.js/issues/82640",
+      "sourceName": "GitHub vercel/next.js",
+      "observedFact": "Next.js 15.4.4+ production builds broken when using a specific 3rd-party-library - dev server is fine ### Link to the code that reproduces this issue https://github.com/soulchild/next-dynamics-web-api-reproduction ### To Reproduce The repo contains the exact same example, once with Next.js 15.4.3 (working as intended) and Next.js 15.4.6 (build breaks with a weird error). To reproduce, run `npm i && npm run build` in ",
+      "evidenceType": "PAIN",
+      "freshness": "Publié le 2025-08-14 ; collecté le 2026-11-25.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "59d6c8b26b614c49cb",
       "firstSeenAt": "2026-11-25T08:46:02.091Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "71330ac78834bf0a9f",
-      "firstSeenAt": "2026-11-12T12:52:38.659Z",
-      "lastSeenAt": "2026-11-12T12:52:38.659Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Payment request should allow \"resend\" when status = \"Initiated\"",
-      "url": "https://github.com/frappe/erpnext/issues/47771",
-      "sourceName": "GitHub frappe/erpnext",
-      "observedFact": "Payment request should allow \"resend\" when status = \"Initiated\" **Is your feature request related to a problem? Please describe.** There is no easy way to resend a payment request (including payment_url). **Describe the solution you'd like** I would like to remove \"Initiated\" from the following line in erpnext/accounts/doctype/payment_request/payment_request.js `![\"Initiated\", \"Paid\"].includes(frm.doc.status) &&` **D",
-      "evidenceType": "PAYMENT",
-      "freshness": "Publié le 2025-05-27 ; collecté le 2026-11-12.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "125c32cb6b1d4d59e3",
-      "firstSeenAt": "2026-11-12T12:52:38.659Z",
-      "lastSeenAt": "2026-11-12T12:52:38.659Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Enhancement for Quality Module",
-      "url": "https://github.com/frappe/erpnext/issues/54048",
-      "sourceName": "GitHub frappe/erpnext",
-      "observedFact": "Enhancement for Quality Module - [ ] **Need of GRN Stage** +1 ([Issue Reference](https://github.com/frappe/erpnext/issues/53185#issue-4026953799)) Use Case: When goods are delivered by a supplier, they are recorded in the warehouse via GRN. At this stage, items are neither accepted nor rejected, as Quality Inspection is still pending. Ideally, since acceptance is not confirmed, these goods should not trigger any acco",
-      "evidenceType": "PLATFORM_CHANGE",
-      "freshness": "Publié le 2026-04-06 ; collecté le 2026-11-12.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "MEDIUM",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "e6973ff2627a0d2ed2",
-      "firstSeenAt": "2026-11-12T12:52:38.659Z",
-      "lastSeenAt": "2026-11-12T12:52:38.659Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "logiciels-open-source-et-lacunes",
-      "title": "Display Upload Date for Files in Web Interface (and make it sortable)",
-      "url": "https://github.com/nextcloud/server/issues/22278",
-      "sourceName": "GitHub nextcloud/server",
-      "observedFact": "Display Upload Date for Files in Web Interface (and make it sortable) Hi Devs, The Use Case is: 1, Anyone adds new Pictures to a Folder with (Picture) Creation Date 15.05.2020. 2, It is sorted for Creation Date so I find easily the new pictures 3, Anyone adds new Pictures to a Folder with (Picture) Creation Date 30.05.2020. 4, It is sorted for Creation Date so I find easily the new pictures. 5, Anyone adds new Pictur",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2020-08-18 ; collecté le 2026-11-12.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-25T08:46:02.091Z",
-    "family": "communautes-us",
-    "region": "États-Unis / monde",
-    "newSignals": 11,
+    "at": "2026-11-25T19:23:17.949Z",
+    "family": "changements-plateformes",
+    "region": "Monde",
+    "newSignals": 3,
     "collectionError": null
   }
 }
