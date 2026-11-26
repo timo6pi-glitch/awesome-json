@@ -1,10 +1,30 @@
 {
   "version": 2,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
+    {
+      "name": "Subscription Calendar Events are not returned by REPORT dav request",
+      "verdict": "RECHERCHER",
+      "buyer": "Acheteur à identifier précisément après revue humaine.",
+      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
+      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-11-26.",
+      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
+      "competition": "Concurrents et solution native à rechercher avant tout développement.",
+      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
+      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
+      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
+      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
+      "sources": [
+        {
+          "label": "GitHub nextcloud/server",
+          "url": "https://github.com/nextcloud/server/issues/42143"
+        }
+      ]
+    },
     {
       "name": "Nvidia board's Huang reversal raises doubts about independence, critics say",
       "verdict": "RECHERCHER",
@@ -44,34 +64,14 @@
           "url": "https://news.ycombinator.com/item?id=50639015"
         }
       ]
-    },
-    {
-      "name": "Jetty Pro",
-      "verdict": "RECHERCHER",
-      "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Jetty Pro &gt; I have no problem with the price, but I do have a problem with the subscription. Interesting! I wonder what problem he has, I’ll keep reading &gt; Do I want it? Beats me, if it’s a subscription for the functionality described in these comments, I’m not even going to click. Hum. He sure doesn’t like subscriptions, but hasn’t said why. Oh someone asked, I’ll keep reading. &gt; Perhaps I’ve worded it poor",
-      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-25.",
-      "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
-      "competition": "Concurrents et solution native à rechercher avant tout développement.",
-      "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "counterproof": "Signal isolé ou automatisé : fréquence, budget et représentativité restent inconnus.",
-      "channel": "Canal écrit à identifier après confirmation de l’acheteur ; aucun trafic garanti.",
-      "feasibility": "Un prototype ne doit être lancé qu’après revue manuelle et test de paiement.",
-      "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
-      "sources": [
-        {
-          "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50638181"
-        }
-      ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique communautes-us. 11 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique logiciels-open-source-et-lacunes. 12 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "communautes-us",
+      "logiciels-open-source-et-lacunes",
       "Sans ChatGPT"
     ]
   }
