@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "decision": "RECHERCHER",
   "headline": "Signaux logiciels à examiner",
   "summary": "Rapport automatique indépendant de ChatGPT. Les éléments sont des signaux publics à vérifier, pas des business validés.",
   "candidates": [
     {
-      "name": "Subscription Calendar Events are not returned by REPORT dav request",
+      "name": "[JET AI] Onboard حسابگر من — isolated project registration and readiness",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Subscription Calendar Events are not returned by REPORT dav request ### Steps to reproduce 1. Add a new calender from an ical link 2. the dates does not show anymore ### Expected behavior The dates shpoud show, it workded until approx 2 weeks ago. ### Actual behaviour the dates does not show anymore in the webinterface of nextcloud ### Calendar app version 4.6.0 ### CalDAV-clients used davx5 ### Browser firefox, chro",
-      "evidence": "GitHub nextcloud/server — Publié le 2023-12-06 ; collecté le 2026-11-26.",
+      "problem": "[JET AI] Onboard حسابگر من — isolated project registration and readiness ## Target repository - Repository: https://github.com/majidbusy09-blip/hesabgar_man - Immutable GitHub repository ID: `1423683236` - Default branch: `main` - Primary language: Dart; Flutter Android application - Current `pubspec.yaml` version observed read-only: `1.0.9+10` ## Read-only reconnaissance completed The repository tree contains Flutte",
+      "evidence": "GitHub Issues — Publié le 2026-11-25 ; collecté le 2026-11-27.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -20,17 +20,17 @@
       "test": "Lire la source, identifier cinq acheteurs comparables et vérifier le problème avant de coder.",
       "sources": [
         {
-          "label": "GitHub nextcloud/server",
-          "url": "https://github.com/nextcloud/server/issues/42143"
+          "label": "GitHub Issues",
+          "url": "https://github.com/majidbusy09-blip/jetconfig-vpn/issues/105"
         }
       ]
     },
     {
-      "name": "Nvidia board's Huang reversal raises doubts about independence, critics say",
+      "name": "1Password Security Incident",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "Nvidia board's Huang reversal raises doubts about independence, critics say Like I said, shaky but not dirty. Even if these deals didn&#x27;t encourage overbuilding, the correlation between the deals is their problem. They are correlated because they are all with the same type of businesses, AI data centers. A secular downturn or stagnation in the industry affects everyone. They are also correlated the chips would be",
-      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-25.",
+      "problem": "1Password Security Incident &gt; Want to say again: the market pushed hard toward cloud. This is a totally ludicrous assertion, unless by &quot;market&quot; you mean &quot;VCs and shareholders expecting the maximum possible short term ROI&quot;. 1Password has very deliberately worked towards subscription lock-in and actively hindering any other option except via leaving. The market (as-in, customers) did not push the",
+      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-26.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50639256"
+          "url": "https://news.ycombinator.com/item?id=50645721"
         }
       ]
     },
     {
-      "name": "AI People Are Extremely Rich",
+      "name": "Jetty Pro",
       "verdict": "RECHERCHER",
       "buyer": "Acheteur à identifier précisément après revue humaine.",
-      "problem": "AI People Are Extremely Rich I was hired by AOL, with a start date of mid-June 1995. I left AOL in mid-August of 1997. It had just gotten too toxic for me, and I couldn’t stay there any longer. I later calculated that, if I had managed to stay there and sell all my vested shares at peak, I would have had $16M after taxes. But it was a toxic environment, so I couldn’t stay. If I hadn’t delayed my exit from my previous",
-      "evidence": "Hacker News — Publié le 2026-11-25 ; collecté le 2026-11-25.",
+      "problem": "Jetty Pro I really don&#x27;t understand the whole Mac developer culture around shareware apps that require a purchase (only works for 1-2 versions) or a subscription. On Linux its expected that if the software you use somehow doesn&#x27;t support it (it seems KDE Plasma has every possible configuration these days) you can open a PR or find an alternative that someone open sourced and released for free.",
+      "evidence": "Hacker News — Publié le 2026-11-24 ; collecté le 2026-11-26.",
       "payment": "Paiement ou dépense mentionné dans la source ; montant et représentativité à vérifier.",
       "competition": "Concurrents et solution native à rechercher avant tout développement.",
       "improvement": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
@@ -61,17 +61,17 @@
       "sources": [
         {
           "label": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50639015"
+          "url": "https://news.ycombinator.com/item?id=50631597"
         }
       ]
     }
   ],
   "excluded": [],
   "coverage": {
-    "text": "Collecte automatique logiciels-open-source-et-lacunes. 12 nouveau(x) signal(aux) lors du dernier passage.",
+    "text": "Collecte automatique github-et-demandes-fonctionnelles. 11 nouveau(x) signal(aux) lors du dernier passage.",
     "tags": [
       "Web public gratuit",
-      "logiciels-open-source-et-lacunes",
+      "github-et-demandes-fonctionnelles",
       "Sans ChatGPT"
     ]
   }
