@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T22:24:15.366Z",
+  "updatedAt": "2026-11-27T05:06:22.523Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,60 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "854ef6479b6a191704",
+      "firstSeenAt": "2026-11-27T05:06:22.523Z",
+      "lastSeenAt": "2026-11-27T05:06:22.523Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "travail-manuel-recurrent",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://news.ycombinator.com/item?id=50662508",
+      "sourceName": "Hacker News",
+      "observedFact": "Hard Drive pricing has gotten bad In general, people now must make a clear distinction between storage and archiving. HDD above 4TB are now often always shingled writes, and have a shorter service life &lt; 3 years of fly time. Above that, folks should always have a +2 spare on ZFS, and run the bit-rot detection process weekly. For JBOD, the 8TB HDD is still the cheapest $&#x2F;TiB option I found. If you don&#x27;t h",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-11-27 ; collecté le 2026-11-27.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "d433bb631886dee9df",
+      "firstSeenAt": "2026-11-27T05:06:22.523Z",
+      "lastSeenAt": "2026-11-27T05:06:22.523Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "travail-manuel-recurrent",
+      "title": "AI made self-hosting fun again",
+      "url": "https://news.ycombinator.com/item?id=50661522",
+      "sourceName": "Hacker News",
+      "observedFact": "AI made self-hosting fun again &gt; For my VPS infrastructure, I’ve also started building my own Debian-based bootc image (after thinking about it for some time). &gt; I still remember what updating a service used to look like: bumping the version and adjusting the Docker Compose file on my laptop, pushing the changes to the Git remote, SSHing into the server, pulling the changes, and finally deploying them. Now, a s",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-11-27 ; collecté le 2026-11-27.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
+    {
+      "id": "59a6d0bae3b20cb90c",
+      "firstSeenAt": "2026-11-27T05:06:22.523Z",
+      "lastSeenAt": "2026-11-27T05:06:22.523Z",
+      "region": "États-Unis / monde",
+      "language": "anglais",
+      "sourceFamily": "travail-manuel-recurrent",
+      "title": "Static audit of the 17.37M-line Lean 4 Riemann Hypothesis codebase",
+      "url": "https://news.ycombinator.com/item?id=50617178",
+      "sourceName": "Hacker News",
+      "observedFact": "Static audit of the 17.37M-line Lean 4 Riemann Hypothesis codebase Hi HN, I&#x27;m the author. Upfront: this is strictly an empirical software-engineering look at the 17.37M-line Lean 4 Riemann Hypothesis codebase, not a kernel re-check or a math critique (the Lean&#x2F;Mathlib community already verified the proof across independent checkers). Three structural things stood out once we ran static analysis over it: 1. ",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-11-23 ; collecté le 2026-11-27.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "cb35a4afc1d3a98b6c",
       "firstSeenAt": "2026-11-26T22:24:15.366Z",
@@ -3557,60 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "LOW",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "b31f3686aabdf1e6f8",
-      "firstSeenAt": "2026-11-14T14:14:59.502Z",
-      "lastSeenAt": "2026-11-14T14:14:59.502Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://news.ycombinator.com/item?id=50463699",
-      "sourceName": "Hacker News",
-      "observedFact": "Show HN: Yogurt – Free, private, open-source alternative to Granola Love this approach to software. It&#x27;s mindboggling that in light of all the hacks people will still install keyloggers and apps that take screenshots of your desktop and upload them, especially when alternatives exist.",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-11-12 ; collecté le 2026-11-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "bbc8530bcbea617114",
-      "firstSeenAt": "2026-11-14T06:38:39.307Z",
-      "lastSeenAt": "2026-11-14T06:38:39.307Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Big tech is here to let us down",
-      "url": "https://news.ycombinator.com/item?id=50490750",
-      "sourceName": "Hacker News",
-      "observedFact": "Big tech is here to let us down &gt; In the age of AI there&#x27;s ZERO reason for &quot;the global North&quot; to continue using Microsoft. Wean your finance guys off of Excel, somehow. What does AI have to do with it? Are you proposing that we replace Excel for accounting purposes with something vibecoded? That sounds a bit nuts to me. You can pay a bit of money for mature software that will probably not fail to ad",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-11-13 ; collecté le 2026-11-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
-    },
-    {
-      "id": "061b7f03693d61288b",
-      "firstSeenAt": "2026-11-14T06:38:39.307Z",
-      "lastSeenAt": "2026-11-14T06:38:39.307Z",
-      "region": "États-Unis / monde",
-      "language": "anglais",
-      "sourceFamily": "avis-et-alternatives-logicielles",
-      "title": "Big tech is here to let us down",
-      "url": "https://news.ycombinator.com/item?id=50490612",
-      "sourceName": "Hacker News",
-      "observedFact": "Big tech is here to let us down With respect: you&#x27;re a biologist, and your experience with backoffice software requirements is probably the same as my experience with biochemistry: near total ignorance. There are exabytes of documents in Microsoft formats that can be at best &quot;read&quot; with a significant level of data corruption in other products (formatting errors). Writing them back out with shredding th",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2026-11-13 ; collecté le 2026-11-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-26T22:24:15.366Z",
-    "family": "avis-et-alternatives-logicielles",
+    "at": "2026-11-27T05:06:22.523Z",
+    "family": "travail-manuel-recurrent",
     "region": "États-Unis / monde",
-    "newSignals": 12,
+    "newSignals": 3,
     "collectionError": null
   }
 }
