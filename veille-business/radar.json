@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T15:12:59.317Z",
+  "updatedAt": "2026-11-28T07:58:48.667Z",
   "sourceFamilies": [
     "github-et-demandes-fonctionnelles",
     "communautes-us",
@@ -12,6 +12,24 @@
     "avis-et-alternatives-logicielles"
   ],
   "signals": [
+    {
+      "id": "e6345739b287f152ee",
+      "firstSeenAt": "2026-11-28T07:58:48.667Z",
+      "lastSeenAt": "2026-11-28T07:58:48.667Z",
+      "region": "Monde",
+      "language": "anglais",
+      "sourceFamily": "github-et-demandes-fonctionnelles",
+      "title": "[P0][ARCH-12] Keep develop shippable: ratchets, quarantine and a real health verdict",
+      "url": "https://github.com/gmanldn/smoothcast/issues/700",
+      "sourceName": "GitHub Issues",
+      "observedFact": "[P0][ARCH-12] Keep develop shippable: ratchets, quarantine and a real health verdict ## Why this is P0 `ship` currently pushes with failures it classifies as pre-existing (for example `test_complexity_budget`, `test_no_silent_swallow` and `test_audio_delay`). The complexity baseline already fails on develop (`castctl.py` 596 -> 756 lines, `playback_state.py` 189 -> 291), CI is described as deferred, and a version bum",
+      "evidenceType": "MANUAL_WORK",
+      "freshness": "Publié le 2026-11-27 ; collecté le 2026-11-28.",
+      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
+      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
+      "confidence": "LOW",
+      "status": "UNREVIEWED"
+    },
     {
       "id": "fd85bd06fe2beaa36e",
       "firstSeenAt": "2026-11-27T15:12:59.317Z",
@@ -3593,24 +3611,6 @@
       "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
       "confidence": "MEDIUM",
       "status": "UNREVIEWED"
-    },
-    {
-      "id": "6efd2dccaaba8dcb73",
-      "firstSeenAt": "2026-11-14T19:15:32.493Z",
-      "lastSeenAt": "2026-11-14T19:15:32.493Z",
-      "region": "Monde",
-      "language": "anglais",
-      "sourceFamily": "changements-plateformes",
-      "title": "Debugger not binding breakpoints in VSCode in server components, using official Next.js debugger setup",
-      "url": "https://github.com/vercel/next.js/issues/62008",
-      "sourceName": "GitHub vercel/next.js",
-      "observedFact": "Debugger not binding breakpoints in VSCode in server components, using official Next.js debugger setup ### Link to the code that reproduces this issue https://github.com/andrewmartin/nextjs-example ### To Reproduce 1. Open the code in `VSCode` 2. Add a breakpoint in any server side files 3. Open the \"Run and Debug\" panel 4. Select \"Next.js: debug full stack\" and press \"F5\" or the play button 5. Note that breakpoints ",
-      "evidenceType": "PAIN",
-      "freshness": "Publié le 2024-02-13 ; collecté le 2026-11-14.",
-      "buyerHypothesis": "Acheteur à identifier précisément après revue humaine.",
-      "softwareHypothesis": "Possibilité de produit logiciel à qualifier ; aucune opportunité validée à ce stade.",
-      "confidence": "LOW",
-      "status": "UNREVIEWED"
     }
   ],
   "rejected": [
@@ -3631,10 +3631,10 @@
     }
   ],
   "lastRun": {
-    "at": "2026-11-27T15:12:59.317Z",
+    "at": "2026-11-28T07:58:48.667Z",
     "family": "github-et-demandes-fonctionnelles",
     "region": "Monde",
-    "newSignals": 11,
+    "newSignals": 1,
     "collectionError": null
   }
 }
